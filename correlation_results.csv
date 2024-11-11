@@ -1,0 +1,13 @@
+,openai_clip-vit-large-patch14 Corr(KNN),openai_clip-vit-large-patch14 Corr(Text Consistency),openai_clip-vit-large-patch14 Corr(Classification Margin),google_siglip-base-patch16-224 Corr(KNN),google_siglip-base-patch16-224 Corr(Text Consistency),google_siglip-base-patch16-224 Corr(Classification Margin),facebook_flava-full Corr(KNN),facebook_flava-full Corr(Text Consistency),facebook_flava-full Corr(Classification Margin)
+CUB,,,,,,,,,
+Cars,,,,,,,,,
+Aircraft,,,,,,,,,
+Food101,,,,,,,,,
+ImageNetV2,,,,,,,,,
+ObjectNet,,,,,,,,,
+SUN397,0.454,0.467,0.484,0.416,0.317,0.349,0.287,0.356,0.337
+VTAB-CIFAR100,,,,,,,,,
+Flowers,,,,,,,,,
+VTAB-Pets,,,,,,,,,
+VTAB-Resisc45,,,,,,,,,
+Stanford Dogs,,,,,,,,,

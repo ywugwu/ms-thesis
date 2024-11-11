@@ -1,0 +1,6694 @@
+{
+  "Bronzed Cowbird": {
+    "failures": [
+      {
+        "image_index": 1402,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Groove billed Ani",
+          "Red winged Blackbird",
+          "Brewer Blackbird"
+        ],
+        "top5_predicted_probs": [
+          0.005702237598598003,
+          0.00561651261523366,
+          0.005582164973020554,
+          0.005524667911231518,
+          0.005498596932739019
+        ]
+      },
+      {
+        "image_index": 1403,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "American Three toed Woodpecker",
+          "Red winged Blackbird",
+          "White necked Raven"
+        ],
+        "top5_predicted_probs": [
+          0.005507536232471466,
+          0.005441106855869293,
+          0.005413334351032972,
+          0.0054081822745501995,
+          0.005404600407928228
+        ]
+      },
+      {
+        "image_index": 1404,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Groove billed Ani",
+          "White necked Raven",
+          "Fish Crow"
+        ],
+        "top5_predicted_probs": [
+          0.005591214168816805,
+          0.005572333466261625,
+          0.005487198941409588,
+          0.005453342571854591,
+          0.005439355503767729
+        ]
+      },
+      {
+        "image_index": 1405,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Cape Glossy Starling",
+          "Bronzed Cowbird",
+          "Indigo Bunting",
+          "Boat tailed Grackle"
+        ],
+        "top5_predicted_probs": [
+          0.005653177388012409,
+          0.005607981234788895,
+          0.005576537922024727,
+          0.005557430908083916,
+          0.005537671968340874
+        ]
+      },
+      {
+        "image_index": 1406,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Common Raven",
+        "top5_predicted_labels": [
+          "Common Raven",
+          "Fish Crow",
+          "White necked Raven",
+          "Brewer Blackbird",
+          "Shiny Cowbird"
+        ],
+        "top5_predicted_probs": [
+          0.005573599599301815,
+          0.005510016810148954,
+          0.005502263084053993,
+          0.005496280267834663,
+          0.00549456337466836
+        ]
+      },
+      {
+        "image_index": 1407,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Boat tailed Grackle",
+          "Brewer Blackbird",
+          "Groove billed Ani"
+        ],
+        "top5_predicted_probs": [
+          0.005574729759246111,
+          0.0055113243870437145,
+          0.005461515858769417,
+          0.005441898480057716,
+          0.005430562887340784
+        ]
+      },
+      {
+        "image_index": 1408,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Red winged Blackbird",
+          "Rose breasted Grosbeak",
+          "Bronzed Cowbird",
+          "Groove billed Ani"
+        ],
+        "top5_predicted_probs": [
+          0.0055109914392232895,
+          0.005483616143465042,
+          0.005477102939039469,
+          0.005446832161396742,
+          0.005371347069740295
+        ]
+      },
+      {
+        "image_index": 1409,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Boat tailed Grackle",
+          "Groove billed Ani",
+          "Bronzed Cowbird",
+          "Blue Grosbeak"
+        ],
+        "top5_predicted_probs": [
+          0.0055583384819328785,
+          0.005531276110559702,
+          0.005493636708706617,
+          0.00548730231821537,
+          0.00540161645039916
+        ]
+      },
+      {
+        "image_index": 1410,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Boat tailed Grackle",
+          "Bronzed Cowbird",
+          "Brewer Blackbird",
+          "Fish Crow"
+        ],
+        "top5_predicted_probs": [
+          0.005457742139697075,
+          0.005399765446782112,
+          0.005395090207457542,
+          0.005353603512048721,
+          0.005342690274119377
+        ]
+      },
+      {
+        "image_index": 1411,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Boat tailed Grackle",
+          "Fish Crow",
+          "Brewer Blackbird"
+        ],
+        "top5_predicted_probs": [
+          0.005666103679686785,
+          0.005611266940832138,
+          0.005600328557193279,
+          0.005556751973927021,
+          0.005555052775889635
+        ]
+      },
+      {
+        "image_index": 1412,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Boat tailed Grackle",
+        "top5_predicted_labels": [
+          "Boat tailed Grackle",
+          "Shiny Cowbird",
+          "Fish Crow",
+          "Groove billed Ani",
+          "Bronzed Cowbird"
+        ],
+        "top5_predicted_probs": [
+          0.005537666380405426,
+          0.005507736001163721,
+          0.005479851737618446,
+          0.005471881479024887,
+          0.005464049521833658
+        ]
+      },
+      {
+        "image_index": 1413,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Red winged Blackbird",
+        "top5_predicted_labels": [
+          "Red winged Blackbird",
+          "Shiny Cowbird",
+          "Brewer Blackbird",
+          "Yellow headed Blackbird",
+          "Bobolink"
+        ],
+        "top5_predicted_probs": [
+          0.005532809533178806,
+          0.005487269721925259,
+          0.005458333063870668,
+          0.00540814409032464,
+          0.005392353516072035
+        ]
+      },
+      {
+        "image_index": 1414,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Red winged Blackbird",
+          "Brewer Blackbird",
+          "Bronzed Cowbird",
+          "Boat tailed Grackle"
+        ],
+        "top5_predicted_probs": [
+          0.005622011609375477,
+          0.00560388620942831,
+          0.005550541914999485,
+          0.005483852233737707,
+          0.0054613384418189526
+        ]
+      },
+      {
+        "image_index": 1415,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Brewer Blackbird",
+          "Boat tailed Grackle",
+          "Fish Crow"
+        ],
+        "top5_predicted_probs": [
+          0.0058105457574129105,
+          0.005699160508811474,
+          0.005670711398124695,
+          0.005608789157122374,
+          0.0055432189255952835
+        ]
+      },
+      {
+        "image_index": 1416,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Groove billed Ani",
+          "Fish Crow",
+          "Boat tailed Grackle"
+        ],
+        "top5_predicted_probs": [
+          0.005530403461307287,
+          0.005527994129806757,
+          0.005503472872078419,
+          0.005500090774148703,
+          0.005474613048136234
+        ]
+      },
+      {
+        "image_index": 1417,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Spotted Catbird",
+          "Boat tailed Grackle",
+          "Groove billed Ani"
+        ],
+        "top5_predicted_probs": [
+          0.005534820258617401,
+          0.005483513697981834,
+          0.0054452200420200825,
+          0.005438184831291437,
+          0.005416125059127808
+        ]
+      },
+      {
+        "image_index": 1418,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Boat tailed Grackle",
+        "top5_predicted_labels": [
+          "Boat tailed Grackle",
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Cape Glossy Starling",
+          "Brewer Blackbird"
+        ],
+        "top5_predicted_probs": [
+          0.005859128199517727,
+          0.005746729671955109,
+          0.005674691405147314,
+          0.0055474527180194855,
+          0.005538111552596092
+        ]
+      },
+      {
+        "image_index": 1419,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Boat tailed Grackle",
+          "Cape Glossy Starling",
+          "Brewer Blackbird"
+        ],
+        "top5_predicted_probs": [
+          0.0057429042644798756,
+          0.005653471685945988,
+          0.005595204420387745,
+          0.005504440050572157,
+          0.005479121580719948
+        ]
+      },
+      {
+        "image_index": 1420,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Groove billed Ani",
+          "Bronzed Cowbird",
+          "White necked Raven",
+          "Fish Crow"
+        ],
+        "top5_predicted_probs": [
+          0.0055670347064733505,
+          0.0055425516329705715,
+          0.00551036698743701,
+          0.005476146470755339,
+          0.00546839227899909
+        ]
+      },
+      {
+        "image_index": 1421,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Groove billed Ani",
+          "Bronzed Cowbird",
+          "Brewer Blackbird",
+          "Spotted Catbird"
+        ],
+        "top5_predicted_probs": [
+          0.005613017827272415,
+          0.005562972743064165,
+          0.005510538350790739,
+          0.005504895467311144,
+          0.005462381523102522
+        ]
+      },
+      {
+        "image_index": 1422,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Groove billed Ani",
+          "Fish Crow",
+          "Boat tailed Grackle"
+        ],
+        "top5_predicted_probs": [
+          0.00573527067899704,
+          0.005648617632687092,
+          0.005616453010588884,
+          0.00560567993670702,
+          0.005575691815465689
+        ]
+      },
+      {
+        "image_index": 1423,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Boat tailed Grackle",
+          "Brewer Blackbird",
+          "Fish Crow"
+        ],
+        "top5_predicted_probs": [
+          0.005837372969835997,
+          0.005719518288969994,
+          0.005641310475766659,
+          0.00560783501714468,
+          0.0055956244468688965
+        ]
+      },
+      {
+        "image_index": 1424,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Brewer Blackbird",
+          "Boat tailed Grackle",
+          "Fish Crow"
+        ],
+        "top5_predicted_probs": [
+          0.0056772660464048386,
+          0.005564081482589245,
+          0.005527900997549295,
+          0.005521520972251892,
+          0.005484992638230324
+        ]
+      },
+      {
+        "image_index": 1425,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Boat tailed Grackle",
+          "Cape Glossy Starling",
+          "Brewer Blackbird"
+        ],
+        "top5_predicted_probs": [
+          0.005674038548022509,
+          0.005604298785328865,
+          0.0055915978737175465,
+          0.00555010698735714,
+          0.0054949321784079075
+        ]
+      },
+      {
+        "image_index": 1426,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Rock Wren",
+        "top5_predicted_labels": [
+          "Rock Wren",
+          "Gray Catbird",
+          "Sage Thrasher",
+          "Spotted Catbird",
+          "Shiny Cowbird"
+        ],
+        "top5_predicted_probs": [
+          0.005467294715344906,
+          0.0053841653279960155,
+          0.005372902378439903,
+          0.00535409152507782,
+          0.005340022500604391
+        ]
+      },
+      {
+        "image_index": 1427,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Rose breasted Grosbeak",
+        "top5_predicted_labels": [
+          "Rose breasted Grosbeak",
+          "Shiny Cowbird",
+          "Boat tailed Grackle",
+          "Groove billed Ani",
+          "Bay breasted Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005450190510600805,
+          0.005437773186713457,
+          0.005405901465564966,
+          0.005403229035437107,
+          0.005369637161493301
+        ]
+      },
+      {
+        "image_index": 1428,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Least Auklet",
+        "top5_predicted_labels": [
+          "Least Auklet",
+          "Crested Auklet",
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Rhinoceros Auklet"
+        ],
+        "top5_predicted_probs": [
+          0.0054381657391786575,
+          0.005426759831607342,
+          0.005425894632935524,
+          0.005405462812632322,
+          0.00539745157584548
+        ]
+      },
+      {
+        "image_index": 1429,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Boat tailed Grackle",
+          "Bronzed Cowbird",
+          "Fish Crow",
+          "Red winged Blackbird"
+        ],
+        "top5_predicted_probs": [
+          0.005487864371389151,
+          0.0054616667330265045,
+          0.005453390534967184,
+          0.005450128111988306,
+          0.005428439937531948
+        ]
+      },
+      {
+        "image_index": 1430,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Red winged Blackbird",
+          "Bronzed Cowbird",
+          "Fish Crow",
+          "Rock Wren"
+        ],
+        "top5_predicted_probs": [
+          0.005574630107730627,
+          0.005509084556251764,
+          0.005498579703271389,
+          0.0054529872722923756,
+          0.005432113539427519
+        ]
+      },
+      {
+        "image_index": 1431,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Cape Glossy Starling",
+          "Boat tailed Grackle",
+          "Bronzed Cowbird",
+          "Blue Grosbeak"
+        ],
+        "top5_predicted_probs": [
+          0.005664530210196972,
+          0.005632967222481966,
+          0.005579147953540087,
+          0.005571433808654547,
+          0.005485067144036293
+        ]
+      },
+      {
+        "image_index": 1432,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Brewer Blackbird",
+          "Boat tailed Grackle",
+          "Bronzed Cowbird",
+          "Groove billed Ani"
+        ],
+        "top5_predicted_probs": [
+          0.00561092933639884,
+          0.005529450252652168,
+          0.005517018958926201,
+          0.005494875833392143,
+          0.005468412302434444
+        ]
+      },
+      {
+        "image_index": 1433,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Boat tailed Grackle",
+          "Bronzed Cowbird",
+          "Brewer Blackbird",
+          "Groove billed Ani"
+        ],
+        "top5_predicted_probs": [
+          0.005726734176278114,
+          0.0056783901527523994,
+          0.005640198476612568,
+          0.005639185663312674,
+          0.005581587553024292
+        ]
+      },
+      {
+        "image_index": 1434,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Boat tailed Grackle",
+        "top5_predicted_labels": [
+          "Boat tailed Grackle",
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Brewer Blackbird",
+          "Fish Crow"
+        ],
+        "top5_predicted_probs": [
+          0.005591710563749075,
+          0.0055757369846105576,
+          0.0055343983694911,
+          0.005482514388859272,
+          0.0054320418275892735
+        ]
+      },
+      {
+        "image_index": 1435,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Fish Crow",
+        "top5_predicted_labels": [
+          "Fish Crow",
+          "Shiny Cowbird",
+          "Groove billed Ani",
+          "Common Raven",
+          "Bronzed Cowbird"
+        ],
+        "top5_predicted_probs": [
+          0.005556334741413593,
+          0.005526822991669178,
+          0.0055174631997942924,
+          0.005512288771569729,
+          0.005505427718162537
+        ]
+      },
+      {
+        "image_index": 1436,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Boat tailed Grackle",
+          "Bronzed Cowbird",
+          "Green Violetear",
+          "Cape Glossy Starling"
+        ],
+        "top5_predicted_probs": [
+          0.005585605278611183,
+          0.005580506753176451,
+          0.005560209043323994,
+          0.005481235682964325,
+          0.005477945785969496
+        ]
+      },
+      {
+        "image_index": 1437,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Fish Crow",
+          "Groove billed Ani",
+          "American Crow"
+        ],
+        "top5_predicted_probs": [
+          0.005556105636060238,
+          0.005510835442692041,
+          0.005507229827344418,
+          0.005501030012965202,
+          0.005482191685587168
+        ]
+      },
+      {
+        "image_index": 1438,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Boat tailed Grackle",
+        "top5_predicted_labels": [
+          "Boat tailed Grackle",
+          "Fish Crow",
+          "Shiny Cowbird",
+          "Brewer Blackbird",
+          "Bronzed Cowbird"
+        ],
+        "top5_predicted_probs": [
+          0.005584388505667448,
+          0.005571768153458834,
+          0.005550968460738659,
+          0.005546311382204294,
+          0.005519864149391651
+        ]
+      },
+      {
+        "image_index": 1439,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Least Auklet",
+          "Brewer Blackbird",
+          "Fish Crow",
+          "Rock Wren"
+        ],
+        "top5_predicted_probs": [
+          0.005477498285472393,
+          0.005476186517626047,
+          0.005440529435873032,
+          0.005427817814052105,
+          0.005426774267107248
+        ]
+      },
+      {
+        "image_index": 1440,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Olive sided Flycatcher",
+          "Yellow breasted Chat",
+          "Boat tailed Grackle"
+        ],
+        "top5_predicted_probs": [
+          0.005421954207122326,
+          0.005375349428504705,
+          0.005338144022971392,
+          0.005336195696145296,
+          0.0053213355131447315
+        ]
+      },
+      {
+        "image_index": 1441,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Boat tailed Grackle",
+          "Brewer Blackbird",
+          "Red winged Blackbird"
+        ],
+        "top5_predicted_probs": [
+          0.0056417579762637615,
+          0.005535534583032131,
+          0.005531192757189274,
+          0.005522218998521566,
+          0.005478884559124708
+        ]
+      },
+      {
+        "image_index": 1442,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Boat tailed Grackle",
+          "Groove billed Ani",
+          "Blue Grosbeak"
+        ],
+        "top5_predicted_probs": [
+          0.005670619197189808,
+          0.005589974578469992,
+          0.005531287752091885,
+          0.005528493784368038,
+          0.005515659227967262
+        ]
+      },
+      {
+        "image_index": 1443,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Gray Catbird",
+        "top5_predicted_labels": [
+          "Gray Catbird",
+          "Bronzed Cowbird",
+          "Shiny Cowbird",
+          "Spotted Catbird",
+          "Groove billed Ani"
+        ],
+        "top5_predicted_probs": [
+          0.005520117003470659,
+          0.0054113492369651794,
+          0.005411045625805855,
+          0.005397766828536987,
+          0.005351581610739231
+        ]
+      },
+      {
+        "image_index": 1444,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Groove billed Ani",
+          "Bronzed Cowbird",
+          "Boat tailed Grackle",
+          "Fish Crow"
+        ],
+        "top5_predicted_probs": [
+          0.005523883271962404,
+          0.005487153306603432,
+          0.005466245114803314,
+          0.00544698303565383,
+          0.005430714692920446
+        ]
+      },
+      {
+        "image_index": 1445,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Groove billed Ani",
+        "top5_predicted_labels": [
+          "Groove billed Ani",
+          "Common Raven",
+          "White necked Raven",
+          "American Crow",
+          "Fish Crow"
+        ],
+        "top5_predicted_probs": [
+          0.0056341891176998615,
+          0.005621053744107485,
+          0.005600324831902981,
+          0.005546236876398325,
+          0.005543166771531105
+        ]
+      },
+      {
+        "image_index": 1446,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Fish Crow",
+          "Groove billed Ani",
+          "Brewer Blackbird"
+        ],
+        "top5_predicted_probs": [
+          0.005683337338268757,
+          0.005607580300420523,
+          0.005531764589250088,
+          0.005506713874638081,
+          0.005498316138982773
+        ]
+      },
+      {
+        "image_index": 1447,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Gray Catbird",
+        "top5_predicted_labels": [
+          "Gray Catbird",
+          "Spotted Catbird",
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Green tailed Towhee"
+        ],
+        "top5_predicted_probs": [
+          0.005576267372816801,
+          0.005495103076100349,
+          0.005493275821208954,
+          0.005478108301758766,
+          0.005396564025431871
+        ]
+      },
+      {
+        "image_index": 1448,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Boat tailed Grackle",
+        "top5_predicted_labels": [
+          "Boat tailed Grackle",
+          "Bronzed Cowbird",
+          "Shiny Cowbird",
+          "Rusty Blackbird",
+          "Brewer Blackbird"
+        ],
+        "top5_predicted_probs": [
+          0.00558151351287961,
+          0.005544885061681271,
+          0.00552527466788888,
+          0.005484305787831545,
+          0.005442453548312187
+        ]
+      },
+      {
+        "image_index": 1449,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Boat tailed Grackle",
+          "Brewer Blackbird",
+          "Groove billed Ani"
+        ],
+        "top5_predicted_probs": [
+          0.0056748525239527225,
+          0.00561119569465518,
+          0.005550263449549675,
+          0.0055380333214998245,
+          0.0054631768725812435
+        ]
+      },
+      {
+        "image_index": 1450,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Groove billed Ani",
+          "Fish Crow",
+          "Boat tailed Grackle"
+        ],
+        "top5_predicted_probs": [
+          0.005736354272812605,
+          0.005643913988023996,
+          0.005618926603347063,
+          0.0056049395352602005,
+          0.0055755008943378925
+        ]
+      },
+      {
+        "image_index": 1451,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Fish Crow",
+          "Brewer Blackbird",
+          "Boat tailed Grackle"
+        ],
+        "top5_predicted_probs": [
+          0.005680058151483536,
+          0.005623762495815754,
+          0.005525914020836353,
+          0.0055181654170155525,
+          0.005515709053725004
+        ]
+      },
+      {
+        "image_index": 1452,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Boat tailed Grackle",
+        "top5_predicted_labels": [
+          "Boat tailed Grackle",
+          "Cape Glossy Starling",
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Brewer Blackbird"
+        ],
+        "top5_predicted_probs": [
+          0.005575294606387615,
+          0.00557249691337347,
+          0.005555444397032261,
+          0.0054794009774923325,
+          0.005463160574436188
+        ]
+      },
+      {
+        "image_index": 1453,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Boat tailed Grackle",
+        "top5_predicted_labels": [
+          "Boat tailed Grackle",
+          "Fish Crow",
+          "Bronzed Cowbird",
+          "Shiny Cowbird",
+          "Groove billed Ani"
+        ],
+        "top5_predicted_probs": [
+          0.005520332138985395,
+          0.0054697077721357346,
+          0.00544311199337244,
+          0.005442689172923565,
+          0.0054268199019134045
+        ]
+      },
+      {
+        "image_index": 1454,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Groove billed Ani",
+          "Bronzed Cowbird",
+          "Red winged Blackbird",
+          "Brewer Blackbird"
+        ],
+        "top5_predicted_probs": [
+          0.005523661617189646,
+          0.005486076232045889,
+          0.005465570837259293,
+          0.005461948923766613,
+          0.005460679996758699
+        ]
+      },
+      {
+        "image_index": 1455,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Spotted Catbird",
+          "Groove billed Ani",
+          "Fish Crow"
+        ],
+        "top5_predicted_probs": [
+          0.005623320117592812,
+          0.005554497241973877,
+          0.005533628631383181,
+          0.005531153175979853,
+          0.005518188234418631
+        ]
+      },
+      {
+        "image_index": 1456,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Groove billed Ani",
+        "top5_predicted_labels": [
+          "Groove billed Ani",
+          "Shiny Cowbird",
+          "Fish Crow",
+          "Red winged Blackbird",
+          "Brewer Blackbird"
+        ],
+        "top5_predicted_probs": [
+          0.005463714711368084,
+          0.005445798393338919,
+          0.0054453411139547825,
+          0.0054047429002821445,
+          0.005377550143748522
+        ]
+      },
+      {
+        "image_index": 1457,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Groove billed Ani",
+          "Brewer Blackbird",
+          "Boat tailed Grackle"
+        ],
+        "top5_predicted_probs": [
+          0.005696103908121586,
+          0.005641087889671326,
+          0.0056222411803901196,
+          0.005568225402384996,
+          0.0055561247281730175
+        ]
+      },
+      {
+        "image_index": 1458,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Boat tailed Grackle",
+          "Bronzed Cowbird",
+          "Gray Catbird",
+          "Fish Crow"
+        ],
+        "top5_predicted_probs": [
+          0.005577396135777235,
+          0.0055689685977995396,
+          0.005498100072145462,
+          0.0054945205338299274,
+          0.005474859848618507
+        ]
+      },
+      {
+        "image_index": 1459,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Groove billed Ani",
+          "Spotted Catbird",
+          "Fish Crow"
+        ],
+        "top5_predicted_probs": [
+          0.005609195679426193,
+          0.005568861961364746,
+          0.005564225371927023,
+          0.00547206774353981,
+          0.005455364473164082
+        ]
+      },
+      {
+        "image_index": 1460,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Boat tailed Grackle",
+          "Fish Crow",
+          "Brewer Blackbird"
+        ],
+        "top5_predicted_probs": [
+          0.005700002424418926,
+          0.0055852169170975685,
+          0.005552923306822777,
+          0.005539335776120424,
+          0.0055100154131650925
+        ]
+      },
+      {
+        "image_index": 1461,
+        "true_label": "Bronzed Cowbird",
+        "predicted_label": "Shiny Cowbird",
+        "top5_predicted_labels": [
+          "Shiny Cowbird",
+          "Bronzed Cowbird",
+          "Fish Crow",
+          "Boat tailed Grackle",
+          "Groove billed Ani"
+        ],
+        "top5_predicted_probs": [
+          0.0057016583159565926,
+          0.0056762793101370335,
+          0.005626152269542217,
+          0.005603013560175896,
+          0.005601322278380394
+        ]
+      }
+    ],
+    "avg_prob_distribution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0027539312917118273,
+      9.044599719345569e-05,
+      0.0001819058709467451,
+      0.0,
+      8.995752626409134e-05,
+      0.002661910420283675,
+      0.0009139377158135176,
+      9.140509646385909e-05,
+      9.0135734838744e-05,
+      8.987255860120058e-05,
+      9.262384846806527e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0006360043228293458,
+      0.0003662511706352234,
+      8.893659493575493e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.004894952724377314,
+      0.005494697586012383,
+      0.0,
+      0.0001838071426997582,
+      0.0027515070357670385,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      8.89690670495232e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.003511079625847439,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0002733723803733786,
+      0.0,
+      0.0,
+      0.00018212155749400456,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      9.135392804940542e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0002784490352496505,
+      0.0004572779561082522,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0006482231818760435,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      8.994273375719785e-05,
+      0.0,
+      8.954837297399838e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      8.949395269155502e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      9.022223918388287e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0002721030420313279,
+      0.0,
+      0.0
+    ]
+  },
+  "Geococcyx": {
+    "failures": [
+      {
+        "image_index": 6382,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Spotted Catbird",
+          "Louisiana Waterthrush",
+          "American Three toed Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005368854384869337,
+          0.005307663697749376,
+          0.0052877748385071754,
+          0.005285830236971378,
+          0.005274697672575712
+        ]
+      },
+      {
+        "image_index": 6383,
+        "true_label": "Geococcyx",
+        "predicted_label": "Cactus Wren",
+        "top5_predicted_labels": [
+          "Cactus Wren",
+          "Sage Thrasher",
+          "Brown Thrasher",
+          "Rock Wren",
+          "American Pipit"
+        ],
+        "top5_predicted_probs": [
+          0.00554180983453989,
+          0.005510482471436262,
+          0.005475911777466536,
+          0.0054471357725560665,
+          0.005370804108679295
+        ]
+      },
+      {
+        "image_index": 6384,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Rock Wren",
+          "American Pipit",
+          "Brown Thrasher"
+        ],
+        "top5_predicted_probs": [
+          0.005517668556421995,
+          0.005453765392303467,
+          0.0053816442377865314,
+          0.00533429766073823,
+          0.005328518804162741
+        ]
+      },
+      {
+        "image_index": 6385,
+        "true_label": "Geococcyx",
+        "predicted_label": "Rock Wren",
+        "top5_predicted_labels": [
+          "Rock Wren",
+          "Cactus Wren",
+          "Sage Thrasher",
+          "Louisiana Waterthrush",
+          "Brown Creeper"
+        ],
+        "top5_predicted_probs": [
+          0.005579343996942043,
+          0.005554760340601206,
+          0.005535021889954805,
+          0.005434969440102577,
+          0.005423623137176037
+        ]
+      },
+      {
+        "image_index": 6386,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Brown Thrasher",
+          "Louisiana Waterthrush",
+          "Northern Waterthrush",
+          "American Pipit"
+        ],
+        "top5_predicted_probs": [
+          0.00556676322594285,
+          0.005550882313400507,
+          0.00546877970919013,
+          0.005453889723867178,
+          0.005430382210761309
+        ]
+      },
+      {
+        "image_index": 6387,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "American Pipit",
+          "Mockingbird",
+          "Cactus Wren",
+          "Least Tern"
+        ],
+        "top5_predicted_probs": [
+          0.005565738305449486,
+          0.0054683019407093525,
+          0.005430412478744984,
+          0.00536362873390317,
+          0.005355063825845718
+        ]
+      },
+      {
+        "image_index": 6388,
+        "true_label": "Geococcyx",
+        "predicted_label": "Cactus Wren",
+        "top5_predicted_labels": [
+          "Cactus Wren",
+          "Brown Creeper",
+          "Sage Thrasher",
+          "American Three toed Woodpecker",
+          "Brown Thrasher"
+        ],
+        "top5_predicted_probs": [
+          0.005524886306375265,
+          0.005483614280819893,
+          0.005472260992974043,
+          0.005466336850076914,
+          0.005452755372971296
+        ]
+      },
+      {
+        "image_index": 6389,
+        "true_label": "Geococcyx",
+        "predicted_label": "Spotted Catbird",
+        "top5_predicted_labels": [
+          "Spotted Catbird",
+          "Louisiana Waterthrush",
+          "Rock Wren",
+          "Cactus Wren",
+          "Boat tailed Grackle"
+        ],
+        "top5_predicted_probs": [
+          0.00540660647675395,
+          0.0053762770257890224,
+          0.005321849137544632,
+          0.005321265663951635,
+          0.0053143794648349285
+        ]
+      },
+      {
+        "image_index": 6390,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Rock Wren",
+          "American Pipit",
+          "Horned Lark"
+        ],
+        "top5_predicted_probs": [
+          0.00551569601520896,
+          0.005468318704515696,
+          0.00540175149217248,
+          0.005373673979192972,
+          0.005369311664253473
+        ]
+      },
+      {
+        "image_index": 6391,
+        "true_label": "Geococcyx",
+        "predicted_label": "Western Meadowlark",
+        "top5_predicted_labels": [
+          "Western Meadowlark",
+          "Yellow breasted Chat",
+          "Brown Thrasher",
+          "Boat tailed Grackle",
+          "Red cockaded Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.0053940340876579285,
+          0.0053238580003380775,
+          0.005311707500368357,
+          0.005269136279821396,
+          0.005243312567472458
+        ]
+      },
+      {
+        "image_index": 6392,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Brown Thrasher",
+          "Cactus Wren",
+          "Savannah Sparrow",
+          "Mockingbird"
+        ],
+        "top5_predicted_probs": [
+          0.005568036809563637,
+          0.0054824333637952805,
+          0.005460739601403475,
+          0.0054450263269245625,
+          0.005432558245956898
+        ]
+      },
+      {
+        "image_index": 6393,
+        "true_label": "Geococcyx",
+        "predicted_label": "Rock Wren",
+        "top5_predicted_labels": [
+          "Rock Wren",
+          "Louisiana Waterthrush",
+          "Cactus Wren",
+          "Spotted Catbird",
+          "Chuck will Widow"
+        ],
+        "top5_predicted_probs": [
+          0.005411253776401281,
+          0.005397895351052284,
+          0.005363550502806902,
+          0.005348183214664459,
+          0.005339730065315962
+        ]
+      },
+      {
+        "image_index": 6394,
+        "true_label": "Geococcyx",
+        "predicted_label": "American Pipit",
+        "top5_predicted_labels": [
+          "American Pipit",
+          "Western Meadowlark",
+          "Sage Thrasher",
+          "Horned Lark",
+          "Grasshopper Sparrow"
+        ],
+        "top5_predicted_probs": [
+          0.005537084303796291,
+          0.005485762841999531,
+          0.005472918041050434,
+          0.005414322949945927,
+          0.005409043747931719
+        ]
+      },
+      {
+        "image_index": 6395,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Western Meadowlark",
+          "American Pipit",
+          "Cactus Wren",
+          "Horned Lark"
+        ],
+        "top5_predicted_probs": [
+          0.005656791850924492,
+          0.005517086014151573,
+          0.005508121568709612,
+          0.0054514044895768166,
+          0.005433292593806982
+        ]
+      },
+      {
+        "image_index": 6396,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "American Pipit",
+          "Brown Thrasher",
+          "Western Meadowlark",
+          "Geococcyx"
+        ],
+        "top5_predicted_probs": [
+          0.005604845937341452,
+          0.005463647190481424,
+          0.0054263826459646225,
+          0.005422751884907484,
+          0.0053735580295324326
+        ]
+      },
+      {
+        "image_index": 6397,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Brown Thrasher",
+          "Louisiana Waterthrush",
+          "Rock Wren"
+        ],
+        "top5_predicted_probs": [
+          0.005700957961380482,
+          0.005643089767545462,
+          0.005533434450626373,
+          0.0054357461631298065,
+          0.005434421822428703
+        ]
+      },
+      {
+        "image_index": 6398,
+        "true_label": "Geococcyx",
+        "predicted_label": "Western Meadowlark",
+        "top5_predicted_labels": [
+          "Western Meadowlark",
+          "Sage Thrasher",
+          "American Pipit",
+          "Savannah Sparrow",
+          "Grasshopper Sparrow"
+        ],
+        "top5_predicted_probs": [
+          0.005507824011147022,
+          0.005471076816320419,
+          0.005466199945658445,
+          0.005438659805804491,
+          0.005407550372183323
+        ]
+      },
+      {
+        "image_index": 6399,
+        "true_label": "Geococcyx",
+        "predicted_label": "Cactus Wren",
+        "top5_predicted_labels": [
+          "Cactus Wren",
+          "Western Meadowlark",
+          "Sage Thrasher",
+          "American Three toed Woodpecker",
+          "Rock Wren"
+        ],
+        "top5_predicted_probs": [
+          0.00555547745898366,
+          0.005444103851914406,
+          0.0054349955171346664,
+          0.0053991167806088924,
+          0.005330089014023542
+        ]
+      },
+      {
+        "image_index": 6400,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Rock Wren",
+          "Cactus Wren",
+          "American Pipit",
+          "Mockingbird"
+        ],
+        "top5_predicted_probs": [
+          0.005503345280885696,
+          0.005463482346385717,
+          0.005347758065909147,
+          0.005337539128959179,
+          0.005334403831511736
+        ]
+      },
+      {
+        "image_index": 6401,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Seaside Sparrow",
+          "Rock Wren",
+          "American Pipit"
+        ],
+        "top5_predicted_probs": [
+          0.005533244460821152,
+          0.005478592123836279,
+          0.005432468838989735,
+          0.005416029132902622,
+          0.005342635791748762
+        ]
+      },
+      {
+        "image_index": 6402,
+        "true_label": "Geococcyx",
+        "predicted_label": "Cactus Wren",
+        "top5_predicted_labels": [
+          "Cactus Wren",
+          "American Three toed Woodpecker",
+          "Sage Thrasher",
+          "Western Meadowlark",
+          "Shiny Cowbird"
+        ],
+        "top5_predicted_probs": [
+          0.0055503542535007,
+          0.005444444250315428,
+          0.005437597166746855,
+          0.005354919470846653,
+          0.005349585320800543
+        ]
+      },
+      {
+        "image_index": 6403,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Western Meadowlark",
+          "Brown Thrasher",
+          "Mockingbird"
+        ],
+        "top5_predicted_probs": [
+          0.005594284739345312,
+          0.0054496587254107,
+          0.005420160945504904,
+          0.005410820245742798,
+          0.005369773134589195
+        ]
+      },
+      {
+        "image_index": 6404,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Savannah Sparrow",
+          "Western Meadowlark",
+          "American Pipit",
+          "Brown Thrasher"
+        ],
+        "top5_predicted_probs": [
+          0.005573677364736795,
+          0.0055184816010296345,
+          0.005493137054145336,
+          0.005480300169438124,
+          0.005473962519317865
+        ]
+      },
+      {
+        "image_index": 6405,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Northern Flicker",
+          "Cactus Wren",
+          "Western Meadowlark",
+          "Brown Thrasher"
+        ],
+        "top5_predicted_probs": [
+          0.005516270641237497,
+          0.005406952928751707,
+          0.0053787557408213615,
+          0.005359054077416658,
+          0.00535405520349741
+        ]
+      },
+      {
+        "image_index": 6406,
+        "true_label": "Geococcyx",
+        "predicted_label": "Western Meadowlark",
+        "top5_predicted_labels": [
+          "Western Meadowlark",
+          "Sage Thrasher",
+          "Geococcyx",
+          "Savannah Sparrow",
+          "Chuck will Widow"
+        ],
+        "top5_predicted_probs": [
+          0.005448308307677507,
+          0.00535817164927721,
+          0.005283096339553595,
+          0.005279804579913616,
+          0.005277051590383053
+        ]
+      },
+      {
+        "image_index": 6407,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Northern Waterthrush",
+          "Rock Wren",
+          "Louisiana Waterthrush"
+        ],
+        "top5_predicted_probs": [
+          0.00560222752392292,
+          0.005454842932522297,
+          0.005454471800476313,
+          0.005452713463455439,
+          0.005436780862510204
+        ]
+      },
+      {
+        "image_index": 6408,
+        "true_label": "Geococcyx",
+        "predicted_label": "Cactus Wren",
+        "top5_predicted_labels": [
+          "Cactus Wren",
+          "Sage Thrasher",
+          "Northern Flicker",
+          "Brown Thrasher",
+          "Western Meadowlark"
+        ],
+        "top5_predicted_probs": [
+          0.005443978123366833,
+          0.005433693062514067,
+          0.005347470287233591,
+          0.005301308818161488,
+          0.005298624746501446
+        ]
+      },
+      {
+        "image_index": 6409,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Rock Wren",
+          "Cactus Wren",
+          "Louisiana Waterthrush",
+          "Northern Waterthrush"
+        ],
+        "top5_predicted_probs": [
+          0.00559707498177886,
+          0.005565437953919172,
+          0.0055328900925815105,
+          0.005481897387653589,
+          0.005414104089140892
+        ]
+      },
+      {
+        "image_index": 6410,
+        "true_label": "Geococcyx",
+        "predicted_label": "Cactus Wren",
+        "top5_predicted_labels": [
+          "Cactus Wren",
+          "Rock Wren",
+          "Sage Thrasher",
+          "American Pipit",
+          "Western Meadowlark"
+        ],
+        "top5_predicted_probs": [
+          0.005579173099249601,
+          0.0054738628678023815,
+          0.005468024872243404,
+          0.005348400212824345,
+          0.005343431606888771
+        ]
+      },
+      {
+        "image_index": 6411,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "American Pipit",
+          "Western Meadowlark",
+          "Brown Thrasher",
+          "Northern Waterthrush"
+        ],
+        "top5_predicted_probs": [
+          0.0056062424555420876,
+          0.005443928763270378,
+          0.005427573341876268,
+          0.005411365069448948,
+          0.005328458733856678
+        ]
+      },
+      {
+        "image_index": 6412,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Brown Thrasher",
+          "Western Meadowlark",
+          "Rock Wren"
+        ],
+        "top5_predicted_probs": [
+          0.00563308410346508,
+          0.005585495848208666,
+          0.005426712334156036,
+          0.005418314132839441,
+          0.0053889392875134945
+        ]
+      },
+      {
+        "image_index": 6413,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Western Meadowlark",
+          "Cactus Wren",
+          "Rock Wren",
+          "Yellow breasted Chat"
+        ],
+        "top5_predicted_probs": [
+          0.005467814859002829,
+          0.005437052343040705,
+          0.0054231141693890095,
+          0.005398594308644533,
+          0.005323205608874559
+        ]
+      },
+      {
+        "image_index": 6414,
+        "true_label": "Geococcyx",
+        "predicted_label": "Western Meadowlark",
+        "top5_predicted_labels": [
+          "Western Meadowlark",
+          "Sage Thrasher",
+          "American Pipit",
+          "Savannah Sparrow",
+          "Henslow Sparrow"
+        ],
+        "top5_predicted_probs": [
+          0.005666626151651144,
+          0.0056330617517232895,
+          0.005592057015746832,
+          0.005543523468077183,
+          0.005451755598187447
+        ]
+      },
+      {
+        "image_index": 6415,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "American Pipit",
+          "Brown Thrasher",
+          "Shiny Cowbird"
+        ],
+        "top5_predicted_probs": [
+          0.005564514081925154,
+          0.005444294773042202,
+          0.005381751339882612,
+          0.005380148068070412,
+          0.005342903546988964
+        ]
+      },
+      {
+        "image_index": 6416,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "American Pipit",
+          "Western Meadowlark",
+          "Cactus Wren",
+          "Rock Wren"
+        ],
+        "top5_predicted_probs": [
+          0.005635622888803482,
+          0.0055085415951907635,
+          0.005495017394423485,
+          0.0054856473580002785,
+          0.005403206683695316
+        ]
+      },
+      {
+        "image_index": 6417,
+        "true_label": "Geococcyx",
+        "predicted_label": "Rock Wren",
+        "top5_predicted_labels": [
+          "Rock Wren",
+          "Cactus Wren",
+          "Sage Thrasher",
+          "Horned Lark",
+          "Geococcyx"
+        ],
+        "top5_predicted_probs": [
+          0.0056017800234258175,
+          0.005518301390111446,
+          0.005500492174178362,
+          0.005339466966688633,
+          0.005255542695522308
+        ]
+      },
+      {
+        "image_index": 6418,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Rock Wren",
+          "American Pipit",
+          "Spotted Catbird"
+        ],
+        "top5_predicted_probs": [
+          0.0054840766824781895,
+          0.005449614487588406,
+          0.005424942821264267,
+          0.0053888182155787945,
+          0.005375934299081564
+        ]
+      },
+      {
+        "image_index": 6419,
+        "true_label": "Geococcyx",
+        "predicted_label": "Cactus Wren",
+        "top5_predicted_labels": [
+          "Cactus Wren",
+          "Brown Thrasher",
+          "Sage Thrasher",
+          "Red bellied Woodpecker",
+          "Rock Wren"
+        ],
+        "top5_predicted_probs": [
+          0.0055054910480976105,
+          0.005409036763012409,
+          0.005364443641155958,
+          0.005340005736798048,
+          0.005323296878486872
+        ]
+      },
+      {
+        "image_index": 6420,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "American Pipit",
+          "Savannah Sparrow",
+          "Western Meadowlark",
+          "Cactus Wren"
+        ],
+        "top5_predicted_probs": [
+          0.0055725909769535065,
+          0.005406741052865982,
+          0.0053991894237697124,
+          0.00538209592923522,
+          0.005381521303206682
+        ]
+      },
+      {
+        "image_index": 6421,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Brown Thrasher",
+          "Fox Sparrow",
+          "Rock Wren"
+        ],
+        "top5_predicted_probs": [
+          0.0055013117380440235,
+          0.005492026451975107,
+          0.005454245489090681,
+          0.005374101456254721,
+          0.005372326355427504
+        ]
+      },
+      {
+        "image_index": 6422,
+        "true_label": "Geococcyx",
+        "predicted_label": "Brown Thrasher",
+        "top5_predicted_labels": [
+          "Brown Thrasher",
+          "Cactus Wren",
+          "Sage Thrasher",
+          "Western Meadowlark",
+          "American Pipit"
+        ],
+        "top5_predicted_probs": [
+          0.005500291474163532,
+          0.005472968798130751,
+          0.0054353754967451096,
+          0.005411737598478794,
+          0.005401086062192917
+        ]
+      },
+      {
+        "image_index": 6423,
+        "true_label": "Geococcyx",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Rock Wren",
+          "Brown Creeper",
+          "Brown Thrasher",
+          "Sage Thrasher"
+        ],
+        "top5_predicted_probs": [
+          0.00545131741091609,
+          0.005412291269749403,
+          0.005409718956798315,
+          0.005398744251579046,
+          0.005369667429476976
+        ]
+      },
+      {
+        "image_index": 6424,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Spotted Catbird",
+          "Rock Wren",
+          "Mockingbird"
+        ],
+        "top5_predicted_probs": [
+          0.0055442932061851025,
+          0.005459172651171684,
+          0.005392694845795631,
+          0.0053759366273880005,
+          0.005371184553951025
+        ]
+      },
+      {
+        "image_index": 6425,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Brown Thrasher",
+          "Northern Flicker",
+          "Rock Wren"
+        ],
+        "top5_predicted_probs": [
+          0.005652573890984058,
+          0.005518603138625622,
+          0.005443601403385401,
+          0.005426893942058086,
+          0.005342660006135702
+        ]
+      },
+      {
+        "image_index": 6426,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Brown Thrasher",
+          "Western Meadowlark",
+          "Rock Wren"
+        ],
+        "top5_predicted_probs": [
+          0.005416648928076029,
+          0.005397648550570011,
+          0.005346823018044233,
+          0.005318131297826767,
+          0.005307191051542759
+        ]
+      },
+      {
+        "image_index": 6427,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Western Meadowlark",
+          "American Pipit",
+          "Brown Thrasher",
+          "Cactus Wren"
+        ],
+        "top5_predicted_probs": [
+          0.005539562087506056,
+          0.005399154499173164,
+          0.005367050878703594,
+          0.005358657333999872,
+          0.0053038764744997025
+        ]
+      },
+      {
+        "image_index": 6428,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Mockingbird",
+          "Rock Wren",
+          "Harris Sparrow",
+          "Brown Thrasher"
+        ],
+        "top5_predicted_probs": [
+          0.005401377100497484,
+          0.005340182222425938,
+          0.005295335315167904,
+          0.005284981802105904,
+          0.005281625781208277
+        ]
+      },
+      {
+        "image_index": 6429,
+        "true_label": "Geococcyx",
+        "predicted_label": "Rock Wren",
+        "top5_predicted_labels": [
+          "Rock Wren",
+          "Cactus Wren",
+          "Sage Thrasher",
+          "Seaside Sparrow",
+          "Western Meadowlark"
+        ],
+        "top5_predicted_probs": [
+          0.005513144191354513,
+          0.005488972179591656,
+          0.005369645543396473,
+          0.005340245086699724,
+          0.005326095502823591
+        ]
+      },
+      {
+        "image_index": 6430,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Western Meadowlark",
+          "American Pipit",
+          "Bobolink",
+          "Northern Flicker"
+        ],
+        "top5_predicted_probs": [
+          0.00554087245836854,
+          0.005503975320607424,
+          0.005363619886338711,
+          0.00535565847530961,
+          0.005339405965059996
+        ]
+      },
+      {
+        "image_index": 6431,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Mockingbird",
+          "Brown Thrasher",
+          "American Pipit"
+        ],
+        "top5_predicted_probs": [
+          0.005705914460122585,
+          0.005526148714125156,
+          0.0054074362851679325,
+          0.005375076550990343,
+          0.005360190290957689
+        ]
+      },
+      {
+        "image_index": 6432,
+        "true_label": "Geococcyx",
+        "predicted_label": "Cactus Wren",
+        "top5_predicted_labels": [
+          "Cactus Wren",
+          "Sage Thrasher",
+          "Rock Wren",
+          "American Three toed Woodpecker",
+          "Northern Waterthrush"
+        ],
+        "top5_predicted_probs": [
+          0.005561781115829945,
+          0.005509539041668177,
+          0.005485545378178358,
+          0.0054482100531458855,
+          0.0054389298893511295
+        ]
+      },
+      {
+        "image_index": 6433,
+        "true_label": "Geococcyx",
+        "predicted_label": "Western Meadowlark",
+        "top5_predicted_labels": [
+          "Western Meadowlark",
+          "Sage Thrasher",
+          "Cactus Wren",
+          "American Pipit",
+          "Rock Wren"
+        ],
+        "top5_predicted_probs": [
+          0.0055139800533652306,
+          0.005490946117788553,
+          0.005431587807834148,
+          0.005373331252485514,
+          0.005370717961341143
+        ]
+      },
+      {
+        "image_index": 6434,
+        "true_label": "Geococcyx",
+        "predicted_label": "Cactus Wren",
+        "top5_predicted_labels": [
+          "Cactus Wren",
+          "Sage Thrasher",
+          "American Pipit",
+          "Horned Lark",
+          "Rock Wren"
+        ],
+        "top5_predicted_probs": [
+          0.00559521559625864,
+          0.005577943753451109,
+          0.00547957606613636,
+          0.005464824382215738,
+          0.005444026552140713
+        ]
+      },
+      {
+        "image_index": 6435,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Western Meadowlark",
+          "Cactus Wren",
+          "American Pipit",
+          "Brown Thrasher"
+        ],
+        "top5_predicted_probs": [
+          0.0055980621837079525,
+          0.005498742684721947,
+          0.005487464368343353,
+          0.005419707391411066,
+          0.0053685978055000305
+        ]
+      },
+      {
+        "image_index": 6436,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Rock Wren",
+          "Western Meadowlark",
+          "American Pipit"
+        ],
+        "top5_predicted_probs": [
+          0.005656112916767597,
+          0.0055574411526322365,
+          0.005542452912777662,
+          0.00543314078822732,
+          0.005396261811256409
+        ]
+      },
+      {
+        "image_index": 6437,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Western Meadowlark",
+          "Brown Thrasher",
+          "American Pipit"
+        ],
+        "top5_predicted_probs": [
+          0.005570394452661276,
+          0.005492351483553648,
+          0.005487860646098852,
+          0.005411507096141577,
+          0.005399670917540789
+        ]
+      },
+      {
+        "image_index": 6438,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Brown Thrasher",
+          "Northern Waterthrush",
+          "Western Meadowlark",
+          "American Pipit"
+        ],
+        "top5_predicted_probs": [
+          0.005561795085668564,
+          0.005433869082480669,
+          0.005426514428108931,
+          0.005420889239758253,
+          0.005415713880211115
+        ]
+      },
+      {
+        "image_index": 6439,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Louisiana Waterthrush",
+          "Brown Thrasher",
+          "American Pipit",
+          "Spotted Catbird"
+        ],
+        "top5_predicted_probs": [
+          0.005449438933283091,
+          0.0054361275397241116,
+          0.005401571746915579,
+          0.005367994774132967,
+          0.00536162406206131
+        ]
+      },
+      {
+        "image_index": 6440,
+        "true_label": "Geococcyx",
+        "predicted_label": "Sage Thrasher",
+        "top5_predicted_labels": [
+          "Sage Thrasher",
+          "Cactus Wren",
+          "Spotted Catbird",
+          "Brown Thrasher",
+          "Rock Wren"
+        ],
+        "top5_predicted_probs": [
+          0.005434733349829912,
+          0.0053974781185388565,
+          0.005378059111535549,
+          0.005355817265808582,
+          0.005342098884284496
+        ]
+      },
+      {
+        "image_index": 6441,
+        "true_label": "Geococcyx",
+        "predicted_label": "Rock Wren",
+        "top5_predicted_labels": [
+          "Rock Wren",
+          "Cactus Wren",
+          "Sage Thrasher",
+          "Nighthawk",
+          "Northern Flicker"
+        ],
+        "top5_predicted_probs": [
+          0.005505744367837906,
+          0.00545629533007741,
+          0.005441013257950544,
+          0.00526442052796483,
+          0.005253238137811422
+        ]
+      }
+    ],
+    "avg_prob_distribution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      8.926097458849351e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0006258479474733273,
+      0.0,
+      0.00017745106015354395,
+      0.0,
+      0.00017694636092831692,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00017820814779649177,
+      0.00027194927291323743,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0004462326876819134,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0001763919290776054,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00045035364261517924,
+      0.0,
+      0.0,
+      0.0026271597637484473,
+      0.0,
+      0.0,
+      0.0006280991792057951,
+      8.774034213274718e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0027087904900933305,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00026520328441013893,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      8.956835760424535e-05,
+      0.00018027656866858403,
+      8.80830300350984e-05,
+      9.08625933031241e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0005437447534253199,
+      0.00017954523209482432,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      8.925106376409531e-05,
+      0.0,
+      0.0026143310591578484,
+      0.005246814759448171,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0005419394777466854,
+      0.0008125717286020517,
+      0.0,
+      0.0,
+      0.000541402050293982,
+      0.0,
+      8.90000956133008e-05,
+      8.738854279120764e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.004194314599347612,
+      0.0,
+      0.0,
+      0.0,
+      0.00289215409817795,
+      0.0,
+      0.0
+    ]
+  },
+  "Blue winged Warbler": {
+    "failures": [
+      {
+        "image_index": 9410,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Prairie Warbler",
+          "Prothonotary Warbler",
+          "Blue winged Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.00573748629540205,
+          0.005656114779412746,
+          0.00561809167265892,
+          0.005606503691524267,
+          0.005598934832960367
+        ]
+      },
+      {
+        "image_index": 9411,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Prairie Warbler",
+        "top5_predicted_labels": [
+          "Prairie Warbler",
+          "Kentucky Warbler",
+          "Yellow Warbler",
+          "Blue winged Warbler",
+          "White eyed Vireo"
+        ],
+        "top5_predicted_probs": [
+          0.00567900575697422,
+          0.005634199362248182,
+          0.005573497153818607,
+          0.005554766394197941,
+          0.005550344008952379
+        ]
+      },
+      {
+        "image_index": 9412,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Golden winged Warbler",
+        "top5_predicted_labels": [
+          "Golden winged Warbler",
+          "Kentucky Warbler",
+          "Prairie Warbler",
+          "Blue winged Warbler",
+          "White eyed Vireo"
+        ],
+        "top5_predicted_probs": [
+          0.00562642514705658,
+          0.005582536105066538,
+          0.005575671326369047,
+          0.005571823567152023,
+          0.005564200226217508
+        ]
+      },
+      {
+        "image_index": 9413,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Prothonotary Warbler",
+          "Blue winged Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005615247413516045,
+          0.005598435178399086,
+          0.005585319362580776,
+          0.005584570113569498,
+          0.005552035756409168
+        ]
+      },
+      {
+        "image_index": 9414,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Hooded Warbler",
+          "Golden winged Warbler",
+          "Blue winged Warbler",
+          "Mourning Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.0056988936848938465,
+          0.005683880299329758,
+          0.005682699847966433,
+          0.005654707085341215,
+          0.005611754488199949
+        ]
+      },
+      {
+        "image_index": 9415,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Golden winged Warbler",
+        "top5_predicted_labels": [
+          "Golden winged Warbler",
+          "Blue winged Warbler",
+          "Prairie Warbler",
+          "Kentucky Warbler",
+          "Hooded Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.00566690880805254,
+          0.005665361415594816,
+          0.005625621415674686,
+          0.005579593125730753,
+          0.005568674765527248
+        ]
+      },
+      {
+        "image_index": 9416,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Golden winged Warbler",
+        "top5_predicted_labels": [
+          "Golden winged Warbler",
+          "Prairie Warbler",
+          "Blue winged Warbler",
+          "Mourning Warbler",
+          "Tennessee Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005708829965442419,
+          0.005665070842951536,
+          0.005615075584501028,
+          0.005609497427940369,
+          0.005581918638199568
+        ]
+      },
+      {
+        "image_index": 9417,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Prairie Warbler",
+          "Blue winged Warbler",
+          "Hooded Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005832470953464508,
+          0.005733727477490902,
+          0.005708739627152681,
+          0.0056874798610806465,
+          0.0056362454779446125
+        ]
+      },
+      {
+        "image_index": 9418,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Prairie Warbler",
+        "top5_predicted_labels": [
+          "Prairie Warbler",
+          "Golden winged Warbler",
+          "Pine Warbler",
+          "Kentucky Warbler",
+          "Yellow Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005627346690744162,
+          0.005566441919654608,
+          0.005562307313084602,
+          0.005562045145779848,
+          0.005499782040715218
+        ]
+      },
+      {
+        "image_index": 9419,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Hooded Warbler",
+          "Golden winged Warbler",
+          "Prairie Warbler",
+          "Canada Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.00577515410259366,
+          0.005652257706969976,
+          0.005622918717563152,
+          0.005588320549577475,
+          0.005586074665188789
+        ]
+      },
+      {
+        "image_index": 9420,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Golden winged Warbler",
+        "top5_predicted_labels": [
+          "Golden winged Warbler",
+          "Blue winged Warbler",
+          "Hooded Warbler",
+          "Mourning Warbler",
+          "Kentucky Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.0056086378172039986,
+          0.005576990079134703,
+          0.005576925817877054,
+          0.00552853150293231,
+          0.005518895108252764
+        ]
+      },
+      {
+        "image_index": 9421,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Cape May Warbler",
+        "top5_predicted_labels": [
+          "Cape May Warbler",
+          "Pine Warbler",
+          "Canada Warbler",
+          "Hooded Warbler",
+          "Kentucky Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.00553571293130517,
+          0.005528009030967951,
+          0.005515584256500006,
+          0.005507843568921089,
+          0.005503535736352205
+        ]
+      },
+      {
+        "image_index": 9422,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Blue winged Warbler",
+          "Golden winged Warbler",
+          "Canada Warbler",
+          "Yellow bellied Flycatcher"
+        ],
+        "top5_predicted_probs": [
+          0.0055636935867369175,
+          0.005536340642720461,
+          0.0055203684605658054,
+          0.005516853649169207,
+          0.00551442289724946
+        ]
+      },
+      {
+        "image_index": 9423,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Blue winged Warbler",
+          "Yellow breasted Chat",
+          "Hooded Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005705312360078096,
+          0.00568127166479826,
+          0.00566254835575819,
+          0.005612913519144058,
+          0.005595924332737923
+        ]
+      },
+      {
+        "image_index": 9424,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "White eyed Vireo",
+        "top5_predicted_labels": [
+          "White eyed Vireo",
+          "Yellow throated Vireo",
+          "Blue headed Vireo",
+          "Red eyed Vireo",
+          "Warbling Vireo"
+        ],
+        "top5_predicted_probs": [
+          0.00556830782443285,
+          0.005546081345528364,
+          0.005507234949618578,
+          0.00548151507973671,
+          0.005472345277667046
+        ]
+      },
+      {
+        "image_index": 9425,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Nashville Warbler",
+          "Golden winged Warbler",
+          "Tennessee Warbler",
+          "Mourning Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005743363872170448,
+          0.005675299093127251,
+          0.0056289248168468475,
+          0.0056154606863856316,
+          0.00560906482860446
+        ]
+      },
+      {
+        "image_index": 9426,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Prairie Warbler",
+          "Blue winged Warbler",
+          "Pine Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005585404112935066,
+          0.005570312961935997,
+          0.005559542216360569,
+          0.005534115247428417,
+          0.005529772024601698
+        ]
+      },
+      {
+        "image_index": 9427,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Pine Warbler",
+        "top5_predicted_labels": [
+          "Pine Warbler",
+          "Golden winged Warbler",
+          "Kentucky Warbler",
+          "Prairie Warbler",
+          "Blue winged Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005640697665512562,
+          0.005633378401398659,
+          0.005620822310447693,
+          0.005600131116807461,
+          0.005598755553364754
+        ]
+      },
+      {
+        "image_index": 9428,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Blue winged Warbler",
+          "Yellow breasted Chat",
+          "Prairie Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005534249357879162,
+          0.0055252802558243275,
+          0.005516733508557081,
+          0.00551101379096508,
+          0.0054275160655379295
+        ]
+      },
+      {
+        "image_index": 9429,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Golden winged Warbler",
+        "top5_predicted_labels": [
+          "Golden winged Warbler",
+          "Kentucky Warbler",
+          "Prairie Warbler",
+          "Blue winged Warbler",
+          "Nashville Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005692269653081894,
+          0.0056887660175561905,
+          0.0056792693212628365,
+          0.005661148577928543,
+          0.005653591826558113
+        ]
+      },
+      {
+        "image_index": 9430,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Prothonotary Warbler",
+          "Mourning Warbler",
+          "Golden winged Warbler",
+          "Nashville Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.0056773340329527855,
+          0.005613429006189108,
+          0.0055835796520113945,
+          0.005571720656007528,
+          0.005569518078118563
+        ]
+      },
+      {
+        "image_index": 9431,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Tennessee Warbler",
+        "top5_predicted_labels": [
+          "Tennessee Warbler",
+          "Golden winged Warbler",
+          "Philadelphia Vireo",
+          "Red eyed Vireo",
+          "Warbling Vireo"
+        ],
+        "top5_predicted_probs": [
+          0.005483595654368401,
+          0.005482116714119911,
+          0.00547947408631444,
+          0.005479435436427593,
+          0.005474635399878025
+        ]
+      },
+      {
+        "image_index": 9432,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Prairie Warbler",
+        "top5_predicted_labels": [
+          "Prairie Warbler",
+          "Prothonotary Warbler",
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Blue winged Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005637815687805414,
+          0.005620451644062996,
+          0.005612106062471867,
+          0.005602366756647825,
+          0.0055686417035758495
+        ]
+      },
+      {
+        "image_index": 9433,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Hooded Warbler",
+          "Golden winged Warbler",
+          "Prothonotary Warbler",
+          "Common Yellowthroat"
+        ],
+        "top5_predicted_probs": [
+          0.005653582513332367,
+          0.005555847194045782,
+          0.005537649616599083,
+          0.005525501910597086,
+          0.005511494819074869
+        ]
+      },
+      {
+        "image_index": 9434,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Nashville Warbler",
+          "Tennessee Warbler",
+          "Wilson Warbler",
+          "Mourning Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005693542305380106,
+          0.0056914580054581165,
+          0.005648098886013031,
+          0.005647672340273857,
+          0.005638444796204567
+        ]
+      },
+      {
+        "image_index": 9435,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Golden winged Warbler",
+        "top5_predicted_labels": [
+          "Golden winged Warbler",
+          "Blue winged Warbler",
+          "Hooded Warbler",
+          "Yellow throated Vireo",
+          "Yellow breasted Chat"
+        ],
+        "top5_predicted_probs": [
+          0.005580183584243059,
+          0.005527033936232328,
+          0.0055251591838896275,
+          0.005499796476215124,
+          0.00548134557902813
+        ]
+      },
+      {
+        "image_index": 9436,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Golden winged Warbler",
+        "top5_predicted_labels": [
+          "Golden winged Warbler",
+          "Kentucky Warbler",
+          "Pine Warbler",
+          "Wilson Warbler",
+          "Canada Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005578984972089529,
+          0.005572217982262373,
+          0.005559319630265236,
+          0.005520493257790804,
+          0.005519589874893427
+        ]
+      },
+      {
+        "image_index": 9437,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Prairie Warbler",
+          "Mourning Warbler",
+          "Prothonotary Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.00573325389996171,
+          0.005686207674443722,
+          0.005670563783496618,
+          0.005636466667056084,
+          0.005630964878946543
+        ]
+      },
+      {
+        "image_index": 9438,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Blue winged Warbler",
+          "Hooded Warbler",
+          "Common Yellowthroat"
+        ],
+        "top5_predicted_probs": [
+          0.005635182373225689,
+          0.005633259657770395,
+          0.005564422812312841,
+          0.0055191535502672195,
+          0.005514133255928755
+        ]
+      },
+      {
+        "image_index": 9439,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Golden winged Warbler",
+          "Blue winged Warbler",
+          "Prairie Warbler",
+          "Cape May Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.0055873095989227295,
+          0.005583512131124735,
+          0.005549043416976929,
+          0.005545305088162422,
+          0.005541881080716848
+        ]
+      },
+      {
+        "image_index": 9440,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Golden winged Warbler",
+        "top5_predicted_labels": [
+          "Golden winged Warbler",
+          "Kentucky Warbler",
+          "Prothonotary Warbler",
+          "Wilson Warbler",
+          "Canada Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005582515615969896,
+          0.005566613748669624,
+          0.005536846350878477,
+          0.005526555702090263,
+          0.005505801178514957
+        ]
+      },
+      {
+        "image_index": 9441,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Blue winged Warbler",
+          "Prairie Warbler",
+          "Yellow Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005620076321065426,
+          0.005595697555691004,
+          0.0055811465717852116,
+          0.0055407253094017506,
+          0.0055358074605464935
+        ]
+      },
+      {
+        "image_index": 9442,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Blue winged Warbler",
+          "Golden winged Warbler",
+          "Hooded Warbler",
+          "Yellow Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005690968595445156,
+          0.005675732158124447,
+          0.005659781862050295,
+          0.005603132303804159,
+          0.005601287819445133
+        ]
+      },
+      {
+        "image_index": 9443,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Prairie Warbler",
+        "top5_predicted_labels": [
+          "Prairie Warbler",
+          "Golden winged Warbler",
+          "Blue winged Warbler",
+          "Kentucky Warbler",
+          "Yellow breasted Chat"
+        ],
+        "top5_predicted_probs": [
+          0.005649673752486706,
+          0.005570213310420513,
+          0.005546960514038801,
+          0.005543035455048084,
+          0.005527292378246784
+        ]
+      },
+      {
+        "image_index": 9444,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Nashville Warbler",
+        "top5_predicted_labels": [
+          "Nashville Warbler",
+          "Prairie Warbler",
+          "Mourning Warbler",
+          "Tennessee Warbler",
+          "Kentucky Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005642714910209179,
+          0.005604293197393417,
+          0.005592279601842165,
+          0.0055852774530649185,
+          0.005581800825893879
+        ]
+      },
+      {
+        "image_index": 9445,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Prairie Warbler",
+        "top5_predicted_labels": [
+          "Prairie Warbler",
+          "Golden winged Warbler",
+          "Pine Warbler",
+          "Canada Warbler",
+          "Yellow Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.0055501447059214115,
+          0.005532016046345234,
+          0.005477594211697578,
+          0.00547269219532609,
+          0.005457943305373192
+        ]
+      },
+      {
+        "image_index": 9446,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Golden winged Warbler",
+        "top5_predicted_labels": [
+          "Golden winged Warbler",
+          "Blue winged Warbler",
+          "Prairie Warbler",
+          "Kentucky Warbler",
+          "Yellow breasted Chat"
+        ],
+        "top5_predicted_probs": [
+          0.005660907831043005,
+          0.0055885035544633865,
+          0.005562324542552233,
+          0.005562125239521265,
+          0.005509351845830679
+        ]
+      },
+      {
+        "image_index": 9447,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Prairie Warbler",
+        "top5_predicted_labels": [
+          "Prairie Warbler",
+          "Yellow Warbler",
+          "Prothonotary Warbler",
+          "Kentucky Warbler",
+          "Wilson Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005578183569014072,
+          0.005548349115997553,
+          0.005486415233463049,
+          0.005483895540237427,
+          0.005482643377035856
+        ]
+      },
+      {
+        "image_index": 9448,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Acadian Flycatcher",
+        "top5_predicted_labels": [
+          "Acadian Flycatcher",
+          "Hooded Warbler",
+          "Kentucky Warbler",
+          "Mourning Warbler",
+          "Prairie Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005542911123484373,
+          0.005541810300201178,
+          0.005534193944185972,
+          0.005532669369131327,
+          0.005531427916139364
+        ]
+      },
+      {
+        "image_index": 9449,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Blue winged Warbler",
+          "Golden winged Warbler",
+          "Hooded Warbler",
+          "Yellow breasted Chat"
+        ],
+        "top5_predicted_probs": [
+          0.005508197471499443,
+          0.0055055925622582436,
+          0.005498356185853481,
+          0.005490087904036045,
+          0.005470678675919771
+        ]
+      },
+      {
+        "image_index": 9450,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Blue winged Warbler",
+          "Golden winged Warbler",
+          "Prairie Warbler",
+          "Prothonotary Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005670127924531698,
+          0.005620366893708706,
+          0.005614570342004299,
+          0.00561453215777874,
+          0.005581660196185112
+        ]
+      },
+      {
+        "image_index": 9451,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Golden winged Warbler",
+        "top5_predicted_labels": [
+          "Golden winged Warbler",
+          "Kentucky Warbler",
+          "Hooded Warbler",
+          "Prairie Warbler",
+          "Cape May Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.0058025638572871685,
+          0.005796425975859165,
+          0.005747764836996794,
+          0.005731326527893543,
+          0.0057312361896038055
+        ]
+      },
+      {
+        "image_index": 9452,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Canada Warbler",
+        "top5_predicted_labels": [
+          "Canada Warbler",
+          "Golden winged Warbler",
+          "Kentucky Warbler",
+          "Blue winged Warbler",
+          "Nashville Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005612259730696678,
+          0.0056032720021903515,
+          0.005592334549874067,
+          0.005588443949818611,
+          0.005552022252231836
+        ]
+      },
+      {
+        "image_index": 9453,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Golden winged Warbler",
+        "top5_predicted_labels": [
+          "Golden winged Warbler",
+          "Kentucky Warbler",
+          "Yellow throated Vireo",
+          "Prairie Warbler",
+          "Blue winged Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.0055714985355734825,
+          0.005553978495299816,
+          0.005539413075894117,
+          0.005531660281121731,
+          0.0055308532901108265
+        ]
+      },
+      {
+        "image_index": 9454,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Golden winged Warbler",
+        "top5_predicted_labels": [
+          "Golden winged Warbler",
+          "Hooded Warbler",
+          "Blue winged Warbler",
+          "Kentucky Warbler",
+          "Pine Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005549295339733362,
+          0.005547848995774984,
+          0.005529171321541071,
+          0.0055120172910392284,
+          0.005479471292346716
+        ]
+      },
+      {
+        "image_index": 9455,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Canada Warbler",
+          "Blue winged Warbler",
+          "Tennessee Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005769994575530291,
+          0.005688050761818886,
+          0.005673662293702364,
+          0.0056553916074335575,
+          0.0056406594812870026
+        ]
+      },
+      {
+        "image_index": 9456,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Nashville Warbler",
+          "Common Yellowthroat",
+          "Golden winged Warbler",
+          "Canada Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005691002123057842,
+          0.005603182129561901,
+          0.005601462908089161,
+          0.00557170994579792,
+          0.005565037950873375
+        ]
+      },
+      {
+        "image_index": 9457,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Prairie Warbler",
+        "top5_predicted_labels": [
+          "Prairie Warbler",
+          "Kentucky Warbler",
+          "Yellow Warbler",
+          "Golden winged Warbler",
+          "Blue winged Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.0056922161020338535,
+          0.005666011478751898,
+          0.005657256115227938,
+          0.00564934266731143,
+          0.005611839704215527
+        ]
+      },
+      {
+        "image_index": 9458,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Prairie Warbler",
+        "top5_predicted_labels": [
+          "Prairie Warbler",
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Prothonotary Warbler",
+          "Blue winged Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005698530934751034,
+          0.00567202502861619,
+          0.005646171513944864,
+          0.005640578921884298,
+          0.005597999785095453
+        ]
+      },
+      {
+        "image_index": 9459,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Warbling Vireo",
+        "top5_predicted_labels": [
+          "Warbling Vireo",
+          "White eyed Vireo",
+          "Kentucky Warbler",
+          "Nashville Warbler",
+          "Yellow throated Vireo"
+        ],
+        "top5_predicted_probs": [
+          0.00541049474850297,
+          0.00540127931162715,
+          0.005396036896854639,
+          0.0053928326815366745,
+          0.0053914133459329605
+        ]
+      },
+      {
+        "image_index": 9460,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Blue winged Warbler",
+          "Prairie Warbler",
+          "Mourning Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005709929391741753,
+          0.005654384382069111,
+          0.005618692841380835,
+          0.00559080159291625,
+          0.005563914775848389
+        ]
+      },
+      {
+        "image_index": 9461,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Prairie Warbler",
+          "Blue winged Warbler",
+          "Mourning Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.0056564235128462315,
+          0.005639186128973961,
+          0.005618262570351362,
+          0.005560794845223427,
+          0.005547185428440571
+        ]
+      },
+      {
+        "image_index": 9462,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Blue winged Warbler",
+          "Yellow breasted Chat",
+          "Prairie Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005688871722668409,
+          0.005673024337738752,
+          0.005664526484906673,
+          0.005593503825366497,
+          0.005565850529819727
+        ]
+      },
+      {
+        "image_index": 9463,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Prairie Warbler",
+        "top5_predicted_labels": [
+          "Prairie Warbler",
+          "Golden winged Warbler",
+          "Canada Warbler",
+          "Kentucky Warbler",
+          "Blue winged Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005678086541593075,
+          0.0056365071795880795,
+          0.005593419540673494,
+          0.005575512070208788,
+          0.00553891621530056
+        ]
+      },
+      {
+        "image_index": 9464,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Kentucky Warbler",
+          "Evening Grosbeak",
+          "Golden winged Warbler",
+          "Hooded Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005621207412332296,
+          0.005588493775576353,
+          0.005553573835641146,
+          0.005553275812417269,
+          0.005507141817361116
+        ]
+      },
+      {
+        "image_index": 9465,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Prairie Warbler",
+          "Hooded Warbler",
+          "Yellow Warbler",
+          "Golden winged Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005663838237524033,
+          0.005577817093580961,
+          0.00557219423353672,
+          0.005565608385950327,
+          0.00555058941245079
+        ]
+      },
+      {
+        "image_index": 9466,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Nashville Warbler",
+        "top5_predicted_labels": [
+          "Nashville Warbler",
+          "Tennessee Warbler",
+          "Wilson Warbler",
+          "Kentucky Warbler",
+          "Canada Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005497048143297434,
+          0.005439041182398796,
+          0.005438381340354681,
+          0.005436762701719999,
+          0.005433801095932722
+        ]
+      },
+      {
+        "image_index": 9467,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Blue winged Warbler",
+          "Yellow breasted Chat",
+          "Mourning Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005695201922208071,
+          0.005683380179107189,
+          0.005654618609696627,
+          0.005643968936055899,
+          0.005599859170615673
+        ]
+      },
+      {
+        "image_index": 9468,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Kentucky Warbler",
+        "top5_predicted_labels": [
+          "Kentucky Warbler",
+          "Golden winged Warbler",
+          "Prairie Warbler",
+          "Blue winged Warbler",
+          "Mourning Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005712543148547411,
+          0.0056572360917925835,
+          0.005620848853141069,
+          0.005614118650555611,
+          0.005597530864179134
+        ]
+      },
+      {
+        "image_index": 9469,
+        "true_label": "Blue winged Warbler",
+        "predicted_label": "Golden winged Warbler",
+        "top5_predicted_labels": [
+          "Golden winged Warbler",
+          "Kentucky Warbler",
+          "Blue winged Warbler",
+          "Mourning Warbler",
+          "Hooded Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005680847447365522,
+          0.005646914709359407,
+          0.005639036651700735,
+          0.005580725148320198,
+          0.005555231589823961
+        ]
+      }
+    ],
+    "avg_prob_distribution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0010195638829221328,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      9.238185205807288e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      9.1907048287491e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      9.255956392735243e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      9.178724916030963e-05,
+      9.132456810524066e-05,
+      0.00018268250860273839,
+      0.000272624590434134,
+      0.00036806885618716477,
+      0.0003662784040595094,
+      0.0,
+      0.0,
+      0.0,
+      0.003541977742376427,
+      0.0010165796071911852,
+      0.00028014717002709707,
+      0.0,
+      0.0,
+      0.004774837102741003,
+      0.0016731187313174208,
+      0.005063790470982591,
+      0.0,
+      0.0013038583953554432,
+      0.0,
+      0.0008379611186683178,
+      0.0,
+      0.0,
+      0.0006462861861412724,
+      0.003085745288990438,
+      0.0009304486991216739,
+      0.0,
+      0.0006499008663619558,
+      0.0004602624336257577,
+      0.0,
+      0.0007406588566179077,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00027711818305154644
+    ]
+  },
+  "Scott Oriole": {
+    "failures": [
+      {
+        "image_index": 5684,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Evening Grosbeak",
+        "top5_predicted_labels": [
+          "Evening Grosbeak",
+          "Shiny Cowbird",
+          "Orchard Oriole",
+          "Hooded Oriole",
+          "Yellow breasted Chat"
+        ],
+        "top5_predicted_probs": [
+          0.0054879277013242245,
+          0.005482221022248268,
+          0.005464365240186453,
+          0.005450379103422165,
+          0.005441757850348949
+        ]
+      },
+      {
+        "image_index": 5685,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Orchard Oriole",
+          "Scott Oriole",
+          "Hooded Oriole",
+          "Yellow bellied Flycatcher"
+        ],
+        "top5_predicted_probs": [
+          0.005648339167237282,
+          0.005555245094001293,
+          0.005541219841688871,
+          0.005525130312889814,
+          0.005466144531965256
+        ]
+      },
+      {
+        "image_index": 5686,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Canada Warbler",
+        "top5_predicted_labels": [
+          "Canada Warbler",
+          "Pine Warbler",
+          "Cape May Warbler",
+          "Wilson Warbler",
+          "Evening Grosbeak"
+        ],
+        "top5_predicted_probs": [
+          0.005522324237972498,
+          0.005494826938956976,
+          0.0054619209840893745,
+          0.005454775877296925,
+          0.005437210667878389
+        ]
+      },
+      {
+        "image_index": 5687,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Orchard Oriole",
+        "top5_predicted_labels": [
+          "Orchard Oriole",
+          "Yellow breasted Chat",
+          "Hooded Oriole",
+          "Evening Grosbeak",
+          "Common Yellowthroat"
+        ],
+        "top5_predicted_probs": [
+          0.0054898750968277454,
+          0.0054739052429795265,
+          0.005438815336674452,
+          0.005425754468888044,
+          0.005415342748165131
+        ]
+      },
+      {
+        "image_index": 5688,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Hooded Warbler",
+        "top5_predicted_labels": [
+          "Hooded Warbler",
+          "Kentucky Warbler",
+          "Hooded Oriole",
+          "Scott Oriole",
+          "Yellow breasted Chat"
+        ],
+        "top5_predicted_probs": [
+          0.005486965179443359,
+          0.005467143841087818,
+          0.005465999711304903,
+          0.005464090500026941,
+          0.005462153349071741
+        ]
+      },
+      {
+        "image_index": 5689,
+        "true_label": "Scott Oriole",
+        "predicted_label": "American Redstart",
+        "top5_predicted_labels": [
+          "American Redstart",
+          "Orchard Oriole",
+          "Baltimore Oriole",
+          "Hooded Oriole",
+          "Yellow breasted Chat"
+        ],
+        "top5_predicted_probs": [
+          0.005475418642163277,
+          0.005471756216138601,
+          0.005454482976347208,
+          0.005413704086095095,
+          0.005388091318309307
+        ]
+      },
+      {
+        "image_index": 5690,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Scott Oriole",
+          "Hooded Oriole",
+          "Orchard Oriole",
+          "Yellow bellied Flycatcher"
+        ],
+        "top5_predicted_probs": [
+          0.005651484243571758,
+          0.005559889599680901,
+          0.005556169897317886,
+          0.005533831659704447,
+          0.005501280073076487
+        ]
+      },
+      {
+        "image_index": 5691,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Evening Grosbeak",
+        "top5_predicted_labels": [
+          "Evening Grosbeak",
+          "Acadian Flycatcher",
+          "Yellow bellied Flycatcher",
+          "Orchard Oriole",
+          "Prothonotary Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005379585083574057,
+          0.005351534113287926,
+          0.005318945273756981,
+          0.005303962621837854,
+          0.005302177742123604
+        ]
+      },
+      {
+        "image_index": 5692,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Hooded Oriole",
+          "Orchard Oriole",
+          "Scott Oriole",
+          "Shiny Cowbird"
+        ],
+        "top5_predicted_probs": [
+          0.005552370101213455,
+          0.005534131079912186,
+          0.005530324764549732,
+          0.005430832505226135,
+          0.005426289979368448
+        ]
+      },
+      {
+        "image_index": 5693,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Hooded Oriole",
+        "top5_predicted_labels": [
+          "Hooded Oriole",
+          "Bobolink",
+          "Baltimore Oriole",
+          "Orchard Oriole",
+          "Scott Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.005404099356383085,
+          0.005394234322011471,
+          0.005376857705414295,
+          0.005364018026739359,
+          0.00535811809822917
+        ]
+      },
+      {
+        "image_index": 5694,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Hooded Oriole",
+        "top5_predicted_labels": [
+          "Hooded Oriole",
+          "Orchard Oriole",
+          "Baltimore Oriole",
+          "Hooded Warbler",
+          "Yellow bellied Flycatcher"
+        ],
+        "top5_predicted_probs": [
+          0.0054554203525185585,
+          0.005407401826232672,
+          0.005373782012611628,
+          0.005333945620805025,
+          0.005319989752024412
+        ]
+      },
+      {
+        "image_index": 5695,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Hooded Oriole",
+          "Orchard Oriole",
+          "American Redstart",
+          "Scott Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.005638932343572378,
+          0.005598043091595173,
+          0.005580358672887087,
+          0.005539621692150831,
+          0.00553916534408927
+        ]
+      },
+      {
+        "image_index": 5696,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Orchard Oriole",
+        "top5_predicted_labels": [
+          "Orchard Oriole",
+          "Hooded Oriole",
+          "Scott Oriole",
+          "Yellow breasted Chat",
+          "Baltimore Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.005661175586283207,
+          0.005568698514252901,
+          0.005526999477297068,
+          0.00549910357221961,
+          0.005497821141034365
+        ]
+      },
+      {
+        "image_index": 5697,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Hooded Oriole",
+        "top5_predicted_labels": [
+          "Hooded Oriole",
+          "Yellow breasted Chat",
+          "Orchard Oriole",
+          "Baltimore Oriole",
+          "Scott Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.005577282980084419,
+          0.0055196043103933334,
+          0.005504160188138485,
+          0.005497967824339867,
+          0.005468704737722874
+        ]
+      },
+      {
+        "image_index": 5698,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Orchard Oriole",
+        "top5_predicted_labels": [
+          "Orchard Oriole",
+          "Hooded Oriole",
+          "Baltimore Oriole",
+          "Scott Oriole",
+          "Yellow breasted Chat"
+        ],
+        "top5_predicted_probs": [
+          0.005640712566673756,
+          0.005618967581540346,
+          0.005591138266026974,
+          0.005580374039709568,
+          0.005566058214753866
+        ]
+      },
+      {
+        "image_index": 5699,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Green tailed Towhee",
+        "top5_predicted_labels": [
+          "Green tailed Towhee",
+          "Pine Warbler",
+          "Canada Warbler",
+          "Painted Bunting",
+          "Acadian Flycatcher"
+        ],
+        "top5_predicted_probs": [
+          0.005357045214623213,
+          0.00530915055423975,
+          0.0053008380346000195,
+          0.005297303665429354,
+          0.00528390146791935
+        ]
+      },
+      {
+        "image_index": 5700,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Yellow headed Blackbird",
+          "Orchard Oriole",
+          "Hooded Oriole",
+          "Bobolink"
+        ],
+        "top5_predicted_probs": [
+          0.005600172560662031,
+          0.005512688774615526,
+          0.00545423524454236,
+          0.005441449582576752,
+          0.005417812615633011
+        ]
+      },
+      {
+        "image_index": 5701,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Canada Warbler",
+        "top5_predicted_labels": [
+          "Canada Warbler",
+          "Myrtle Warbler",
+          "Magnolia Warbler",
+          "Cape May Warbler",
+          "Yellow breasted Chat"
+        ],
+        "top5_predicted_probs": [
+          0.005492377560585737,
+          0.00549193425104022,
+          0.0054838526993989944,
+          0.0054806605912745,
+          0.005472731310874224
+        ]
+      },
+      {
+        "image_index": 5702,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Orchard Oriole",
+          "Hooded Oriole",
+          "Evening Grosbeak",
+          "Scott Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.005609461572021246,
+          0.005581492092460394,
+          0.005562649108469486,
+          0.005556612275540829,
+          0.005544831044971943
+        ]
+      },
+      {
+        "image_index": 5703,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Prairie Warbler",
+        "top5_predicted_labels": [
+          "Prairie Warbler",
+          "Pine Warbler",
+          "Kentucky Warbler",
+          "Yellow bellied Flycatcher",
+          "Yellow Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.0054316446185112,
+          0.005359702277928591,
+          0.005357743240892887,
+          0.005346335936337709,
+          0.005344380624592304
+        ]
+      },
+      {
+        "image_index": 5704,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Orchard Oriole",
+          "Hooded Oriole",
+          "Yellow bellied Flycatcher",
+          "Scott Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.005582095589488745,
+          0.005461970344185829,
+          0.005456092767417431,
+          0.005433938466012478,
+          0.005415685940533876
+        ]
+      },
+      {
+        "image_index": 5705,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Cape May Warbler",
+        "top5_predicted_labels": [
+          "Cape May Warbler",
+          "Myrtle Warbler",
+          "Canada Warbler",
+          "Magnolia Warbler",
+          "Yellow breasted Chat"
+        ],
+        "top5_predicted_probs": [
+          0.005479732993990183,
+          0.005472756456583738,
+          0.005435910075902939,
+          0.005434583406895399,
+          0.005421049427241087
+        ]
+      },
+      {
+        "image_index": 5706,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Evening Grosbeak",
+          "Orchard Oriole",
+          "Scott Oriole",
+          "Hooded Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.005668564233928919,
+          0.00559459300711751,
+          0.0055903224274516106,
+          0.005528641398996115,
+          0.005523306783288717
+        ]
+      },
+      {
+        "image_index": 5707,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Hooded Oriole",
+        "top5_predicted_labels": [
+          "Hooded Oriole",
+          "Scott Oriole",
+          "Orchard Oriole",
+          "Baltimore Oriole",
+          "Yellow headed Blackbird"
+        ],
+        "top5_predicted_probs": [
+          0.0055816457606852055,
+          0.005503141786903143,
+          0.005483454093337059,
+          0.005475173704326153,
+          0.005435867700725794
+        ]
+      },
+      {
+        "image_index": 5708,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Evening Grosbeak",
+          "Orchard Oriole",
+          "Canada Warbler",
+          "Hooded Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.005516751669347286,
+          0.005510578863322735,
+          0.0054432484321296215,
+          0.005376315210014582,
+          0.005369479767978191
+        ]
+      },
+      {
+        "image_index": 5709,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Prothonotary Warbler",
+        "top5_predicted_labels": [
+          "Prothonotary Warbler",
+          "Canada Warbler",
+          "Hooded Warbler",
+          "Nashville Warbler",
+          "Hooded Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.005505404435098171,
+          0.005430769175291061,
+          0.00542602501809597,
+          0.0054185292683541775,
+          0.005417597014456987
+        ]
+      },
+      {
+        "image_index": 5710,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Evening Grosbeak",
+          "Hooded Oriole",
+          "Myrtle Warbler",
+          "Cape May Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005569010972976685,
+          0.0054301111958920956,
+          0.005382489413022995,
+          0.005379387177526951,
+          0.005366744939237833
+        ]
+      },
+      {
+        "image_index": 5711,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Hooded Oriole",
+        "top5_predicted_labels": [
+          "Hooded Oriole",
+          "Yellow breasted Chat",
+          "Baltimore Oriole",
+          "Evening Grosbeak",
+          "Orchard Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.005587812978774309,
+          0.00551946647465229,
+          0.00551319494843483,
+          0.005500056780874729,
+          0.005484548397362232
+        ]
+      },
+      {
+        "image_index": 5712,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Orchard Oriole",
+        "top5_predicted_labels": [
+          "Orchard Oriole",
+          "Hooded Oriole",
+          "Scott Oriole",
+          "Hooded Warbler",
+          "Baltimore Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.005587032530456781,
+          0.005552097223699093,
+          0.005469843279570341,
+          0.00546024227514863,
+          0.005443981382995844
+        ]
+      },
+      {
+        "image_index": 5713,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Hooded Oriole",
+          "Evening Grosbeak",
+          "American Redstart",
+          "Scott Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.005556856747716665,
+          0.005478388629853725,
+          0.005472748540341854,
+          0.005434850230813026,
+          0.0054315850138664246
+        ]
+      },
+      {
+        "image_index": 5714,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Orchard Oriole",
+        "top5_predicted_labels": [
+          "Orchard Oriole",
+          "Yellow breasted Chat",
+          "Yellow bellied Flycatcher",
+          "Kentucky Warbler",
+          "Myrtle Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.00549578620120883,
+          0.005482748616486788,
+          0.005479841958731413,
+          0.005442051216959953,
+          0.005441043991595507
+        ]
+      },
+      {
+        "image_index": 5715,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Orchard Oriole",
+          "Hooded Oriole",
+          "Canada Warbler",
+          "Evening Grosbeak"
+        ],
+        "top5_predicted_probs": [
+          0.005572092719376087,
+          0.0055181062780320644,
+          0.0054574147798120975,
+          0.005430977791547775,
+          0.005426415242254734
+        ]
+      },
+      {
+        "image_index": 5716,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Orchard Oriole",
+          "American Redstart",
+          "Myrtle Warbler",
+          "Canada Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005508774891495705,
+          0.005498305894434452,
+          0.00549777178093791,
+          0.005442541558295488,
+          0.0054422710090875626
+        ]
+      },
+      {
+        "image_index": 5717,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Hooded Oriole",
+        "top5_predicted_labels": [
+          "Hooded Oriole",
+          "Yellow breasted Chat",
+          "Orchard Oriole",
+          "Scott Oriole",
+          "Evening Grosbeak"
+        ],
+        "top5_predicted_probs": [
+          0.005503838881850243,
+          0.005488863680511713,
+          0.005465155001729727,
+          0.0054160226136446,
+          0.00541472714394331
+        ]
+      },
+      {
+        "image_index": 5718,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Evening Grosbeak",
+        "top5_predicted_labels": [
+          "Evening Grosbeak",
+          "Orchard Oriole",
+          "Yellow breasted Chat",
+          "Hooded Oriole",
+          "Magnolia Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005569730885326862,
+          0.005523256957530975,
+          0.005498985759913921,
+          0.005468746181577444,
+          0.005451488774269819
+        ]
+      },
+      {
+        "image_index": 5719,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Canada Warbler",
+        "top5_predicted_labels": [
+          "Canada Warbler",
+          "Yellow breasted Chat",
+          "Magnolia Warbler",
+          "Yellow throated Vireo",
+          "Yellow bellied Flycatcher"
+        ],
+        "top5_predicted_probs": [
+          0.005520270671695471,
+          0.005475378129631281,
+          0.005455465521663427,
+          0.005447658710181713,
+          0.0054388525895774364
+        ]
+      },
+      {
+        "image_index": 5720,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Orchard Oriole",
+        "top5_predicted_labels": [
+          "Orchard Oriole",
+          "Baltimore Oriole",
+          "Scott Oriole",
+          "Hooded Oriole",
+          "American Redstart"
+        ],
+        "top5_predicted_probs": [
+          0.0056511457078158855,
+          0.005627765320241451,
+          0.0056084757670760155,
+          0.005598390940576792,
+          0.005569844506680965
+        ]
+      },
+      {
+        "image_index": 5721,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Acadian Flycatcher",
+        "top5_predicted_labels": [
+          "Acadian Flycatcher",
+          "Nashville Warbler",
+          "Orchard Oriole",
+          "Yellow Warbler",
+          "Summer Tanager"
+        ],
+        "top5_predicted_probs": [
+          0.005555531941354275,
+          0.005525932181626558,
+          0.0055084372870624065,
+          0.005460732616484165,
+          0.00545837264508009
+        ]
+      },
+      {
+        "image_index": 5722,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Nashville Warbler",
+        "top5_predicted_labels": [
+          "Nashville Warbler",
+          "Canada Warbler",
+          "Yellow breasted Chat",
+          "Cape May Warbler",
+          "Kentucky Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005432351492345333,
+          0.005421858746558428,
+          0.005412001628428698,
+          0.005405304953455925,
+          0.005400306079536676
+        ]
+      },
+      {
+        "image_index": 5723,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Orchard Oriole",
+          "Scott Oriole",
+          "Hooded Oriole",
+          "Yellow bellied Flycatcher"
+        ],
+        "top5_predicted_probs": [
+          0.005644541233778,
+          0.005489372182637453,
+          0.005485615227371454,
+          0.005469172261655331,
+          0.005468115210533142
+        ]
+      },
+      {
+        "image_index": 5724,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Canada Warbler",
+        "top5_predicted_labels": [
+          "Canada Warbler",
+          "Kentucky Warbler",
+          "Myrtle Warbler",
+          "Nashville Warbler",
+          "Cape May Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005486722104251385,
+          0.005475219804793596,
+          0.005463830661028624,
+          0.00545777752995491,
+          0.005451480392366648
+        ]
+      },
+      {
+        "image_index": 5725,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Shiny Cowbird",
+          "Hooded Oriole",
+          "Hooded Warbler",
+          "Yellow bellied Flycatcher"
+        ],
+        "top5_predicted_probs": [
+          0.005624092649668455,
+          0.005427863914519548,
+          0.005398796405643225,
+          0.005389567464590073,
+          0.005383479408919811
+        ]
+      },
+      {
+        "image_index": 5726,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Orchard Oriole",
+        "top5_predicted_labels": [
+          "Orchard Oriole",
+          "Yellow breasted Chat",
+          "Hooded Oriole",
+          "Scott Oriole",
+          "Baltimore Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.0056513347662985325,
+          0.0056219021789729595,
+          0.005611710250377655,
+          0.005565141327679157,
+          0.005534729920327663
+        ]
+      },
+      {
+        "image_index": 5727,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Orchard Oriole",
+          "Yellow bellied Flycatcher",
+          "Wilson Warbler",
+          "Yellow throated Vireo"
+        ],
+        "top5_predicted_probs": [
+          0.005583822727203369,
+          0.0055260807275772095,
+          0.005523330997675657,
+          0.005470088217407465,
+          0.005463030189275742
+        ]
+      },
+      {
+        "image_index": 5728,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Hooded Oriole",
+        "top5_predicted_labels": [
+          "Hooded Oriole",
+          "Orchard Oriole",
+          "Scott Oriole",
+          "Baltimore Oriole",
+          "Evening Grosbeak"
+        ],
+        "top5_predicted_probs": [
+          0.005516368430107832,
+          0.005487840622663498,
+          0.005463303066790104,
+          0.005437284708023071,
+          0.005437218118458986
+        ]
+      },
+      {
+        "image_index": 5729,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Hooded Oriole",
+        "top5_predicted_labels": [
+          "Hooded Oriole",
+          "Yellow breasted Chat",
+          "Orchard Oriole",
+          "Scott Oriole",
+          "Magnolia Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.0055574229918420315,
+          0.005553470458835363,
+          0.0055342307314276695,
+          0.005450725089758635,
+          0.005425541196018457
+        ]
+      },
+      {
+        "image_index": 5730,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Orchard Oriole",
+          "Evening Grosbeak",
+          "Hooded Oriole",
+          "Shiny Cowbird"
+        ],
+        "top5_predicted_probs": [
+          0.005586639046669006,
+          0.005586033686995506,
+          0.005553017370402813,
+          0.005539710633456707,
+          0.005500094965100288
+        ]
+      },
+      {
+        "image_index": 5731,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Orchard Oriole",
+        "top5_predicted_labels": [
+          "Orchard Oriole",
+          "Hooded Warbler",
+          "Hooded Oriole",
+          "Scott Oriole",
+          "Evening Grosbeak"
+        ],
+        "top5_predicted_probs": [
+          0.005497586447745562,
+          0.005445761606097221,
+          0.005437519866973162,
+          0.005430464167147875,
+          0.005426536314189434
+        ]
+      },
+      {
+        "image_index": 5732,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Orchard Oriole",
+          "Hooded Oriole",
+          "American Redstart",
+          "Scott Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.005548820830881596,
+          0.005532523617148399,
+          0.005511783063411713,
+          0.005468219518661499,
+          0.005423826165497303
+        ]
+      },
+      {
+        "image_index": 5733,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Hooded Oriole",
+        "top5_predicted_labels": [
+          "Hooded Oriole",
+          "Yellow breasted Chat",
+          "Scott Oriole",
+          "Orchard Oriole",
+          "Yellow headed Blackbird"
+        ],
+        "top5_predicted_probs": [
+          0.005625264719128609,
+          0.005555316340178251,
+          0.005551375448703766,
+          0.0055391257628798485,
+          0.005484667606651783
+        ]
+      },
+      {
+        "image_index": 5734,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Evening Grosbeak",
+        "top5_predicted_labels": [
+          "Evening Grosbeak",
+          "Yellow breasted Chat",
+          "Orchard Oriole",
+          "Hooded Oriole",
+          "Shiny Cowbird"
+        ],
+        "top5_predicted_probs": [
+          0.005574282258749008,
+          0.005534888710826635,
+          0.005489727947860956,
+          0.0054830084554851055,
+          0.005407275632023811
+        ]
+      },
+      {
+        "image_index": 5735,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Hooded Oriole",
+          "Scott Oriole",
+          "Orchard Oriole",
+          "Baltimore Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.005658683832734823,
+          0.005621332675218582,
+          0.005612061824649572,
+          0.00556336110457778,
+          0.0055007790215313435
+        ]
+      },
+      {
+        "image_index": 5736,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Hooded Oriole",
+          "Evening Grosbeak",
+          "Magnolia Warbler",
+          "Scott Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.005599658936262131,
+          0.005476063117384911,
+          0.0054613021202385426,
+          0.005445626564323902,
+          0.005436546169221401
+        ]
+      },
+      {
+        "image_index": 5737,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Orchard Oriole",
+        "top5_predicted_labels": [
+          "Orchard Oriole",
+          "Yellow breasted Chat",
+          "Hooded Oriole",
+          "Acadian Flycatcher",
+          "Canada Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005514259450137615,
+          0.0053861490450799465,
+          0.005369490943849087,
+          0.005347096361219883,
+          0.005344392731785774
+        ]
+      },
+      {
+        "image_index": 5738,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Scott Oriole",
+          "Hooded Oriole",
+          "Yellow headed Blackbird",
+          "Orchard Oriole"
+        ],
+        "top5_predicted_probs": [
+          0.00565448310226202,
+          0.005507919006049633,
+          0.005507908761501312,
+          0.005472915712743998,
+          0.005470427218824625
+        ]
+      },
+      {
+        "image_index": 5739,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Magnolia Warbler",
+          "Orchard Oriole",
+          "Canada Warbler",
+          "Kentucky Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005482629872858524,
+          0.005464544985443354,
+          0.005423496011644602,
+          0.005420807749032974,
+          0.005419006105512381
+        ]
+      },
+      {
+        "image_index": 5740,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Evening Grosbeak",
+        "top5_predicted_labels": [
+          "Evening Grosbeak",
+          "Kentucky Warbler",
+          "Yellow breasted Chat",
+          "Hooded Warbler",
+          "Magnolia Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005550879519432783,
+          0.0055226911790668964,
+          0.005517776124179363,
+          0.00548703083768487,
+          0.005479119718074799
+        ]
+      },
+      {
+        "image_index": 5741,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Common Yellowthroat",
+        "top5_predicted_labels": [
+          "Common Yellowthroat",
+          "Nashville Warbler",
+          "Kentucky Warbler",
+          "Wilson Warbler",
+          "Yellow bellied Flycatcher"
+        ],
+        "top5_predicted_probs": [
+          0.005529193673282862,
+          0.005457115825265646,
+          0.00545700965449214,
+          0.005451997276395559,
+          0.005434874445199966
+        ]
+      },
+      {
+        "image_index": 5742,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow breasted Chat",
+        "top5_predicted_labels": [
+          "Yellow breasted Chat",
+          "Hooded Oriole",
+          "Orchard Oriole",
+          "Scott Oriole",
+          "Evening Grosbeak"
+        ],
+        "top5_predicted_probs": [
+          0.0056524211540818214,
+          0.005607500206679106,
+          0.005591614171862602,
+          0.005549327470362186,
+          0.005479549989104271
+        ]
+      },
+      {
+        "image_index": 5743,
+        "true_label": "Scott Oriole",
+        "predicted_label": "Yellow bellied Flycatcher",
+        "top5_predicted_labels": [
+          "Yellow bellied Flycatcher",
+          "Yellow breasted Chat",
+          "Yellow throated Vireo",
+          "Canada Warbler",
+          "Magnolia Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005536586511880159,
+          0.005509684793651104,
+          0.005497229751199484,
+          0.005470109172165394,
+          0.0054664709605276585
+        ]
+      }
+    ],
+    "avg_prob_distribution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.000365102329912285,
+      0.0001802007822940747,
+      0.0,
+      0.0,
+      8.828839442382256e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0041585297789424654,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00045406242522100606,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00035896773139635724,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0011775285859281818,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0018281472924475868,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0011887493155275783,
+      0.003945354900012413,
+      0.003952511648337046,
+      0.002564398765874406,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0005497621061901251,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      9.097287741800149e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      8.928408691038688e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0002734653108442823,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0012682657378415266,
+      0.0005440974142402411,
+      0.0,
+      0.0,
+      0.0,
+      0.0006338256333644191,
+      0.0007256861853723724,
+      0.0008184448971102636,
+      0.0,
+      0.0005448582349345088,
+      0.0004548617716257771,
+      0.0,
+      0.0,
+      0.0002693946628520886,
+      9.052741030852e-05,
+      0.00018012636962036292,
+      0.0,
+      0.0,
+      0.00027294768951833246,
+      0.0,
+      0.00018008522068460782,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00018240894035746654
+    ]
+  },
+  "Red cockaded Woodpecker": {
+    "failures": [
+      {
+        "image_index": 11131,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Red cockaded Woodpecker",
+          "Brown Creeper",
+          "Downy Woodpecker",
+          "Pileated Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.00576035538688302,
+          0.005690042395144701,
+          0.005619925446808338,
+          0.005524719599634409,
+          0.00549632403999567
+        ]
+      },
+      {
+        "image_index": 11132,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "Northern Flicker",
+          "Red bellied Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005602313671261072,
+          0.005534136202186346,
+          0.005524428095668554,
+          0.005521758459508419,
+          0.005434933118522167
+        ]
+      },
+      {
+        "image_index": 11133,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Brown Creeper",
+          "White breasted Nuthatch",
+          "Red cockaded Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005760256201028824,
+          0.005750822834670544,
+          0.005657821893692017,
+          0.005458909086883068,
+          0.0054257214069366455
+        ]
+      },
+      {
+        "image_index": 11134,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Downy Woodpecker",
+        "top5_predicted_labels": [
+          "Downy Woodpecker",
+          "American Three toed Woodpecker",
+          "Brown Creeper",
+          "Red cockaded Woodpecker",
+          "Northern Flicker"
+        ],
+        "top5_predicted_probs": [
+          0.005709986202418804,
+          0.005694580264389515,
+          0.005582062061876059,
+          0.005564207211136818,
+          0.005561315920203924
+        ]
+      },
+      {
+        "image_index": 11135,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Downy Woodpecker",
+        "top5_predicted_labels": [
+          "Downy Woodpecker",
+          "American Three toed Woodpecker",
+          "Brown Creeper",
+          "White breasted Nuthatch",
+          "Red cockaded Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005751716438680887,
+          0.005716330837458372,
+          0.005565885454416275,
+          0.005508516449481249,
+          0.005458193831145763
+        ]
+      },
+      {
+        "image_index": 11136,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Red bellied Woodpecker",
+          "Northern Flicker",
+          "Downy Woodpecker",
+          "Brown Creeper"
+        ],
+        "top5_predicted_probs": [
+          0.00547927338629961,
+          0.005445965565741062,
+          0.005438352469354868,
+          0.0054247076623141766,
+          0.005415048450231552
+        ]
+      },
+      {
+        "image_index": 11137,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Downy Woodpecker",
+        "top5_predicted_labels": [
+          "Downy Woodpecker",
+          "American Three toed Woodpecker",
+          "Red cockaded Woodpecker",
+          "Red bellied Woodpecker",
+          "Northern Flicker"
+        ],
+        "top5_predicted_probs": [
+          0.00566475372761488,
+          0.005664224736392498,
+          0.005564022809267044,
+          0.005438452586531639,
+          0.005430812947452068
+        ]
+      },
+      {
+        "image_index": 11138,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Red cockaded Woodpecker",
+          "Downy Woodpecker",
+          "Brown Creeper",
+          "Northern Flicker"
+        ],
+        "top5_predicted_probs": [
+          0.0057009924203157425,
+          0.005580873228609562,
+          0.005566416773945093,
+          0.005554469767957926,
+          0.005439372733235359
+        ]
+      },
+      {
+        "image_index": 11139,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "Brown Creeper",
+          "Pileated Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005743575282394886,
+          0.005693452432751656,
+          0.005610903259366751,
+          0.005517064593732357,
+          0.005476613994687796
+        ]
+      },
+      {
+        "image_index": 11140,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Red cockaded Woodpecker",
+          "Downy Woodpecker",
+          "Northern Flicker",
+          "Brown Creeper"
+        ],
+        "top5_predicted_probs": [
+          0.005763888359069824,
+          0.00565478578209877,
+          0.005639300215989351,
+          0.0055922092869877815,
+          0.005493571050465107
+        ]
+      },
+      {
+        "image_index": 11141,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Downy Woodpecker",
+        "top5_predicted_labels": [
+          "Downy Woodpecker",
+          "American Three toed Woodpecker",
+          "Brown Creeper",
+          "White breasted Nuthatch",
+          "Red cockaded Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005746414884924889,
+          0.005693919491022825,
+          0.005651864688843489,
+          0.0055372039787471294,
+          0.005513973068445921
+        ]
+      },
+      {
+        "image_index": 11142,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Red cockaded Woodpecker",
+          "Brown Creeper",
+          "Nighthawk",
+          "Northern Flicker"
+        ],
+        "top5_predicted_probs": [
+          0.005576642695814371,
+          0.005525115877389908,
+          0.005494911689311266,
+          0.005368675105273724,
+          0.005346388556063175
+        ]
+      },
+      {
+        "image_index": 11143,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Brown Creeper",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "White breasted Nuthatch"
+        ],
+        "top5_predicted_probs": [
+          0.0057084388099610806,
+          0.00569069292396307,
+          0.005661275237798691,
+          0.00552456034347415,
+          0.0055124275386333466
+        ]
+      },
+      {
+        "image_index": 11144,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Downy Woodpecker",
+        "top5_predicted_labels": [
+          "Downy Woodpecker",
+          "American Three toed Woodpecker",
+          "Brown Creeper",
+          "White breasted Nuthatch",
+          "Black and white Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.0056903669610619545,
+          0.005688725039362907,
+          0.005586904939264059,
+          0.005519614089280367,
+          0.005507195368409157
+        ]
+      },
+      {
+        "image_index": 11145,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Pied Kingfisher",
+        "top5_predicted_labels": [
+          "Pied Kingfisher",
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Belted Kingfisher",
+          "Brown Creeper"
+        ],
+        "top5_predicted_probs": [
+          0.005477332975715399,
+          0.005459363106638193,
+          0.0054512531496584415,
+          0.0054359897039830685,
+          0.00535373343154788
+        ]
+      },
+      {
+        "image_index": 11146,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "Brown Creeper",
+          "White breasted Nuthatch"
+        ],
+        "top5_predicted_probs": [
+          0.00579938804730773,
+          0.005763292778283358,
+          0.005691788624972105,
+          0.005538479890674353,
+          0.005503292661160231
+        ]
+      },
+      {
+        "image_index": 11147,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Red cockaded Woodpecker",
+          "Northern Flicker",
+          "Red headed Woodpecker",
+          "Downy Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005560428369790316,
+          0.005489245988428593,
+          0.0054884133860468864,
+          0.00546543812379241,
+          0.005424846429377794
+        ]
+      },
+      {
+        "image_index": 11148,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Red cockaded Woodpecker",
+          "Downy Woodpecker",
+          "Northern Flicker",
+          "Brown Creeper"
+        ],
+        "top5_predicted_probs": [
+          0.0056613292545080185,
+          0.005600332748144865,
+          0.005564174149185419,
+          0.005465528927743435,
+          0.005421979818493128
+        ]
+      },
+      {
+        "image_index": 11149,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "Northern Flicker",
+          "Red bellied Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005640769377350807,
+          0.005569542292505503,
+          0.0055553806014359,
+          0.005434270016849041,
+          0.0054274736903607845
+        ]
+      },
+      {
+        "image_index": 11150,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Brown Creeper",
+          "Red cockaded Woodpecker",
+          "Cactus Wren"
+        ],
+        "top5_predicted_probs": [
+          0.005753341130912304,
+          0.005738453008234501,
+          0.00564178079366684,
+          0.005492430180311203,
+          0.005476278252899647
+        ]
+      },
+      {
+        "image_index": 11151,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Brown Creeper",
+          "Red cockaded Woodpecker",
+          "White breasted Nuthatch"
+        ],
+        "top5_predicted_probs": [
+          0.005719426553696394,
+          0.0056856898590922356,
+          0.005590794142335653,
+          0.00547748664394021,
+          0.00541642913594842
+        ]
+      },
+      {
+        "image_index": 11152,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "Brown Creeper",
+          "Northern Flicker"
+        ],
+        "top5_predicted_probs": [
+          0.005747462622821331,
+          0.005631900392472744,
+          0.0056292954832315445,
+          0.005586909130215645,
+          0.005558033008128405
+        ]
+      },
+      {
+        "image_index": 11153,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Ringed Kingfisher",
+        "top5_predicted_labels": [
+          "Ringed Kingfisher",
+          "Nighthawk",
+          "Belted Kingfisher",
+          "Pomarine Jaeger",
+          "Downy Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.00535999471321702,
+          0.005314371082931757,
+          0.00529954768717289,
+          0.005273327697068453,
+          0.00525403767824173
+        ]
+      },
+      {
+        "image_index": 11154,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Brown Creeper",
+          "Pied Kingfisher",
+          "Red cockaded Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005677629262208939,
+          0.005647983402013779,
+          0.005541730672121048,
+          0.005450297147035599,
+          0.005428743548691273
+        ]
+      },
+      {
+        "image_index": 11155,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Downy Woodpecker",
+        "top5_predicted_labels": [
+          "Downy Woodpecker",
+          "American Three toed Woodpecker",
+          "White breasted Nuthatch",
+          "Brown Creeper",
+          "Red cockaded Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005643603391945362,
+          0.005596319679170847,
+          0.005571582354605198,
+          0.0055502974428236485,
+          0.005472268909215927
+        ]
+      },
+      {
+        "image_index": 11156,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "Brown Creeper",
+          "Pileated Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005718753673136234,
+          0.005634849891066551,
+          0.005527021829038858,
+          0.005492783151566982,
+          0.005432592239230871
+        ]
+      },
+      {
+        "image_index": 11157,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Red cockaded Woodpecker",
+          "Downy Woodpecker",
+          "Brown Creeper",
+          "Northern Flicker"
+        ],
+        "top5_predicted_probs": [
+          0.005680421367287636,
+          0.005600206088274717,
+          0.005553091410547495,
+          0.005447888281196356,
+          0.005401577800512314
+        ]
+      },
+      {
+        "image_index": 11158,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Brown Creeper",
+          "Downy Woodpecker",
+          "Northern Flicker",
+          "Red cockaded Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.00562945706769824,
+          0.00559938233345747,
+          0.005575558170676231,
+          0.005430660210549831,
+          0.005404312629252672
+        ]
+      },
+      {
+        "image_index": 11159,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "Northern Flicker",
+          "Nighthawk"
+        ],
+        "top5_predicted_probs": [
+          0.005521521903574467,
+          0.005425203125923872,
+          0.00538867712020874,
+          0.005375426262617111,
+          0.00534549867734313
+        ]
+      },
+      {
+        "image_index": 11160,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Red cockaded Woodpecker",
+          "Downy Woodpecker",
+          "Red bellied Woodpecker",
+          "Brown Creeper"
+        ],
+        "top5_predicted_probs": [
+          0.005787975154817104,
+          0.00571694690734148,
+          0.005700697191059589,
+          0.0055959466844797134,
+          0.005593374837189913
+        ]
+      },
+      {
+        "image_index": 11161,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Northern Flicker",
+        "top5_predicted_labels": [
+          "Northern Flicker",
+          "Red cockaded Woodpecker",
+          "American Three toed Woodpecker",
+          "Red bellied Woodpecker",
+          "Red headed Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005759901367127895,
+          0.005726172123104334,
+          0.005691514350473881,
+          0.005659619811922312,
+          0.005539211444556713
+        ]
+      },
+      {
+        "image_index": 11162,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Downy Woodpecker",
+        "top5_predicted_labels": [
+          "Downy Woodpecker",
+          "American Three toed Woodpecker",
+          "Brown Creeper",
+          "Red cockaded Woodpecker",
+          "White breasted Nuthatch"
+        ],
+        "top5_predicted_probs": [
+          0.005711750127375126,
+          0.0056536030024290085,
+          0.0055984435603022575,
+          0.0054828026331961155,
+          0.00538490479812026
+        ]
+      },
+      {
+        "image_index": 11163,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Brown Creeper",
+        "top5_predicted_labels": [
+          "Brown Creeper",
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "Northern Flicker"
+        ],
+        "top5_predicted_probs": [
+          0.005839868914335966,
+          0.005800896789878607,
+          0.005722845904529095,
+          0.00560411112383008,
+          0.005521880462765694
+        ]
+      },
+      {
+        "image_index": 11164,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "Brown Creeper",
+          "White breasted Nuthatch"
+        ],
+        "top5_predicted_probs": [
+          0.005790701135993004,
+          0.005769812501966953,
+          0.005634418688714504,
+          0.005622211843729019,
+          0.005471637472510338
+        ]
+      },
+      {
+        "image_index": 11165,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Brown Creeper",
+          "Downy Woodpecker",
+          "Northern Flicker",
+          "Cactus Wren"
+        ],
+        "top5_predicted_probs": [
+          0.005670865066349506,
+          0.005556444637477398,
+          0.005533453077077866,
+          0.005507074296474457,
+          0.005493448581546545
+        ]
+      },
+      {
+        "image_index": 11166,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "Brown Creeper",
+          "White breasted Nuthatch"
+        ],
+        "top5_predicted_probs": [
+          0.005775850731879473,
+          0.005775080528110266,
+          0.005645420867949724,
+          0.005588213913142681,
+          0.005539353936910629
+        ]
+      },
+      {
+        "image_index": 11167,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "White breasted Nuthatch",
+          "Red bellied Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005848060827702284,
+          0.0057696872390806675,
+          0.005727217998355627,
+          0.005601396318525076,
+          0.005550260655581951
+        ]
+      },
+      {
+        "image_index": 11168,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Red cockaded Woodpecker",
+          "Northern Flicker",
+          "Brown Creeper",
+          "Downy Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005716983694583178,
+          0.005696017760783434,
+          0.005546085070818663,
+          0.005509696435183287,
+          0.005494880490005016
+        ]
+      },
+      {
+        "image_index": 11169,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Brown Creeper",
+          "Red cockaded Woodpecker",
+          "Red bellied Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.0057412744499742985,
+          0.005679867696017027,
+          0.005596504546701908,
+          0.0055622230283916,
+          0.0054481374099850655
+        ]
+      },
+      {
+        "image_index": 11170,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Brown Creeper",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "Northern Flicker"
+        ],
+        "top5_predicted_probs": [
+          0.005785094108432531,
+          0.005666105076670647,
+          0.005662321113049984,
+          0.005624693818390369,
+          0.005572231020778418
+        ]
+      },
+      {
+        "image_index": 11171,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Red cockaded Woodpecker",
+          "Downy Woodpecker",
+          "Brown Creeper",
+          "Pileated Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.0058550299145281315,
+          0.005721874535083771,
+          0.0056868065148591995,
+          0.005659162066876888,
+          0.0055397795513272285
+        ]
+      },
+      {
+        "image_index": 11172,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Brown Creeper",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "White breasted Nuthatch"
+        ],
+        "top5_predicted_probs": [
+          0.005791600327938795,
+          0.005720429588109255,
+          0.005693839862942696,
+          0.005607796832919121,
+          0.0055178264155983925
+        ]
+      },
+      {
+        "image_index": 11173,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Brown Creeper",
+          "Red cockaded Woodpecker",
+          "Northern Flicker"
+        ],
+        "top5_predicted_probs": [
+          0.005744552239775658,
+          0.00571100739762187,
+          0.0055748769082129,
+          0.005572137888520956,
+          0.005512074567377567
+        ]
+      },
+      {
+        "image_index": 11174,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Northern Flicker",
+        "top5_predicted_labels": [
+          "Northern Flicker",
+          "Rock Wren",
+          "Cactus Wren",
+          "American Three toed Woodpecker",
+          "Brown Creeper"
+        ],
+        "top5_predicted_probs": [
+          0.0055960058234632015,
+          0.005514830816537142,
+          0.005464686546474695,
+          0.005447053350508213,
+          0.00541302002966404
+        ]
+      },
+      {
+        "image_index": 11175,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Brown Creeper",
+          "Red cockaded Woodpecker",
+          "Red bellied Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.00567099591717124,
+          0.005643990822136402,
+          0.005620263516902924,
+          0.005554015748202801,
+          0.005517079494893551
+        ]
+      },
+      {
+        "image_index": 11176,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Downy Woodpecker",
+        "top5_predicted_labels": [
+          "Downy Woodpecker",
+          "American Three toed Woodpecker",
+          "Brown Creeper",
+          "Red cockaded Woodpecker",
+          "Red bellied Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.00571321789175272,
+          0.005692002363502979,
+          0.005576661787927151,
+          0.005526475142687559,
+          0.00545828090980649
+        ]
+      },
+      {
+        "image_index": 11177,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Brown Creeper",
+          "Red cockaded Woodpecker",
+          "Northern Flicker",
+          "Red bellied Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005661036819219589,
+          0.005624913144856691,
+          0.005540208425372839,
+          0.005528466776013374,
+          0.005507062189280987
+        ]
+      },
+      {
+        "image_index": 11178,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Brown Creeper",
+          "Red cockaded Woodpecker",
+          "Belted Kingfisher"
+        ],
+        "top5_predicted_probs": [
+          0.005704096984118223,
+          0.005686224438250065,
+          0.0056117819622159,
+          0.00553333293646574,
+          0.005462298169732094
+        ]
+      },
+      {
+        "image_index": 11179,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Brown Creeper",
+          "Red cockaded Woodpecker",
+          "Pileated Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005775214172899723,
+          0.0056932345032691956,
+          0.005635945126414299,
+          0.005548323504626751,
+          0.005406966432929039
+        ]
+      },
+      {
+        "image_index": 11180,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Downy Woodpecker",
+        "top5_predicted_labels": [
+          "Downy Woodpecker",
+          "American Three toed Woodpecker",
+          "Red cockaded Woodpecker",
+          "Northern Flicker",
+          "Red bellied Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005751776974648237,
+          0.005723546724766493,
+          0.005555963143706322,
+          0.00547315226867795,
+          0.00542454095557332
+        ]
+      },
+      {
+        "image_index": 11181,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "Pileated Woodpecker",
+          "Brown Creeper"
+        ],
+        "top5_predicted_probs": [
+          0.005808308254927397,
+          0.005747992079705,
+          0.005618006456643343,
+          0.005595216061919928,
+          0.005579812917858362
+        ]
+      },
+      {
+        "image_index": 11182,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Downy Woodpecker",
+        "top5_predicted_labels": [
+          "Downy Woodpecker",
+          "Brown Creeper",
+          "American Three toed Woodpecker",
+          "Belted Kingfisher",
+          "Red cockaded Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005705326329916716,
+          0.0056266337633132935,
+          0.005588026251643896,
+          0.005466710776090622,
+          0.005425572395324707
+        ]
+      },
+      {
+        "image_index": 11183,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Downy Woodpecker",
+        "top5_predicted_labels": [
+          "Downy Woodpecker",
+          "American Three toed Woodpecker",
+          "Brown Creeper",
+          "Red cockaded Woodpecker",
+          "White breasted Nuthatch"
+        ],
+        "top5_predicted_probs": [
+          0.005787781439721584,
+          0.005741057451814413,
+          0.00557231018319726,
+          0.005572149995714426,
+          0.00547525892034173
+        ]
+      },
+      {
+        "image_index": 11184,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Brown Creeper",
+          "Red cockaded Woodpecker",
+          "Black and white Warbler"
+        ],
+        "top5_predicted_probs": [
+          0.005706327501684427,
+          0.0056219748221337795,
+          0.005506678484380245,
+          0.005449552554637194,
+          0.0053693195804953575
+        ]
+      },
+      {
+        "image_index": 11185,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Brown Creeper",
+        "top5_predicted_labels": [
+          "Brown Creeper",
+          "American Three toed Woodpecker",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker",
+          "Pileated Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.0058453986421227455,
+          0.005754049401730299,
+          0.005664078984409571,
+          0.005573926027864218,
+          0.0054186745546758175
+        ]
+      },
+      {
+        "image_index": 11186,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Downy Woodpecker",
+        "top5_predicted_labels": [
+          "Downy Woodpecker",
+          "American Three toed Woodpecker",
+          "Red cockaded Woodpecker",
+          "Pileated Woodpecker",
+          "Brown Creeper"
+        ],
+        "top5_predicted_probs": [
+          0.0058257500641047955,
+          0.005779508035629988,
+          0.005668293684720993,
+          0.005659929942339659,
+          0.005628221668303013
+        ]
+      },
+      {
+        "image_index": 11187,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "Brown Creeper",
+        "top5_predicted_labels": [
+          "Brown Creeper",
+          "Downy Woodpecker",
+          "American Three toed Woodpecker",
+          "Pied Kingfisher",
+          "Mangrove Cuckoo"
+        ],
+        "top5_predicted_probs": [
+          0.005523004103451967,
+          0.0054875765927135944,
+          0.0054761492647230625,
+          0.005392029881477356,
+          0.00538970623165369
+        ]
+      },
+      {
+        "image_index": 11188,
+        "true_label": "Red cockaded Woodpecker",
+        "predicted_label": "American Three toed Woodpecker",
+        "top5_predicted_labels": [
+          "American Three toed Woodpecker",
+          "Brown Creeper",
+          "Northern Flicker",
+          "Downy Woodpecker",
+          "Red cockaded Woodpecker"
+        ],
+        "top5_predicted_probs": [
+          0.005681673530489206,
+          0.005621831398457289,
+          0.0056087542325258255,
+          0.005587538238614798,
+          0.005559130106121302
+        ]
+      }
+    ],
+    "avg_prob_distribution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0047156515707872035,
+      0.0,
+      0.0,
+      0.0,
+      9.292596951127052e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0022777542391599253,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      9.091944305290436e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00037352666098239095,
+      0.0,
+      0.0002813734483487647,
+      9.241370195201759e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00027635422181980366,
+      0.0,
+      0.001327902640633542,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00018752611980869853,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.005596244410643804,
+      0.0007590706347776898,
+      0.0011363405702186041,
+      0.0048938069315948365,
+      0.0001897353373853297,
+      0.005254311398763595,
+      0.0,
+      0.00028335195484346357,
+      0.0,
+      0.0,
+      0.0,
+      9.508328994029555e-05,
+      0.0,
+      0.0
+    ]
+  }
+}

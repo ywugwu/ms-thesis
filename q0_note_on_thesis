@@ -1,0 +1,13 @@
+## Motivation
+
+1. The most foundamental question of this paper is to investigate: will CLIP zero-shot?
+   - This might be done in a quantitative way.
+2. We know that CLIP do zero-shot based on alignment. So we want to know:
+   - what does CLIP align to? What is the concept does it prefer?
+   - Then, we probably can know why CLIP fails and will CLIP zero-shot from a qualitative perspective.
+
+## Conclusion
+
+1. In this paper, we introduce a new method to determine will CLIP zero-shot
+2. In this paper, we introduce a new method to explain the internal representation of the prior knowledge of CLIP model
+3. 
