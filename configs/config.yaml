@@ -1,17 +1,18 @@
 datasets:
   # - name: NWPU-RESISC45
-    # - name: Stanford_dogs
-  # - name: CUB_200_2011
-  # - name: wds_cars
-  # - name: wds_fgvc_aircraft
-  # - name: wds_food101
-  # - name: wds_imagenetv2
+  # - name: Stanford_dogs
+  - name: CUB_200_2011
+  - name: wds_cars
+  - name: wds_fgvc_aircraft
+  - name: wds_food101
+  - name: wds_imagenetv2
   # - name: wds_objectnet # too large
-  - name: wds_sun397 # too large
-  # - name: wds_vtab-cifar100
-  # - name: Flower102 # - name: wds_vtab-flowers
-  # - name: wds_vtab-pets
-  # - name: wds_vtab-resisc45
+  # # - name: wds_sun397 # too large
+  - name: wds_vtab-cifar100
+  - name: Flower102 # - name: wds_vtab-flowers
+  - name: wds_vtab-pets
+  - name: wds_vtab-resisc45
+
 
 models:
   # - name: openai/clip-vit-base-patch32
@@ -26,10 +27,15 @@ consistency_scorer:
 experiment_params:
   batch_size: 64
   knn_batch_size: 1024
-  num_captions: 100
+  num_captions: 32
   tsne_perplexity: 30
   tsne_n_iter: 1000
   top_k_classes: 12
   pseudo_data: False
   save_results: True
   results_dir: results/
+
+
+gpt_model:
+  # name: 'gpt-4o-2024-08-06'
+  name: 'gpt-4o-mini-2024-07-18'

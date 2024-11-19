@@ -1,0 +1,5230 @@
+{
+    "Black footed Albatross": [
+        [
+            "Sooty Albatross",
+            43
+        ],
+        [
+            "Black footed Albatross",
+            16
+        ],
+        [
+            "Laysan Albatross",
+            1
+        ]
+    ],
+    "Laysan Albatross": [
+        [
+            "Laysan Albatross",
+            34
+        ],
+        [
+            "Sooty Albatross",
+            20
+        ],
+        [
+            "Pomarine Jaeger",
+            2
+        ],
+        [
+            "Black footed Albatross",
+            2
+        ],
+        [
+            "Herring Gull",
+            1
+        ],
+        [
+            "Frigatebird",
+            1
+        ]
+    ],
+    "Sooty Albatross": [
+        [
+            "Sooty Albatross",
+            46
+        ],
+        [
+            "Black footed Albatross",
+            5
+        ],
+        [
+            "Least Auklet",
+            3
+        ],
+        [
+            "Pomarine Jaeger",
+            3
+        ],
+        [
+            "Pigeon Guillemot",
+            1
+        ]
+    ],
+    "Groove billed Ani": [
+        [
+            "Groove billed Ani",
+            57
+        ],
+        [
+            "Bronzed Cowbird",
+            1
+        ],
+        [
+            "Boat tailed Grackle",
+            1
+        ],
+        [
+            "American Crow",
+            1
+        ]
+    ],
+    "Crested Auklet": [
+        [
+            "Crested Auklet",
+            17
+        ],
+        [
+            "Rhinoceros Auklet",
+            16
+        ],
+        [
+            "Least Auklet",
+            10
+        ],
+        [
+            "Parakeet Auklet",
+            1
+        ]
+    ],
+    "Least Auklet": [
+        [
+            "Least Auklet",
+            20
+        ],
+        [
+            "Rhinoceros Auklet",
+            13
+        ],
+        [
+            "Pigeon Guillemot",
+            4
+        ],
+        [
+            "Parakeet Auklet",
+            3
+        ],
+        [
+            "Black Tern",
+            1
+        ]
+    ],
+    "Parakeet Auklet": [
+        [
+            "Least Auklet",
+            39
+        ],
+        [
+            "Rhinoceros Auklet",
+            13
+        ],
+        [
+            "Parakeet Auklet",
+            1
+        ]
+    ],
+    "Rhinoceros Auklet": [
+        [
+            "Least Auklet",
+            33
+        ],
+        [
+            "Rhinoceros Auklet",
+            13
+        ],
+        [
+            "Parakeet Auklet",
+            1
+        ],
+        [
+            "Crested Auklet",
+            1
+        ]
+    ],
+    "Brewer Blackbird": [
+        [
+            "Brewer Blackbird",
+            15
+        ],
+        [
+            "Cape Glossy Starling",
+            13
+        ],
+        [
+            "Bronzed Cowbird",
+            12
+        ],
+        [
+            "Rusty Blackbird",
+            9
+        ],
+        [
+            "Boat tailed Grackle",
+            6
+        ],
+        [
+            "Red winged Blackbird",
+            1
+        ],
+        [
+            "American Crow",
+            1
+        ],
+        [
+            "Groove billed Ani",
+            1
+        ],
+        [
+            "Clark Nutcracker",
+            1
+        ]
+    ],
+    "Red winged Blackbird": [
+        [
+            "Red winged Blackbird",
+            60
+        ]
+    ],
+    "Rusty Blackbird": [
+        [
+            "Rusty Blackbird",
+            32
+        ],
+        [
+            "Bronzed Cowbird",
+            11
+        ],
+        [
+            "Brewer Blackbird",
+            6
+        ],
+        [
+            "Boat tailed Grackle",
+            5
+        ],
+        [
+            "Cape Glossy Starling",
+            2
+        ],
+        [
+            "Gray Catbird",
+            1
+        ],
+        [
+            "Shiny Cowbird",
+            1
+        ],
+        [
+            "Gray crowned Rosy Finch",
+            1
+        ],
+        [
+            "Winter Wren",
+            1
+        ]
+    ],
+    "Yellow headed Blackbird": [
+        [
+            "Yellow headed Blackbird",
+            47
+        ],
+        [
+            "Hooded Oriole",
+            8
+        ],
+        [
+            "Bobolink",
+            1
+        ]
+    ],
+    "Bobolink": [
+        [
+            "Bobolink",
+            57
+        ],
+        [
+            "Nelson Sharp tailed Sparrow",
+            1
+        ],
+        [
+            "Orchard Oriole",
+            1
+        ],
+        [
+            "Clay colored Sparrow",
+            1
+        ]
+    ],
+    "Indigo Bunting": [
+        [
+            "Indigo Bunting",
+            56
+        ],
+        [
+            "Blue Grosbeak",
+            2
+        ],
+        [
+            "Black throated Blue Warbler",
+            1
+        ],
+        [
+            "Green Violetear",
+            1
+        ]
+    ],
+    "Lazuli Bunting": [
+        [
+            "Lazuli Bunting",
+            45
+        ],
+        [
+            "Blue Grosbeak",
+            9
+        ],
+        [
+            "Black throated Blue Warbler",
+            3
+        ],
+        [
+            "Acadian Flycatcher",
+            1
+        ]
+    ],
+    "Painted Bunting": [
+        [
+            "Painted Bunting",
+            51
+        ],
+        [
+            "Lazuli Bunting",
+            2
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            2
+        ],
+        [
+            "Evening Grosbeak",
+            1
+        ],
+        [
+            "Pine Warbler",
+            1
+        ],
+        [
+            "Orchard Oriole",
+            1
+        ]
+    ],
+    "Cardinal": [
+        [
+            "Cardinal",
+            57
+        ]
+    ],
+    "Spotted Catbird": [
+        [
+            "Spotted Catbird",
+            40
+        ],
+        [
+            "Green Violetear",
+            3
+        ],
+        [
+            "Green tailed Towhee",
+            1
+        ],
+        [
+            "Louisiana Waterthrush",
+            1
+        ]
+    ],
+    "Gray Catbird": [
+        [
+            "Gray Catbird",
+            59
+        ]
+    ],
+    "Yellow breasted Chat": [
+        [
+            "Yellow breasted Chat",
+            22
+        ],
+        [
+            "Nashville Warbler",
+            11
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            11
+        ],
+        [
+            "Common Yellowthroat",
+            5
+        ],
+        [
+            "Tennessee Warbler",
+            3
+        ],
+        [
+            "Kentucky Warbler",
+            2
+        ],
+        [
+            "Orchard Oriole",
+            1
+        ],
+        [
+            "Yellow throated Vireo",
+            1
+        ],
+        [
+            "Northern Waterthrush",
+            1
+        ],
+        [
+            "Orange crowned Warbler",
+            1
+        ],
+        [
+            "White eyed Vireo",
+            1
+        ]
+    ],
+    "Eastern Towhee": [
+        [
+            "Eastern Towhee",
+            58
+        ],
+        [
+            "Orchard Oriole",
+            2
+        ]
+    ],
+    "Chuck will Widow": [
+        [
+            "Nighthawk",
+            51
+        ],
+        [
+            "Mangrove Cuckoo",
+            3
+        ],
+        [
+            "Cactus Wren",
+            1
+        ],
+        [
+            "House Wren",
+            1
+        ]
+    ],
+    "Brandt Cormorant": [
+        [
+            "Pelagic Cormorant",
+            46
+        ],
+        [
+            "Brandt Cormorant",
+            11
+        ],
+        [
+            "Sooty Albatross",
+            1
+        ],
+        [
+            "Pigeon Guillemot",
+            1
+        ]
+    ],
+    "Red faced Cormorant": [
+        [
+            "Red faced Cormorant",
+            18
+        ],
+        [
+            "Brandt Cormorant",
+            14
+        ],
+        [
+            "Pelagic Cormorant",
+            10
+        ],
+        [
+            "Rhinoceros Auklet",
+            4
+        ],
+        [
+            "Least Auklet",
+            4
+        ],
+        [
+            "Parakeet Auklet",
+            1
+        ],
+        [
+            "Horned Grebe",
+            1
+        ]
+    ],
+    "Pelagic Cormorant": [
+        [
+            "Pelagic Cormorant",
+            41
+        ],
+        [
+            "Brandt Cormorant",
+            12
+        ],
+        [
+            "Red faced Cormorant",
+            5
+        ],
+        [
+            "Boat tailed Grackle",
+            1
+        ],
+        [
+            "Pigeon Guillemot",
+            1
+        ]
+    ],
+    "Bronzed Cowbird": [
+        [
+            "Bronzed Cowbird",
+            37
+        ],
+        [
+            "Groove billed Ani",
+            7
+        ],
+        [
+            "Brewer Blackbird",
+            7
+        ],
+        [
+            "Cape Glossy Starling",
+            4
+        ],
+        [
+            "Red winged Blackbird",
+            2
+        ],
+        [
+            "American Crow",
+            2
+        ],
+        [
+            "Fish Crow",
+            1
+        ]
+    ],
+    "Shiny Cowbird": [
+        [
+            "Bronzed Cowbird",
+            21
+        ],
+        [
+            "Shiny Cowbird",
+            13
+        ],
+        [
+            "American Crow",
+            9
+        ],
+        [
+            "Cape Glossy Starling",
+            7
+        ],
+        [
+            "Brewer Blackbird",
+            6
+        ],
+        [
+            "Red winged Blackbird",
+            1
+        ],
+        [
+            "Western Wood Pewee",
+            1
+        ],
+        [
+            "Rusty Blackbird",
+            1
+        ],
+        [
+            "Groove billed Ani",
+            1
+        ]
+    ],
+    "Brown Creeper": [
+        [
+            "Brown Creeper",
+            56
+        ],
+        [
+            "Fox Sparrow",
+            1
+        ],
+        [
+            "Swainson Warbler",
+            1
+        ],
+        [
+            "American Three toed Woodpecker",
+            1
+        ]
+    ],
+    "American Crow": [
+        [
+            "American Crow",
+            42
+        ],
+        [
+            "Common Raven",
+            15
+        ],
+        [
+            "Fish Crow",
+            2
+        ],
+        [
+            "Bronzed Cowbird",
+            1
+        ]
+    ],
+    "Fish Crow": [
+        [
+            "American Crow",
+            29
+        ],
+        [
+            "Common Raven",
+            18
+        ],
+        [
+            "Boat tailed Grackle",
+            5
+        ],
+        [
+            "Fish Crow",
+            2
+        ],
+        [
+            "Cape Glossy Starling",
+            2
+        ],
+        [
+            "Groove billed Ani",
+            2
+        ],
+        [
+            "Brewer Blackbird",
+            1
+        ],
+        [
+            "Bronzed Cowbird",
+            1
+        ]
+    ],
+    "Black billed Cuckoo": [
+        [
+            "Black billed Cuckoo",
+            51
+        ],
+        [
+            "Mangrove Cuckoo",
+            6
+        ],
+        [
+            "Yellow billed Cuckoo",
+            3
+        ]
+    ],
+    "Mangrove Cuckoo": [
+        [
+            "Mangrove Cuckoo",
+            44
+        ],
+        [
+            "Yellow billed Cuckoo",
+            4
+        ],
+        [
+            "Black billed Cuckoo",
+            1
+        ],
+        [
+            "Laysan Albatross",
+            1
+        ],
+        [
+            "Loggerhead Shrike",
+            1
+        ],
+        [
+            "Tropical Kingbird",
+            1
+        ],
+        [
+            "Western Wood Pewee",
+            1
+        ]
+    ],
+    "Yellow billed Cuckoo": [
+        [
+            "Yellow billed Cuckoo",
+            26
+        ],
+        [
+            "Black billed Cuckoo",
+            19
+        ],
+        [
+            "Mangrove Cuckoo",
+            11
+        ],
+        [
+            "Scissor tailed Flycatcher",
+            1
+        ],
+        [
+            "Carolina Wren",
+            1
+        ],
+        [
+            "Gray Kingbird",
+            1
+        ]
+    ],
+    "Gray crowned Rosy Finch": [
+        [
+            "Gray crowned Rosy Finch",
+            44
+        ],
+        [
+            "Pine Grosbeak",
+            4
+        ],
+        [
+            "Nelson Sharp tailed Sparrow",
+            2
+        ],
+        [
+            "Lazuli Bunting",
+            2
+        ],
+        [
+            "Clay colored Sparrow",
+            2
+        ],
+        [
+            "Rock Wren",
+            1
+        ],
+        [
+            "Le Conte Sparrow",
+            1
+        ],
+        [
+            "Brewer Sparrow",
+            1
+        ],
+        [
+            "Bronzed Cowbird",
+            1
+        ],
+        [
+            "Seaside Sparrow",
+            1
+        ]
+    ],
+    "Purple Finch": [
+        [
+            "Purple Finch",
+            56
+        ],
+        [
+            "Gray crowned Rosy Finch",
+            4
+        ]
+    ],
+    "Northern Flicker": [
+        [
+            "Northern Flicker",
+            59
+        ],
+        [
+            "Spotted Catbird",
+            1
+        ]
+    ],
+    "Acadian Flycatcher": [
+        [
+            "Acadian Flycatcher",
+            41
+        ],
+        [
+            "Least Flycatcher",
+            11
+        ],
+        [
+            "Philadelphia Vireo",
+            4
+        ],
+        [
+            "Western Wood Pewee",
+            2
+        ],
+        [
+            "Warbling Vireo",
+            1
+        ]
+    ],
+    "Great Crested Flycatcher": [
+        [
+            "Acadian Flycatcher",
+            17
+        ],
+        [
+            "Least Flycatcher",
+            12
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            10
+        ],
+        [
+            "Great Crested Flycatcher",
+            10
+        ],
+        [
+            "Tropical Kingbird",
+            6
+        ],
+        [
+            "Olive sided Flycatcher",
+            1
+        ],
+        [
+            "Gray Kingbird",
+            1
+        ],
+        [
+            "Warbling Vireo",
+            1
+        ],
+        [
+            "Yellow billed Cuckoo",
+            1
+        ],
+        [
+            "Western Wood Pewee",
+            1
+        ]
+    ],
+    "Least Flycatcher": [
+        [
+            "Least Flycatcher",
+            24
+        ],
+        [
+            "Acadian Flycatcher",
+            17
+        ],
+        [
+            "Western Wood Pewee",
+            8
+        ],
+        [
+            "Philadelphia Vireo",
+            6
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            1
+        ],
+        [
+            "Mockingbird",
+            1
+        ],
+        [
+            "Black capped Vireo",
+            1
+        ],
+        [
+            "Warbling Vireo",
+            1
+        ]
+    ],
+    "Olive sided Flycatcher": [
+        [
+            "Western Wood Pewee",
+            42
+        ],
+        [
+            "Least Flycatcher",
+            9
+        ],
+        [
+            "Acadian Flycatcher",
+            5
+        ],
+        [
+            "House Wren",
+            1
+        ],
+        [
+            "Bank Swallow",
+            1
+        ],
+        [
+            "Gray Kingbird",
+            1
+        ],
+        [
+            "Seaside Sparrow",
+            1
+        ]
+    ],
+    "Scissor tailed Flycatcher": [
+        [
+            "Scissor tailed Flycatcher",
+            56
+        ],
+        [
+            "Gray Kingbird",
+            2
+        ],
+        [
+            "Mockingbird",
+            1
+        ],
+        [
+            "Tropical Kingbird",
+            1
+        ]
+    ],
+    "Vermilion Flycatcher": [
+        [
+            "Vermilion Flycatcher",
+            60
+        ]
+    ],
+    "Yellow bellied Flycatcher": [
+        [
+            "Acadian Flycatcher",
+            27
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            15
+        ],
+        [
+            "Least Flycatcher",
+            6
+        ],
+        [
+            "Nashville Warbler",
+            2
+        ],
+        [
+            "Warbling Vireo",
+            2
+        ],
+        [
+            "Philadelphia Vireo",
+            2
+        ],
+        [
+            "Great Crested Flycatcher",
+            1
+        ],
+        [
+            "Cedar Waxwing",
+            1
+        ],
+        [
+            "Tropical Kingbird",
+            1
+        ],
+        [
+            "Western Wood Pewee",
+            1
+        ],
+        [
+            "Olive sided Flycatcher",
+            1
+        ]
+    ],
+    "Frigatebird": [
+        [
+            "Frigatebird",
+            58
+        ],
+        [
+            "Laysan Albatross",
+            1
+        ],
+        [
+            "Long tailed Jaeger",
+            1
+        ]
+    ],
+    "Northern Fulmar": [
+        [
+            "Northern Fulmar",
+            47
+        ],
+        [
+            "Sooty Albatross",
+            6
+        ],
+        [
+            "Pomarine Jaeger",
+            3
+        ],
+        [
+            "Least Auklet",
+            2
+        ],
+        [
+            "California Gull",
+            1
+        ],
+        [
+            "Glaucous winged Gull",
+            1
+        ]
+    ],
+    "Gadwall": [
+        [
+            "Gadwall",
+            58
+        ],
+        [
+            "Mallard",
+            2
+        ]
+    ],
+    "American Goldfinch": [
+        [
+            "American Goldfinch",
+            60
+        ]
+    ],
+    "European Goldfinch": [
+        [
+            "European Goldfinch",
+            59
+        ],
+        [
+            "American Goldfinch",
+            1
+        ]
+    ],
+    "Boat tailed Grackle": [
+        [
+            "Boat tailed Grackle",
+            33
+        ],
+        [
+            "Cape Glossy Starling",
+            11
+        ],
+        [
+            "Bronzed Cowbird",
+            10
+        ],
+        [
+            "Shiny Cowbird",
+            2
+        ],
+        [
+            "Brewer Blackbird",
+            1
+        ],
+        [
+            "Mangrove Cuckoo",
+            1
+        ],
+        [
+            "Florida Jay",
+            1
+        ],
+        [
+            "Rusty Blackbird",
+            1
+        ]
+    ],
+    "Eared Grebe": [
+        [
+            "Horned Grebe",
+            37
+        ],
+        [
+            "Western Grebe",
+            18
+        ],
+        [
+            "Eared Grebe",
+            4
+        ],
+        [
+            "Hooded Merganser",
+            1
+        ]
+    ],
+    "Horned Grebe": [
+        [
+            "Horned Grebe",
+            39
+        ],
+        [
+            "Western Grebe",
+            18
+        ],
+        [
+            "Pacific Loon",
+            2
+        ],
+        [
+            "Gadwall",
+            1
+        ]
+    ],
+    "Pied billed Grebe": [
+        [
+            "Pied billed Grebe",
+            51
+        ],
+        [
+            "Horned Grebe",
+            6
+        ],
+        [
+            "Western Grebe",
+            2
+        ],
+        [
+            "Pacific Loon",
+            1
+        ]
+    ],
+    "Western Grebe": [
+        [
+            "Western Grebe",
+            51
+        ],
+        [
+            "Horned Grebe",
+            7
+        ],
+        [
+            "Pacific Loon",
+            2
+        ]
+    ],
+    "Blue Grosbeak": [
+        [
+            "Blue Grosbeak",
+            38
+        ],
+        [
+            "Lazuli Bunting",
+            16
+        ],
+        [
+            "Indigo Bunting",
+            5
+        ],
+        [
+            "Gray crowned Rosy Finch",
+            1
+        ]
+    ],
+    "Evening Grosbeak": [
+        [
+            "Evening Grosbeak",
+            59
+        ],
+        [
+            "American Goldfinch",
+            1
+        ]
+    ],
+    "Pine Grosbeak": [
+        [
+            "Pine Grosbeak",
+            59
+        ],
+        [
+            "Purple Finch",
+            1
+        ]
+    ],
+    "Rose breasted Grosbeak": [
+        [
+            "Rose breasted Grosbeak",
+            57
+        ],
+        [
+            "Gray crowned Rosy Finch",
+            1
+        ],
+        [
+            "Eastern Towhee",
+            1
+        ],
+        [
+            "Acadian Flycatcher",
+            1
+        ]
+    ],
+    "Pigeon Guillemot": [
+        [
+            "Pigeon Guillemot",
+            45
+        ],
+        [
+            "Rhinoceros Auklet",
+            4
+        ],
+        [
+            "Least Auklet",
+            3
+        ],
+        [
+            "Crested Auklet",
+            3
+        ],
+        [
+            "Hooded Merganser",
+            1
+        ],
+        [
+            "Pelagic Cormorant",
+            1
+        ],
+        [
+            "Parakeet Auklet",
+            1
+        ]
+    ],
+    "California Gull": [
+        [
+            "California Gull",
+            27
+        ],
+        [
+            "Slaty backed Gull",
+            20
+        ],
+        [
+            "Heermann Gull",
+            9
+        ],
+        [
+            "Herring Gull",
+            2
+        ],
+        [
+            "Western Gull",
+            1
+        ],
+        [
+            "Ring billed Gull",
+            1
+        ]
+    ],
+    "Glaucous winged Gull": [
+        [
+            "Slaty backed Gull",
+            23
+        ],
+        [
+            "Glaucous winged Gull",
+            10
+        ],
+        [
+            "Western Gull",
+            8
+        ],
+        [
+            "California Gull",
+            8
+        ],
+        [
+            "Heermann Gull",
+            4
+        ],
+        [
+            "Herring Gull",
+            4
+        ],
+        [
+            "Ring billed Gull",
+            1
+        ],
+        [
+            "Least Auklet",
+            1
+        ]
+    ],
+    "Heermann Gull": [
+        [
+            "California Gull",
+            43
+        ],
+        [
+            "Slaty backed Gull",
+            14
+        ],
+        [
+            "Heermann Gull",
+            2
+        ],
+        [
+            "Caspian Tern",
+            1
+        ]
+    ],
+    "Herring Gull": [
+        [
+            "Herring Gull",
+            20
+        ],
+        [
+            "Slaty backed Gull",
+            18
+        ],
+        [
+            "California Gull",
+            10
+        ],
+        [
+            "Heermann Gull",
+            7
+        ],
+        [
+            "Western Gull",
+            3
+        ],
+        [
+            "Glaucous winged Gull",
+            2
+        ]
+    ],
+    "Ivory Gull": [
+        [
+            "Ivory Gull",
+            56
+        ],
+        [
+            "Ring billed Gull",
+            2
+        ],
+        [
+            "Forsters Tern",
+            1
+        ],
+        [
+            "Heermann Gull",
+            1
+        ]
+    ],
+    "Ring billed Gull": [
+        [
+            "Slaty backed Gull",
+            23
+        ],
+        [
+            "Ring billed Gull",
+            16
+        ],
+        [
+            "Heermann Gull",
+            12
+        ],
+        [
+            "California Gull",
+            7
+        ],
+        [
+            "Herring Gull",
+            2
+        ]
+    ],
+    "Slaty backed Gull": [
+        [
+            "Slaty backed Gull",
+            20
+        ],
+        [
+            "Western Gull",
+            9
+        ],
+        [
+            "Heermann Gull",
+            9
+        ],
+        [
+            "Glaucous winged Gull",
+            5
+        ],
+        [
+            "California Gull",
+            3
+        ],
+        [
+            "Herring Gull",
+            2
+        ],
+        [
+            "Northern Fulmar",
+            2
+        ]
+    ],
+    "Western Gull": [
+        [
+            "California Gull",
+            39
+        ],
+        [
+            "Slaty backed Gull",
+            14
+        ],
+        [
+            "Herring Gull",
+            3
+        ],
+        [
+            "Heermann Gull",
+            2
+        ],
+        [
+            "Western Gull",
+            2
+        ]
+    ],
+    "Anna Hummingbird": [
+        [
+            "Anna Hummingbird",
+            47
+        ],
+        [
+            "Ruby throated Hummingbird",
+            7
+        ],
+        [
+            "Green Violetear",
+            4
+        ],
+        [
+            "Rufous Hummingbird",
+            1
+        ],
+        [
+            "Western Wood Pewee",
+            1
+        ]
+    ],
+    "Ruby throated Hummingbird": [
+        [
+            "Ruby throated Hummingbird",
+            42
+        ],
+        [
+            "Anna Hummingbird",
+            13
+        ],
+        [
+            "Rufous Hummingbird",
+            3
+        ],
+        [
+            "Green Violetear",
+            2
+        ]
+    ],
+    "Rufous Hummingbird": [
+        [
+            "Rufous Hummingbird",
+            42
+        ],
+        [
+            "Ruby throated Hummingbird",
+            13
+        ],
+        [
+            "Anna Hummingbird",
+            5
+        ]
+    ],
+    "Green Violetear": [
+        [
+            "Green Violetear",
+            58
+        ],
+        [
+            "Rufous Hummingbird",
+            1
+        ],
+        [
+            "Anna Hummingbird",
+            1
+        ]
+    ],
+    "Long tailed Jaeger": [
+        [
+            "Long tailed Jaeger",
+            24
+        ],
+        [
+            "Pomarine Jaeger",
+            13
+        ],
+        [
+            "Black Tern",
+            8
+        ],
+        [
+            "Northern Fulmar",
+            4
+        ],
+        [
+            "Slaty backed Gull",
+            3
+        ],
+        [
+            "Black footed Albatross",
+            1
+        ],
+        [
+            "Frigatebird",
+            1
+        ],
+        [
+            "California Gull",
+            1
+        ],
+        [
+            "Forsters Tern",
+            1
+        ],
+        [
+            "Mangrove Cuckoo",
+            1
+        ],
+        [
+            "Pied billed Grebe",
+            1
+        ],
+        [
+            "Least Auklet",
+            1
+        ],
+        [
+            "Nighthawk",
+            1
+        ]
+    ],
+    "Pomarine Jaeger": [
+        [
+            "Pomarine Jaeger",
+            33
+        ],
+        [
+            "Slaty backed Gull",
+            6
+        ],
+        [
+            "Sooty Albatross",
+            5
+        ],
+        [
+            "Black Tern",
+            4
+        ],
+        [
+            "Least Auklet",
+            3
+        ],
+        [
+            "Black footed Albatross",
+            1
+        ],
+        [
+            "Bank Swallow",
+            1
+        ],
+        [
+            "Pied billed Grebe",
+            1
+        ],
+        [
+            "Western Gull",
+            1
+        ],
+        [
+            "Northern Fulmar",
+            1
+        ],
+        [
+            "Pacific Loon",
+            1
+        ],
+        [
+            "Bobolink",
+            1
+        ],
+        [
+            "Pigeon Guillemot",
+            1
+        ],
+        [
+            "Nighthawk",
+            1
+        ]
+    ],
+    "Blue Jay": [
+        [
+            "Blue Jay",
+            51
+        ],
+        [
+            "Florida Jay",
+            8
+        ],
+        [
+            "Clark Nutcracker",
+            1
+        ]
+    ],
+    "Florida Jay": [
+        [
+            "Florida Jay",
+            56
+        ],
+        [
+            "Blue Jay",
+            3
+        ],
+        [
+            "Mangrove Cuckoo",
+            1
+        ]
+    ],
+    "Green Jay": [
+        [
+            "Green Jay",
+            55
+        ],
+        [
+            "Florida Jay",
+            1
+        ],
+        [
+            "Hooded Oriole",
+            1
+        ]
+    ],
+    "Dark eyed Junco": [
+        [
+            "Dark eyed Junco",
+            54
+        ],
+        [
+            "Clay colored Sparrow",
+            2
+        ],
+        [
+            "Gray crowned Rosy Finch",
+            1
+        ],
+        [
+            "Gray Catbird",
+            1
+        ],
+        [
+            "Gray Kingbird",
+            1
+        ],
+        [
+            "Eastern Towhee",
+            1
+        ]
+    ],
+    "Tropical Kingbird": [
+        [
+            "Tropical Kingbird",
+            52
+        ],
+        [
+            "Gray Kingbird",
+            3
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            2
+        ],
+        [
+            "Acadian Flycatcher",
+            1
+        ],
+        [
+            "Blue headed Vireo",
+            1
+        ],
+        [
+            "Warbling Vireo",
+            1
+        ]
+    ],
+    "Gray Kingbird": [
+        [
+            "Gray Kingbird",
+            49
+        ],
+        [
+            "Tropical Kingbird",
+            6
+        ],
+        [
+            "Brown Thrasher",
+            1
+        ],
+        [
+            "Western Wood Pewee",
+            1
+        ],
+        [
+            "Loggerhead Shrike",
+            1
+        ],
+        [
+            "Least Flycatcher",
+            1
+        ]
+    ],
+    "Belted Kingfisher": [
+        [
+            "Belted Kingfisher",
+            59
+        ],
+        [
+            "Ringed Kingfisher",
+            1
+        ]
+    ],
+    "Green Kingfisher": [
+        [
+            "Green Kingfisher",
+            25
+        ],
+        [
+            "White breasted Kingfisher",
+            22
+        ],
+        [
+            "Pied Kingfisher",
+            7
+        ],
+        [
+            "Belted Kingfisher",
+            3
+        ],
+        [
+            "Green Violetear",
+            2
+        ],
+        [
+            "Ringed Kingfisher",
+            1
+        ]
+    ],
+    "Pied Kingfisher": [
+        [
+            "Pied Kingfisher",
+            56
+        ],
+        [
+            "Belted Kingfisher",
+            3
+        ],
+        [
+            "White breasted Kingfisher",
+            1
+        ]
+    ],
+    "Ringed Kingfisher": [
+        [
+            "Belted Kingfisher",
+            28
+        ],
+        [
+            "White breasted Kingfisher",
+            21
+        ],
+        [
+            "Ringed Kingfisher",
+            10
+        ],
+        [
+            "Mangrove Cuckoo",
+            1
+        ]
+    ],
+    "White breasted Kingfisher": [
+        [
+            "White breasted Kingfisher",
+            48
+        ],
+        [
+            "Green Kingfisher",
+            8
+        ],
+        [
+            "Ringed Kingfisher",
+            3
+        ],
+        [
+            "Pied Kingfisher",
+            1
+        ]
+    ],
+    "Red legged Kittiwake": [
+        [
+            "Red legged Kittiwake",
+            40
+        ],
+        [
+            "Heermann Gull",
+            6
+        ],
+        [
+            "Northern Fulmar",
+            5
+        ],
+        [
+            "California Gull",
+            1
+        ],
+        [
+            "Slaty backed Gull",
+            1
+        ]
+    ],
+    "Horned Lark": [
+        [
+            "Horned Lark",
+            60
+        ]
+    ],
+    "Pacific Loon": [
+        [
+            "Pacific Loon",
+            56
+        ],
+        [
+            "Pelagic Cormorant",
+            2
+        ],
+        [
+            "Western Grebe",
+            1
+        ],
+        [
+            "Rhinoceros Auklet",
+            1
+        ]
+    ],
+    "Mallard": [
+        [
+            "Mallard",
+            60
+        ]
+    ],
+    "Western Meadowlark": [
+        [
+            "Western Meadowlark",
+            59
+        ],
+        [
+            "Golden winged Warbler",
+            1
+        ]
+    ],
+    "Hooded Merganser": [
+        [
+            "Hooded Merganser",
+            58
+        ],
+        [
+            "Red breasted Merganser",
+            2
+        ]
+    ],
+    "Red breasted Merganser": [
+        [
+            "Red breasted Merganser",
+            50
+        ],
+        [
+            "Western Grebe",
+            5
+        ],
+        [
+            "Hooded Merganser",
+            3
+        ],
+        [
+            "Pigeon Guillemot",
+            1
+        ],
+        [
+            "Gadwall",
+            1
+        ]
+    ],
+    "Mockingbird": [
+        [
+            "Mockingbird",
+            45
+        ],
+        [
+            "Seaside Sparrow",
+            3
+        ],
+        [
+            "Gray Catbird",
+            3
+        ],
+        [
+            "Gray Kingbird",
+            2
+        ],
+        [
+            "Sage Thrasher",
+            1
+        ],
+        [
+            "Least Flycatcher",
+            1
+        ],
+        [
+            "Loggerhead Shrike",
+            1
+        ],
+        [
+            "Mangrove Cuckoo",
+            1
+        ],
+        [
+            "Rock Wren",
+            1
+        ],
+        [
+            "Philadelphia Vireo",
+            1
+        ],
+        [
+            "Western Wood Pewee",
+            1
+        ]
+    ],
+    "Nighthawk": [
+        [
+            "Nighthawk",
+            52
+        ],
+        [
+            "Mangrove Cuckoo",
+            3
+        ],
+        [
+            "Brown Creeper",
+            2
+        ],
+        [
+            "Western Wood Pewee",
+            1
+        ],
+        [
+            "Brandt Cormorant",
+            1
+        ],
+        [
+            "Western Meadowlark",
+            1
+        ]
+    ],
+    "Clark Nutcracker": [
+        [
+            "Clark Nutcracker",
+            57
+        ],
+        [
+            "Pine Grosbeak",
+            1
+        ],
+        [
+            "Loggerhead Shrike",
+            1
+        ],
+        [
+            "Black Tern",
+            1
+        ]
+    ],
+    "White breasted Nuthatch": [
+        [
+            "White breasted Nuthatch",
+            60
+        ]
+    ],
+    "Baltimore Oriole": [
+        [
+            "Baltimore Oriole",
+            45
+        ],
+        [
+            "Orchard Oriole",
+            9
+        ],
+        [
+            "Scott Oriole",
+            4
+        ],
+        [
+            "Hooded Oriole",
+            1
+        ],
+        [
+            "Pine Warbler",
+            1
+        ]
+    ],
+    "Hooded Oriole": [
+        [
+            "Hooded Oriole",
+            48
+        ],
+        [
+            "Orchard Oriole",
+            9
+        ],
+        [
+            "Baltimore Oriole",
+            2
+        ],
+        [
+            "Scott Oriole",
+            1
+        ]
+    ],
+    "Orchard Oriole": [
+        [
+            "Orchard Oriole",
+            42
+        ],
+        [
+            "Baltimore Oriole",
+            5
+        ],
+        [
+            "Eastern Towhee",
+            3
+        ],
+        [
+            "Hooded Oriole",
+            3
+        ],
+        [
+            "Scott Oriole",
+            2
+        ],
+        [
+            "Yellow Warbler",
+            1
+        ],
+        [
+            "American Goldfinch",
+            1
+        ],
+        [
+            "Nighthawk",
+            1
+        ],
+        [
+            "Pine Warbler",
+            1
+        ]
+    ],
+    "Scott Oriole": [
+        [
+            "Hooded Oriole",
+            30
+        ],
+        [
+            "Orchard Oriole",
+            14
+        ],
+        [
+            "Scott Oriole",
+            12
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            3
+        ],
+        [
+            "Baltimore Oriole",
+            1
+        ]
+    ],
+    "Ovenbird": [
+        [
+            "Ovenbird",
+            47
+        ],
+        [
+            "Louisiana Waterthrush",
+            6
+        ],
+        [
+            "Fox Sparrow",
+            1
+        ],
+        [
+            "Le Conte Sparrow",
+            1
+        ],
+        [
+            "Lincoln Sparrow",
+            1
+        ],
+        [
+            "House Wren",
+            1
+        ],
+        [
+            "Brown Thrasher",
+            1
+        ],
+        [
+            "Rusty Blackbird",
+            1
+        ],
+        [
+            "Magnolia Warbler",
+            1
+        ]
+    ],
+    "Brown Pelican": [
+        [
+            "Brown Pelican",
+            60
+        ]
+    ],
+    "White Pelican": [
+        [
+            "White Pelican",
+            49
+        ],
+        [
+            "Brown Pelican",
+            1
+        ]
+    ],
+    "Western Wood Pewee": [
+        [
+            "Western Wood Pewee",
+            43
+        ],
+        [
+            "Least Flycatcher",
+            17
+        ]
+    ],
+    "Sayornis": [
+        [
+            "Least Flycatcher",
+            41
+        ],
+        [
+            "Western Wood Pewee",
+            8
+        ],
+        [
+            "Vermilion Flycatcher",
+            5
+        ],
+        [
+            "Acadian Flycatcher",
+            1
+        ],
+        [
+            "Mockingbird",
+            1
+        ],
+        [
+            "Brewer Blackbird",
+            1
+        ],
+        [
+            "Seaside Sparrow",
+            1
+        ],
+        [
+            "Scissor tailed Flycatcher",
+            1
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            1
+        ]
+    ],
+    "American Pipit": [
+        [
+            "American Pipit",
+            57
+        ],
+        [
+            "Least Flycatcher",
+            2
+        ],
+        [
+            "Vesper Sparrow",
+            1
+        ]
+    ],
+    "Whip poor Will": [
+        [
+            "Nighthawk",
+            44
+        ],
+        [
+            "Mangrove Cuckoo",
+            1
+        ],
+        [
+            "Nelson Sharp tailed Sparrow",
+            1
+        ],
+        [
+            "Green Violetear",
+            1
+        ],
+        [
+            "Bewick Wren",
+            1
+        ],
+        [
+            "Crested Auklet",
+            1
+        ]
+    ],
+    "Horned Puffin": [
+        [
+            "Horned Puffin",
+            57
+        ],
+        [
+            "Least Auklet",
+            1
+        ],
+        [
+            "Pomarine Jaeger",
+            1
+        ],
+        [
+            "Rhinoceros Auklet",
+            1
+        ]
+    ],
+    "Common Raven": [
+        [
+            "Common Raven",
+            48
+        ],
+        [
+            "American Crow",
+            9
+        ],
+        [
+            "Fish Crow",
+            2
+        ]
+    ],
+    "White necked Raven": [
+        [
+            "White necked Raven",
+            31
+        ],
+        [
+            "Common Raven",
+            20
+        ],
+        [
+            "Groove billed Ani",
+            3
+        ],
+        [
+            "Fish Crow",
+            3
+        ],
+        [
+            "Pelagic Cormorant",
+            1
+        ],
+        [
+            "Sayornis",
+            1
+        ],
+        [
+            "Frigatebird",
+            1
+        ]
+    ],
+    "American Redstart": [
+        [
+            "American Redstart",
+            47
+        ],
+        [
+            "Orchard Oriole",
+            7
+        ],
+        [
+            "Eastern Towhee",
+            3
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            2
+        ],
+        [
+            "Yellow throated Vireo",
+            1
+        ]
+    ],
+    "Geococcyx": [
+        [
+            "Cactus Wren",
+            34
+        ],
+        [
+            "Western Meadowlark",
+            11
+        ],
+        [
+            "Clark Nutcracker",
+            5
+        ],
+        [
+            "Sage Thrasher",
+            5
+        ],
+        [
+            "Spotted Catbird",
+            2
+        ],
+        [
+            "Boat tailed Grackle",
+            1
+        ],
+        [
+            "Worm eating Warbler",
+            1
+        ],
+        [
+            "White breasted Kingfisher",
+            1
+        ]
+    ],
+    "Loggerhead Shrike": [
+        [
+            "Loggerhead Shrike",
+            54
+        ],
+        [
+            "Great Grey Shrike",
+            4
+        ],
+        [
+            "Horned Lark",
+            1
+        ],
+        [
+            "Gray Kingbird",
+            1
+        ]
+    ],
+    "Great Grey Shrike": [
+        [
+            "Loggerhead Shrike",
+            44
+        ],
+        [
+            "Great Grey Shrike",
+            16
+        ]
+    ],
+    "Baird Sparrow": [
+        [
+            "Grasshopper Sparrow",
+            23
+        ],
+        [
+            "Vesper Sparrow",
+            10
+        ],
+        [
+            "Henslow Sparrow",
+            9
+        ],
+        [
+            "Savannah Sparrow",
+            4
+        ],
+        [
+            "Song Sparrow",
+            1
+        ],
+        [
+            "Baird Sparrow",
+            1
+        ],
+        [
+            "Lincoln Sparrow",
+            1
+        ],
+        [
+            "Clay colored Sparrow",
+            1
+        ]
+    ],
+    "Black throated Sparrow": [
+        [
+            "Black throated Sparrow",
+            38
+        ],
+        [
+            "Brewer Sparrow",
+            6
+        ],
+        [
+            "Clay colored Sparrow",
+            4
+        ],
+        [
+            "Nelson Sharp tailed Sparrow",
+            3
+        ],
+        [
+            "Seaside Sparrow",
+            2
+        ],
+        [
+            "Clark Nutcracker",
+            2
+        ],
+        [
+            "White throated Sparrow",
+            1
+        ],
+        [
+            "Vesper Sparrow",
+            1
+        ],
+        [
+            "Loggerhead Shrike",
+            1
+        ],
+        [
+            "Cactus Wren",
+            1
+        ],
+        [
+            "Least Flycatcher",
+            1
+        ]
+    ],
+    "Brewer Sparrow": [
+        [
+            "Grasshopper Sparrow",
+            13
+        ],
+        [
+            "Clay colored Sparrow",
+            9
+        ],
+        [
+            "Vesper Sparrow",
+            8
+        ],
+        [
+            "Seaside Sparrow",
+            8
+        ],
+        [
+            "Field Sparrow",
+            6
+        ],
+        [
+            "Brewer Sparrow",
+            4
+        ],
+        [
+            "Henslow Sparrow",
+            3
+        ],
+        [
+            "Nelson Sharp tailed Sparrow",
+            3
+        ],
+        [
+            "Le Conte Sparrow",
+            2
+        ],
+        [
+            "Gray Catbird",
+            1
+        ],
+        [
+            "Chipping Sparrow",
+            1
+        ],
+        [
+            "Lincoln Sparrow",
+            1
+        ]
+    ],
+    "Chipping Sparrow": [
+        [
+            "Chipping Sparrow",
+            44
+        ],
+        [
+            "Tree Sparrow",
+            4
+        ],
+        [
+            "Clay colored Sparrow",
+            3
+        ],
+        [
+            "Field Sparrow",
+            2
+        ],
+        [
+            "Northern Waterthrush",
+            1
+        ],
+        [
+            "Song Sparrow",
+            1
+        ],
+        [
+            "White crowned Sparrow",
+            1
+        ],
+        [
+            "Vesper Sparrow",
+            1
+        ],
+        [
+            "Purple Finch",
+            1
+        ],
+        [
+            "Henslow Sparrow",
+            1
+        ],
+        [
+            "Lazuli Bunting",
+            1
+        ]
+    ],
+    "Clay colored Sparrow": [
+        [
+            "Henslow Sparrow",
+            16
+        ],
+        [
+            "Clay colored Sparrow",
+            12
+        ],
+        [
+            "Chipping Sparrow",
+            8
+        ],
+        [
+            "Seaside Sparrow",
+            7
+        ],
+        [
+            "Grasshopper Sparrow",
+            5
+        ],
+        [
+            "Field Sparrow",
+            4
+        ],
+        [
+            "White throated Sparrow",
+            2
+        ],
+        [
+            "Lincoln Sparrow",
+            1
+        ],
+        [
+            "Nelson Sharp tailed Sparrow",
+            1
+        ],
+        [
+            "Harris Sparrow",
+            1
+        ],
+        [
+            "Brewer Sparrow",
+            1
+        ],
+        [
+            "Vesper Sparrow",
+            1
+        ]
+    ],
+    "House Sparrow": [
+        [
+            "House Sparrow",
+            25
+        ],
+        [
+            "Clay colored Sparrow",
+            16
+        ],
+        [
+            "Seaside Sparrow",
+            8
+        ],
+        [
+            "Tree Sparrow",
+            5
+        ],
+        [
+            "Henslow Sparrow",
+            3
+        ],
+        [
+            "Field Sparrow",
+            3
+        ]
+    ],
+    "Field Sparrow": [
+        [
+            "Field Sparrow",
+            37
+        ],
+        [
+            "Clay colored Sparrow",
+            9
+        ],
+        [
+            "Chipping Sparrow",
+            4
+        ],
+        [
+            "House Sparrow",
+            2
+        ],
+        [
+            "Harris Sparrow",
+            2
+        ],
+        [
+            "Henslow Sparrow",
+            1
+        ],
+        [
+            "Le Conte Sparrow",
+            1
+        ],
+        [
+            "Song Sparrow",
+            1
+        ],
+        [
+            "Purple Finch",
+            1
+        ],
+        [
+            "Carolina Wren",
+            1
+        ]
+    ],
+    "Fox Sparrow": [
+        [
+            "Fox Sparrow",
+            44
+        ],
+        [
+            "Lincoln Sparrow",
+            3
+        ],
+        [
+            "Song Sparrow",
+            3
+        ],
+        [
+            "Nelson Sharp tailed Sparrow",
+            2
+        ],
+        [
+            "Sage Thrasher",
+            2
+        ],
+        [
+            "Bronzed Cowbird",
+            1
+        ],
+        [
+            "Purple Finch",
+            1
+        ],
+        [
+            "Eastern Towhee",
+            1
+        ],
+        [
+            "Seaside Sparrow",
+            1
+        ],
+        [
+            "Clay colored Sparrow",
+            1
+        ],
+        [
+            "Henslow Sparrow",
+            1
+        ]
+    ],
+    "Grasshopper Sparrow": [
+        [
+            "Grasshopper Sparrow",
+            40
+        ],
+        [
+            "Clay colored Sparrow",
+            5
+        ],
+        [
+            "Seaside Sparrow",
+            4
+        ],
+        [
+            "Bobolink",
+            3
+        ],
+        [
+            "White throated Sparrow",
+            2
+        ],
+        [
+            "Vesper Sparrow",
+            2
+        ],
+        [
+            "Cape May Warbler",
+            1
+        ],
+        [
+            "Lazuli Bunting",
+            1
+        ],
+        [
+            "Savannah Sparrow",
+            1
+        ],
+        [
+            "Henslow Sparrow",
+            1
+        ]
+    ],
+    "Harris Sparrow": [
+        [
+            "Henslow Sparrow",
+            29
+        ],
+        [
+            "Harris Sparrow",
+            12
+        ],
+        [
+            "Clay colored Sparrow",
+            8
+        ],
+        [
+            "Grasshopper Sparrow",
+            4
+        ],
+        [
+            "Field Sparrow",
+            3
+        ],
+        [
+            "White crowned Sparrow",
+            1
+        ],
+        [
+            "Seaside Sparrow",
+            1
+        ],
+        [
+            "White throated Sparrow",
+            1
+        ],
+        [
+            "Lincoln Sparrow",
+            1
+        ]
+    ],
+    "Henslow Sparrow": [
+        [
+            "Grasshopper Sparrow",
+            21
+        ],
+        [
+            "Henslow Sparrow",
+            17
+        ],
+        [
+            "Savannah Sparrow",
+            13
+        ],
+        [
+            "Clay colored Sparrow",
+            7
+        ],
+        [
+            "Vesper Sparrow",
+            1
+        ],
+        [
+            "Field Sparrow",
+            1
+        ]
+    ],
+    "Le Conte Sparrow": [
+        [
+            "Grasshopper Sparrow",
+            19
+        ],
+        [
+            "Le Conte Sparrow",
+            8
+        ],
+        [
+            "Savannah Sparrow",
+            7
+        ],
+        [
+            "Henslow Sparrow",
+            7
+        ],
+        [
+            "Clay colored Sparrow",
+            7
+        ],
+        [
+            "Bobolink",
+            5
+        ],
+        [
+            "Seaside Sparrow",
+            3
+        ],
+        [
+            "Song Sparrow",
+            1
+        ],
+        [
+            "Vesper Sparrow",
+            1
+        ],
+        [
+            "Field Sparrow",
+            1
+        ]
+    ],
+    "Lincoln Sparrow": [
+        [
+            "Song Sparrow",
+            20
+        ],
+        [
+            "Lincoln Sparrow",
+            13
+        ],
+        [
+            "Le Conte Sparrow",
+            5
+        ],
+        [
+            "Vesper Sparrow",
+            5
+        ],
+        [
+            "Henslow Sparrow",
+            3
+        ],
+        [
+            "Savannah Sparrow",
+            3
+        ],
+        [
+            "Clay colored Sparrow",
+            3
+        ],
+        [
+            "Chipping Sparrow",
+            2
+        ],
+        [
+            "Grasshopper Sparrow",
+            2
+        ],
+        [
+            "Least Flycatcher",
+            1
+        ],
+        [
+            "American Pipit",
+            1
+        ],
+        [
+            "Seaside Sparrow",
+            1
+        ]
+    ],
+    "Nelson Sharp tailed Sparrow": [
+        [
+            "Le Conte Sparrow",
+            17
+        ],
+        [
+            "Seaside Sparrow",
+            15
+        ],
+        [
+            "Lincoln Sparrow",
+            6
+        ],
+        [
+            "Grasshopper Sparrow",
+            5
+        ],
+        [
+            "Bobolink",
+            3
+        ],
+        [
+            "Marsh Wren",
+            3
+        ],
+        [
+            "Louisiana Waterthrush",
+            2
+        ],
+        [
+            "Nelson Sharp tailed Sparrow",
+            2
+        ],
+        [
+            "Cape May Warbler",
+            1
+        ],
+        [
+            "White throated Sparrow",
+            1
+        ],
+        [
+            "Clay colored Sparrow",
+            1
+        ],
+        [
+            "Vesper Sparrow",
+            1
+        ],
+        [
+            "Lazuli Bunting",
+            1
+        ],
+        [
+            "Field Sparrow",
+            1
+        ]
+    ],
+    "Savannah Sparrow": [
+        [
+            "Savannah Sparrow",
+            43
+        ],
+        [
+            "Vesper Sparrow",
+            6
+        ],
+        [
+            "Henslow Sparrow",
+            3
+        ],
+        [
+            "Song Sparrow",
+            3
+        ],
+        [
+            "Grasshopper Sparrow",
+            3
+        ],
+        [
+            "Le Conte Sparrow",
+            1
+        ],
+        [
+            "Louisiana Waterthrush",
+            1
+        ]
+    ],
+    "Seaside Sparrow": [
+        [
+            "Seaside Sparrow",
+            27
+        ],
+        [
+            "Le Conte Sparrow",
+            10
+        ],
+        [
+            "Savannah Sparrow",
+            6
+        ],
+        [
+            "Brewer Sparrow",
+            2
+        ],
+        [
+            "White throated Sparrow",
+            2
+        ],
+        [
+            "Cape May Warbler",
+            2
+        ],
+        [
+            "Red winged Blackbird",
+            2
+        ],
+        [
+            "Bronzed Cowbird",
+            2
+        ],
+        [
+            "Sage Thrasher",
+            1
+        ],
+        [
+            "Bobolink",
+            1
+        ],
+        [
+            "Green Violetear",
+            1
+        ],
+        [
+            "Marsh Wren",
+            1
+        ],
+        [
+            "Nelson Sharp tailed Sparrow",
+            1
+        ],
+        [
+            "American Pipit",
+            1
+        ],
+        [
+            "Yellow headed Blackbird",
+            1
+        ]
+    ],
+    "Song Sparrow": [
+        [
+            "Song Sparrow",
+            44
+        ],
+        [
+            "Lincoln Sparrow",
+            6
+        ],
+        [
+            "Le Conte Sparrow",
+            5
+        ],
+        [
+            "Henslow Sparrow",
+            2
+        ],
+        [
+            "Fox Sparrow",
+            2
+        ],
+        [
+            "Louisiana Waterthrush",
+            1
+        ]
+    ],
+    "Tree Sparrow": [
+        [
+            "Tree Sparrow",
+            20
+        ],
+        [
+            "Chipping Sparrow",
+            13
+        ],
+        [
+            "Clay colored Sparrow",
+            11
+        ],
+        [
+            "Field Sparrow",
+            6
+        ],
+        [
+            "House Sparrow",
+            3
+        ],
+        [
+            "Henslow Sparrow",
+            2
+        ],
+        [
+            "Brewer Sparrow",
+            2
+        ],
+        [
+            "Song Sparrow",
+            1
+        ],
+        [
+            "Lazuli Bunting",
+            1
+        ],
+        [
+            "White throated Sparrow",
+            1
+        ]
+    ],
+    "Vesper Sparrow": [
+        [
+            "Vesper Sparrow",
+            37
+        ],
+        [
+            "Savannah Sparrow",
+            6
+        ],
+        [
+            "Grasshopper Sparrow",
+            6
+        ],
+        [
+            "Henslow Sparrow",
+            4
+        ],
+        [
+            "Dark eyed Junco",
+            1
+        ],
+        [
+            "Seaside Sparrow",
+            1
+        ],
+        [
+            "Lincoln Sparrow",
+            1
+        ],
+        [
+            "Le Conte Sparrow",
+            1
+        ],
+        [
+            "Field Sparrow",
+            1
+        ],
+        [
+            "Harris Sparrow",
+            1
+        ],
+        [
+            "Purple Finch",
+            1
+        ]
+    ],
+    "White crowned Sparrow": [
+        [
+            "White crowned Sparrow",
+            50
+        ],
+        [
+            "Seaside Sparrow",
+            4
+        ],
+        [
+            "White throated Sparrow",
+            3
+        ],
+        [
+            "Clay colored Sparrow",
+            2
+        ],
+        [
+            "Chipping Sparrow",
+            1
+        ]
+    ],
+    "White throated Sparrow": [
+        [
+            "White throated Sparrow",
+            54
+        ],
+        [
+            "Lincoln Sparrow",
+            2
+        ],
+        [
+            "Chipping Sparrow",
+            1
+        ],
+        [
+            "Brewer Sparrow",
+            1
+        ],
+        [
+            "Song Sparrow",
+            1
+        ],
+        [
+            "Clay colored Sparrow",
+            1
+        ]
+    ],
+    "Cape Glossy Starling": [
+        [
+            "Cape Glossy Starling",
+            60
+        ]
+    ],
+    "Bank Swallow": [
+        [
+            "Bank Swallow",
+            30
+        ],
+        [
+            "Western Wood Pewee",
+            7
+        ],
+        [
+            "Least Flycatcher",
+            6
+        ],
+        [
+            "Cliff Swallow",
+            6
+        ],
+        [
+            "Gray Kingbird",
+            5
+        ],
+        [
+            "Tree Swallow",
+            1
+        ],
+        [
+            "Barn Swallow",
+            1
+        ],
+        [
+            "Philadelphia Vireo",
+            1
+        ],
+        [
+            "Seaside Sparrow",
+            1
+        ],
+        [
+            "Black Tern",
+            1
+        ]
+    ],
+    "Barn Swallow": [
+        [
+            "Barn Swallow",
+            36
+        ],
+        [
+            "Bank Swallow",
+            21
+        ],
+        [
+            "Cliff Swallow",
+            1
+        ],
+        [
+            "Tree Swallow",
+            1
+        ],
+        [
+            "Marsh Wren",
+            1
+        ]
+    ],
+    "Cliff Swallow": [
+        [
+            "Cliff Swallow",
+            25
+        ],
+        [
+            "Bank Swallow",
+            21
+        ],
+        [
+            "Barn Swallow",
+            11
+        ],
+        [
+            "Tree Sparrow",
+            1
+        ],
+        [
+            "Nelson Sharp tailed Sparrow",
+            1
+        ],
+        [
+            "Clay colored Sparrow",
+            1
+        ]
+    ],
+    "Tree Swallow": [
+        [
+            "Tree Swallow",
+            54
+        ],
+        [
+            "Bank Swallow",
+            2
+        ],
+        [
+            "Least Flycatcher",
+            2
+        ],
+        [
+            "Gray Kingbird",
+            1
+        ],
+        [
+            "Cerulean Warbler",
+            1
+        ]
+    ],
+    "Scarlet Tanager": [
+        [
+            "Scarlet Tanager",
+            57
+        ],
+        [
+            "Summer Tanager",
+            2
+        ],
+        [
+            "Vermilion Flycatcher",
+            1
+        ]
+    ],
+    "Summer Tanager": [
+        [
+            "Summer Tanager",
+            54
+        ],
+        [
+            "Scarlet Tanager",
+            3
+        ],
+        [
+            "Vermilion Flycatcher",
+            2
+        ],
+        [
+            "Purple Finch",
+            1
+        ]
+    ],
+    "Artic Tern": [
+        [
+            "Common Tern",
+            42
+        ],
+        [
+            "Forsters Tern",
+            13
+        ],
+        [
+            "Heermann Gull",
+            1
+        ],
+        [
+            "Artic Tern",
+            1
+        ],
+        [
+            "Caspian Tern",
+            1
+        ]
+    ],
+    "Black Tern": [
+        [
+            "Black Tern",
+            49
+        ],
+        [
+            "Forsters Tern",
+            2
+        ],
+        [
+            "Seaside Sparrow",
+            1
+        ],
+        [
+            "Least Tern",
+            1
+        ],
+        [
+            "Gray Kingbird",
+            1
+        ],
+        [
+            "Pomarine Jaeger",
+            1
+        ],
+        [
+            "Heermann Gull",
+            1
+        ],
+        [
+            "Gadwall",
+            1
+        ],
+        [
+            "Caspian Tern",
+            1
+        ],
+        [
+            "Fish Crow",
+            1
+        ],
+        [
+            "Common Tern",
+            1
+        ]
+    ],
+    "Caspian Tern": [
+        [
+            "Caspian Tern",
+            46
+        ],
+        [
+            "Common Tern",
+            7
+        ],
+        [
+            "Least Tern",
+            3
+        ],
+        [
+            "Elegant Tern",
+            2
+        ],
+        [
+            "Slaty backed Gull",
+            1
+        ],
+        [
+            "Forsters Tern",
+            1
+        ]
+    ],
+    "Common Tern": [
+        [
+            "Common Tern",
+            44
+        ],
+        [
+            "Forsters Tern",
+            6
+        ],
+        [
+            "Caspian Tern",
+            6
+        ],
+        [
+            "Elegant Tern",
+            2
+        ],
+        [
+            "Black Tern",
+            1
+        ],
+        [
+            "Least Tern",
+            1
+        ]
+    ],
+    "Elegant Tern": [
+        [
+            "Elegant Tern",
+            17
+        ],
+        [
+            "Least Tern",
+            16
+        ],
+        [
+            "Caspian Tern",
+            11
+        ],
+        [
+            "Common Tern",
+            10
+        ],
+        [
+            "Forsters Tern",
+            3
+        ],
+        [
+            "California Gull",
+            1
+        ],
+        [
+            "Pigeon Guillemot",
+            1
+        ],
+        [
+            "Slaty backed Gull",
+            1
+        ]
+    ],
+    "Forsters Tern": [
+        [
+            "Common Tern",
+            26
+        ],
+        [
+            "Forsters Tern",
+            16
+        ],
+        [
+            "Elegant Tern",
+            7
+        ],
+        [
+            "Caspian Tern",
+            5
+        ],
+        [
+            "Least Tern",
+            4
+        ],
+        [
+            "Black Tern",
+            1
+        ],
+        [
+            "Artic Tern",
+            1
+        ]
+    ],
+    "Least Tern": [
+        [
+            "Least Tern",
+            47
+        ],
+        [
+            "Forsters Tern",
+            5
+        ],
+        [
+            "Common Tern",
+            4
+        ],
+        [
+            "Slaty backed Gull",
+            1
+        ],
+        [
+            "Caspian Tern",
+            1
+        ],
+        [
+            "Artic Tern",
+            1
+        ],
+        [
+            "Black Tern",
+            1
+        ]
+    ],
+    "Green tailed Towhee": [
+        [
+            "Green tailed Towhee",
+            55
+        ],
+        [
+            "Clay colored Sparrow",
+            2
+        ],
+        [
+            "Philadelphia Vireo",
+            2
+        ],
+        [
+            "Least Flycatcher",
+            1
+        ]
+    ],
+    "Brown Thrasher": [
+        [
+            "Brown Thrasher",
+            48
+        ],
+        [
+            "Sage Thrasher",
+            8
+        ],
+        [
+            "American Pipit",
+            1
+        ],
+        [
+            "Louisiana Waterthrush",
+            1
+        ],
+        [
+            "Fox Sparrow",
+            1
+        ]
+    ],
+    "Sage Thrasher": [
+        [
+            "Sage Thrasher",
+            49
+        ],
+        [
+            "American Pipit",
+            4
+        ],
+        [
+            "Song Sparrow",
+            2
+        ],
+        [
+            "Le Conte Sparrow",
+            1
+        ],
+        [
+            "Mockingbird",
+            1
+        ],
+        [
+            "Clark Nutcracker",
+            1
+        ],
+        [
+            "Northern Waterthrush",
+            1
+        ],
+        [
+            "Vesper Sparrow",
+            1
+        ]
+    ],
+    "Black capped Vireo": [
+        [
+            "Black capped Vireo",
+            45
+        ],
+        [
+            "Least Flycatcher",
+            1
+        ],
+        [
+            "Red eyed Vireo",
+            1
+        ],
+        [
+            "Blue headed Vireo",
+            1
+        ],
+        [
+            "White eyed Vireo",
+            1
+        ],
+        [
+            "Olive sided Flycatcher",
+            1
+        ],
+        [
+            "Philadelphia Vireo",
+            1
+        ]
+    ],
+    "Blue headed Vireo": [
+        [
+            "Philadelphia Vireo",
+            41
+        ],
+        [
+            "Blue headed Vireo",
+            9
+        ],
+        [
+            "Black capped Vireo",
+            6
+        ],
+        [
+            "Nashville Warbler",
+            1
+        ],
+        [
+            "Myrtle Warbler",
+            1
+        ],
+        [
+            "American Redstart",
+            1
+        ],
+        [
+            "Mourning Warbler",
+            1
+        ]
+    ],
+    "Philadelphia Vireo": [
+        [
+            "Philadelphia Vireo",
+            35
+        ],
+        [
+            "Warbling Vireo",
+            9
+        ],
+        [
+            "Yellow throated Vireo",
+            7
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            5
+        ],
+        [
+            "Green Violetear",
+            1
+        ],
+        [
+            "Tennessee Warbler",
+            1
+        ],
+        [
+            "Wilson Warbler",
+            1
+        ]
+    ],
+    "Red eyed Vireo": [
+        [
+            "Philadelphia Vireo",
+            20
+        ],
+        [
+            "Warbling Vireo",
+            19
+        ],
+        [
+            "Black capped Vireo",
+            13
+        ],
+        [
+            "Red eyed Vireo",
+            6
+        ],
+        [
+            "Yellow throated Vireo",
+            2
+        ]
+    ],
+    "Warbling Vireo": [
+        [
+            "Philadelphia Vireo",
+            26
+        ],
+        [
+            "Warbling Vireo",
+            26
+        ],
+        [
+            "Swainson Warbler",
+            3
+        ],
+        [
+            "Gray Catbird",
+            1
+        ],
+        [
+            "Least Flycatcher",
+            1
+        ],
+        [
+            "Yellow billed Cuckoo",
+            1
+        ],
+        [
+            "Common Yellowthroat",
+            1
+        ],
+        [
+            "Acadian Flycatcher",
+            1
+        ]
+    ],
+    "White eyed Vireo": [
+        [
+            "Yellow throated Vireo",
+            31
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            14
+        ],
+        [
+            "Philadelphia Vireo",
+            11
+        ],
+        [
+            "Blue headed Vireo",
+            1
+        ],
+        [
+            "Tennessee Warbler",
+            1
+        ],
+        [
+            "White eyed Vireo",
+            1
+        ],
+        [
+            "Black capped Vireo",
+            1
+        ]
+    ],
+    "Yellow throated Vireo": [
+        [
+            "Yellow throated Vireo",
+            36
+        ],
+        [
+            "Pine Warbler",
+            9
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            4
+        ],
+        [
+            "Philadelphia Vireo",
+            3
+        ],
+        [
+            "Tennessee Warbler",
+            2
+        ],
+        [
+            "American Goldfinch",
+            1
+        ],
+        [
+            "Acadian Flycatcher",
+            1
+        ],
+        [
+            "Warbling Vireo",
+            1
+        ],
+        [
+            "American Redstart",
+            1
+        ],
+        [
+            "Prothonotary Warbler",
+            1
+        ]
+    ],
+    "Bay breasted Warbler": [
+        [
+            "Orchard Oriole",
+            13
+        ],
+        [
+            "Bay breasted Warbler",
+            9
+        ],
+        [
+            "Least Flycatcher",
+            9
+        ],
+        [
+            "Philadelphia Vireo",
+            8
+        ],
+        [
+            "Pine Warbler",
+            5
+        ],
+        [
+            "Acadian Flycatcher",
+            3
+        ],
+        [
+            "Eastern Towhee",
+            2
+        ],
+        [
+            "Lazuli Bunting",
+            2
+        ],
+        [
+            "American Redstart",
+            1
+        ],
+        [
+            "Rose breasted Grosbeak",
+            1
+        ],
+        [
+            "Cape May Warbler",
+            1
+        ],
+        [
+            "Chestnut sided Warbler",
+            1
+        ],
+        [
+            "Clay colored Sparrow",
+            1
+        ],
+        [
+            "Scott Oriole",
+            1
+        ],
+        [
+            "Yellow throated Vireo",
+            1
+        ],
+        [
+            "American Three toed Woodpecker",
+            1
+        ],
+        [
+            "European Goldfinch",
+            1
+        ]
+    ],
+    "Black and white Warbler": [
+        [
+            "Black and white Warbler",
+            56
+        ],
+        [
+            "Louisiana Waterthrush",
+            2
+        ],
+        [
+            "Northern Waterthrush",
+            1
+        ],
+        [
+            "Warbling Vireo",
+            1
+        ]
+    ],
+    "Black throated Blue Warbler": [
+        [
+            "Black throated Blue Warbler",
+            53
+        ],
+        [
+            "Least Flycatcher",
+            2
+        ],
+        [
+            "Philadelphia Vireo",
+            2
+        ],
+        [
+            "Cerulean Warbler",
+            1
+        ],
+        [
+            "Olive sided Flycatcher",
+            1
+        ]
+    ],
+    "Blue winged Warbler": [
+        [
+            "Prothonotary Warbler",
+            26
+        ],
+        [
+            "Blue winged Warbler",
+            7
+        ],
+        [
+            "Wilson Warbler",
+            7
+        ],
+        [
+            "Pine Warbler",
+            4
+        ],
+        [
+            "Tennessee Warbler",
+            3
+        ],
+        [
+            "Golden winged Warbler",
+            3
+        ],
+        [
+            "Hooded Warbler",
+            3
+        ],
+        [
+            "Yellow throated Vireo",
+            2
+        ],
+        [
+            "Prairie Warbler",
+            2
+        ],
+        [
+            "Orchard Oriole",
+            1
+        ],
+        [
+            "Cape May Warbler",
+            1
+        ],
+        [
+            "Kentucky Warbler",
+            1
+        ]
+    ],
+    "Canada Warbler": [
+        [
+            "Nashville Warbler",
+            27
+        ],
+        [
+            "Kentucky Warbler",
+            15
+        ],
+        [
+            "Canada Warbler",
+            12
+        ],
+        [
+            "Tennessee Warbler",
+            2
+        ],
+        [
+            "Philadelphia Vireo",
+            1
+        ],
+        [
+            "Cape May Warbler",
+            1
+        ],
+        [
+            "Pine Warbler",
+            1
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            1
+        ]
+    ],
+    "Cape May Warbler": [
+        [
+            "Cape May Warbler",
+            41
+        ],
+        [
+            "Prairie Warbler",
+            8
+        ],
+        [
+            "Pine Warbler",
+            5
+        ],
+        [
+            "Palm Warbler",
+            2
+        ],
+        [
+            "Louisiana Waterthrush",
+            1
+        ],
+        [
+            "Wilson Warbler",
+            1
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            1
+        ],
+        [
+            "Blue winged Warbler",
+            1
+        ]
+    ],
+    "Cerulean Warbler": [
+        [
+            "Cerulean Warbler",
+            37
+        ],
+        [
+            "Black throated Blue Warbler",
+            18
+        ],
+        [
+            "Tennessee Warbler",
+            1
+        ],
+        [
+            "Philadelphia Vireo",
+            1
+        ],
+        [
+            "Least Flycatcher",
+            1
+        ],
+        [
+            "Blue headed Vireo",
+            1
+        ],
+        [
+            "Palm Warbler",
+            1
+        ]
+    ],
+    "Chestnut sided Warbler": [
+        [
+            "Chestnut sided Warbler",
+            41
+        ],
+        [
+            "Yellow throated Vireo",
+            6
+        ],
+        [
+            "Philadelphia Vireo",
+            6
+        ],
+        [
+            "Black capped Vireo",
+            3
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            1
+        ],
+        [
+            "Tennessee Warbler",
+            1
+        ],
+        [
+            "Acadian Flycatcher",
+            1
+        ],
+        [
+            "Rock Wren",
+            1
+        ]
+    ],
+    "Golden winged Warbler": [
+        [
+            "Golden winged Warbler",
+            31
+        ],
+        [
+            "Tennessee Warbler",
+            17
+        ],
+        [
+            "Chestnut sided Warbler",
+            4
+        ],
+        [
+            "Hooded Warbler",
+            3
+        ],
+        [
+            "Magnolia Warbler",
+            2
+        ],
+        [
+            "Common Yellowthroat",
+            1
+        ],
+        [
+            "Yellow throated Vireo",
+            1
+        ]
+    ],
+    "Hooded Warbler": [
+        [
+            "Hooded Warbler",
+            27
+        ],
+        [
+            "Kentucky Warbler",
+            13
+        ],
+        [
+            "Tennessee Warbler",
+            5
+        ],
+        [
+            "Wilson Warbler",
+            3
+        ],
+        [
+            "Nashville Warbler",
+            3
+        ],
+        [
+            "Orange crowned Warbler",
+            1
+        ],
+        [
+            "Prairie Warbler",
+            1
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            1
+        ],
+        [
+            "Canada Warbler",
+            1
+        ],
+        [
+            "Cape May Warbler",
+            1
+        ],
+        [
+            "Pine Warbler",
+            1
+        ],
+        [
+            "Common Yellowthroat",
+            1
+        ],
+        [
+            "Yellow breasted Chat",
+            1
+        ],
+        [
+            "Hooded Oriole",
+            1
+        ]
+    ],
+    "Kentucky Warbler": [
+        [
+            "Kentucky Warbler",
+            28
+        ],
+        [
+            "Tennessee Warbler",
+            9
+        ],
+        [
+            "Wilson Warbler",
+            4
+        ],
+        [
+            "Hooded Warbler",
+            4
+        ],
+        [
+            "Common Yellowthroat",
+            4
+        ],
+        [
+            "Nashville Warbler",
+            3
+        ],
+        [
+            "Mourning Warbler",
+            3
+        ],
+        [
+            "Pine Warbler",
+            2
+        ],
+        [
+            "Yellow breasted Chat",
+            2
+        ]
+    ],
+    "Magnolia Warbler": [
+        [
+            "Magnolia Warbler",
+            39
+        ],
+        [
+            "Nashville Warbler",
+            4
+        ],
+        [
+            "Pine Warbler",
+            4
+        ],
+        [
+            "Prairie Warbler",
+            3
+        ],
+        [
+            "Wilson Warbler",
+            2
+        ],
+        [
+            "Philadelphia Vireo",
+            2
+        ],
+        [
+            "Cape May Warbler",
+            2
+        ],
+        [
+            "Hooded Warbler",
+            1
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            1
+        ],
+        [
+            "Golden winged Warbler",
+            1
+        ]
+    ],
+    "Mourning Warbler": [
+        [
+            "Nashville Warbler",
+            28
+        ],
+        [
+            "Tennessee Warbler",
+            11
+        ],
+        [
+            "Mourning Warbler",
+            7
+        ],
+        [
+            "Kentucky Warbler",
+            6
+        ],
+        [
+            "Swainson Warbler",
+            1
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            1
+        ],
+        [
+            "Black capped Vireo",
+            1
+        ],
+        [
+            "Worm eating Warbler",
+            1
+        ],
+        [
+            "Cape May Warbler",
+            1
+        ],
+        [
+            "Orchard Oriole",
+            1
+        ],
+        [
+            "Acadian Flycatcher",
+            1
+        ],
+        [
+            "Green Violetear",
+            1
+        ]
+    ],
+    "Myrtle Warbler": [
+        [
+            "Myrtle Warbler",
+            24
+        ],
+        [
+            "Magnolia Warbler",
+            13
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            7
+        ],
+        [
+            "Cape May Warbler",
+            5
+        ],
+        [
+            "American Pipit",
+            4
+        ],
+        [
+            "Pine Warbler",
+            3
+        ],
+        [
+            "Philadelphia Vireo",
+            1
+        ],
+        [
+            "Worm eating Warbler",
+            1
+        ],
+        [
+            "Common Yellowthroat",
+            1
+        ],
+        [
+            "Yellow throated Vireo",
+            1
+        ]
+    ],
+    "Nashville Warbler": [
+        [
+            "Nashville Warbler",
+            43
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            5
+        ],
+        [
+            "Philadelphia Vireo",
+            5
+        ],
+        [
+            "Tennessee Warbler",
+            2
+        ],
+        [
+            "Yellow throated Vireo",
+            1
+        ],
+        [
+            "American Redstart",
+            1
+        ],
+        [
+            "Mourning Warbler",
+            1
+        ],
+        [
+            "Common Yellowthroat",
+            1
+        ],
+        [
+            "Yellow Warbler",
+            1
+        ]
+    ],
+    "Orange crowned Warbler": [
+        [
+            "Pine Warbler",
+            25
+        ],
+        [
+            "Tennessee Warbler",
+            12
+        ],
+        [
+            "Warbling Vireo",
+            7
+        ],
+        [
+            "Nashville Warbler",
+            4
+        ],
+        [
+            "Wilson Warbler",
+            3
+        ],
+        [
+            "Orange crowned Warbler",
+            3
+        ],
+        [
+            "Yellow throated Vireo",
+            2
+        ],
+        [
+            "Philadelphia Vireo",
+            1
+        ],
+        [
+            "Palm Warbler",
+            1
+        ],
+        [
+            "Acadian Flycatcher",
+            1
+        ],
+        [
+            "Green tailed Towhee",
+            1
+        ]
+    ],
+    "Palm Warbler": [
+        [
+            "Palm Warbler",
+            41
+        ],
+        [
+            "Cape May Warbler",
+            7
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            3
+        ],
+        [
+            "Myrtle Warbler",
+            2
+        ],
+        [
+            "Prairie Warbler",
+            1
+        ],
+        [
+            "Wilson Warbler",
+            1
+        ],
+        [
+            "Common Yellowthroat",
+            1
+        ],
+        [
+            "Savannah Sparrow",
+            1
+        ],
+        [
+            "Worm eating Warbler",
+            1
+        ],
+        [
+            "Western Wood Pewee",
+            1
+        ],
+        [
+            "Tennessee Warbler",
+            1
+        ]
+    ],
+    "Pine Warbler": [
+        [
+            "Pine Warbler",
+            50
+        ],
+        [
+            "Yellow throated Vireo",
+            3
+        ],
+        [
+            "Cape May Warbler",
+            2
+        ],
+        [
+            "Prairie Warbler",
+            1
+        ],
+        [
+            "Least Flycatcher",
+            1
+        ],
+        [
+            "Palm Warbler",
+            1
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            1
+        ],
+        [
+            "Orchard Oriole",
+            1
+        ]
+    ],
+    "Prairie Warbler": [
+        [
+            "Prairie Warbler",
+            48
+        ],
+        [
+            "Cape May Warbler",
+            9
+        ],
+        [
+            "Tennessee Warbler",
+            2
+        ],
+        [
+            "Wilson Warbler",
+            1
+        ]
+    ],
+    "Prothonotary Warbler": [
+        [
+            "Prothonotary Warbler",
+            57
+        ],
+        [
+            "Wilson Warbler",
+            2
+        ],
+        [
+            "Pine Warbler",
+            1
+        ]
+    ],
+    "Swainson Warbler": [
+        [
+            "Swainson Warbler",
+            24
+        ],
+        [
+            "Ovenbird",
+            10
+        ],
+        [
+            "Warbling Vireo",
+            5
+        ],
+        [
+            "Tennessee Warbler",
+            4
+        ],
+        [
+            "Philadelphia Vireo",
+            3
+        ],
+        [
+            "Red eyed Vireo",
+            2
+        ],
+        [
+            "Carolina Wren",
+            2
+        ],
+        [
+            "Palm Warbler",
+            2
+        ],
+        [
+            "Great Crested Flycatcher",
+            1
+        ],
+        [
+            "House Wren",
+            1
+        ],
+        [
+            "Western Wood Pewee",
+            1
+        ],
+        [
+            "Black billed Cuckoo",
+            1
+        ]
+    ],
+    "Tennessee Warbler": [
+        [
+            "Philadelphia Vireo",
+            18
+        ],
+        [
+            "Yellow throated Vireo",
+            13
+        ],
+        [
+            "Tennessee Warbler",
+            10
+        ],
+        [
+            "Pine Warbler",
+            5
+        ],
+        [
+            "Black capped Vireo",
+            4
+        ],
+        [
+            "Warbling Vireo",
+            3
+        ],
+        [
+            "Chestnut sided Warbler",
+            1
+        ],
+        [
+            "Cedar Waxwing",
+            1
+        ],
+        [
+            "Orange crowned Warbler",
+            1
+        ],
+        [
+            "Palm Warbler",
+            1
+        ],
+        [
+            "Least Flycatcher",
+            1
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            1
+        ]
+    ],
+    "Wilson Warbler": [
+        [
+            "Wilson Warbler",
+            32
+        ],
+        [
+            "Tennessee Warbler",
+            9
+        ],
+        [
+            "Mourning Warbler",
+            3
+        ],
+        [
+            "Nashville Warbler",
+            3
+        ],
+        [
+            "Hooded Warbler",
+            2
+        ],
+        [
+            "Prairie Warbler",
+            2
+        ],
+        [
+            "Yellow Warbler",
+            2
+        ],
+        [
+            "Yellow bellied Flycatcher",
+            1
+        ],
+        [
+            "Kentucky Warbler",
+            1
+        ],
+        [
+            "Blue winged Warbler",
+            1
+        ],
+        [
+            "American Goldfinch",
+            1
+        ],
+        [
+            "Pine Warbler",
+            1
+        ],
+        [
+            "Orange crowned Warbler",
+            1
+        ],
+        [
+            "Canada Warbler",
+            1
+        ]
+    ],
+    "Worm eating Warbler": [
+        [
+            "Philadelphia Vireo",
+            10
+        ],
+        [
+            "Tennessee Warbler",
+            9
+        ],
+        [
+            "Ovenbird",
+            8
+        ],
+        [
+            "Louisiana Waterthrush",
+            8
+        ],
+        [
+            "Worm eating Warbler",
+            5
+        ],
+        [
+            "Orange crowned Warbler",
+            4
+        ],
+        [
+            "Bay breasted Warbler",
+            4
+        ],
+        [
+            "Cerulean Warbler",
+            3
+        ],
+        [
+            "Black capped Vireo",
+            3
+        ],
+        [
+            "Wilson Warbler",
+            2
+        ],
+        [
+            "Nashville Warbler",
+            1
+        ],
+        [
+            "Palm Warbler",
+            1
+        ],
+        [
+            "Cape May Warbler",
+            1
+        ]
+    ],
+    "Yellow Warbler": [
+        [
+            "Yellow Warbler",
+            46
+        ],
+        [
+            "Prairie Warbler",
+            5
+        ],
+        [
+            "Pine Warbler",
+            4
+        ],
+        [
+            "Wilson Warbler",
+            2
+        ],
+        [
+            "Yellow throated Vireo",
+            1
+        ],
+        [
+            "Cape May Warbler",
+            1
+        ],
+        [
+            "Tennessee Warbler",
+            1
+        ]
+    ],
+    "Northern Waterthrush": [
+        [
+            "Northern Waterthrush",
+            44
+        ],
+        [
+            "Louisiana Waterthrush",
+            13
+        ],
+        [
+            "Ovenbird",
+            1
+        ],
+        [
+            "Cape May Warbler",
+            1
+        ],
+        [
+            "Seaside Sparrow",
+            1
+        ]
+    ],
+    "Louisiana Waterthrush": [
+        [
+            "Northern Waterthrush",
+            42
+        ],
+        [
+            "Louisiana Waterthrush",
+            15
+        ],
+        [
+            "Henslow Sparrow",
+            1
+        ],
+        [
+            "Palm Warbler",
+            1
+        ],
+        [
+            "Red winged Blackbird",
+            1
+        ]
+    ],
+    "Bohemian Waxwing": [
+        [
+            "Bohemian Waxwing",
+            50
+        ],
+        [
+            "Cedar Waxwing",
+            10
+        ]
+    ],
+    "Cedar Waxwing": [
+        [
+            "Cedar Waxwing",
+            60
+        ]
+    ],
+    "American Three toed Woodpecker": [
+        [
+            "American Three toed Woodpecker",
+            44
+        ],
+        [
+            "Downy Woodpecker",
+            4
+        ],
+        [
+            "Spotted Catbird",
+            1
+        ],
+        [
+            "Louisiana Waterthrush",
+            1
+        ]
+    ],
+    "Pileated Woodpecker": [
+        [
+            "Pileated Woodpecker",
+            59
+        ],
+        [
+            "American Three toed Woodpecker",
+            1
+        ]
+    ],
+    "Red bellied Woodpecker": [
+        [
+            "Red bellied Woodpecker",
+            60
+        ]
+    ],
+    "Red cockaded Woodpecker": [
+        [
+            "American Three toed Woodpecker",
+            55
+        ],
+        [
+            "Downy Woodpecker",
+            1
+        ],
+        [
+            "Nighthawk",
+            1
+        ],
+        [
+            "Red cockaded Woodpecker",
+            1
+        ]
+    ],
+    "Red headed Woodpecker": [
+        [
+            "Red headed Woodpecker",
+            54
+        ],
+        [
+            "Red bellied Woodpecker",
+            4
+        ],
+        [
+            "American Three toed Woodpecker",
+            1
+        ],
+        [
+            "Pileated Woodpecker",
+            1
+        ]
+    ],
+    "Downy Woodpecker": [
+        [
+            "Downy Woodpecker",
+            57
+        ],
+        [
+            "American Three toed Woodpecker",
+            2
+        ],
+        [
+            "Pied Kingfisher",
+            1
+        ]
+    ],
+    "Bewick Wren": [
+        [
+            "Bewick Wren",
+            20
+        ],
+        [
+            "Carolina Wren",
+            11
+        ],
+        [
+            "House Wren",
+            9
+        ],
+        [
+            "Marsh Wren",
+            9
+        ],
+        [
+            "Winter Wren",
+            4
+        ],
+        [
+            "Rock Wren",
+            3
+        ],
+        [
+            "Sage Thrasher",
+            1
+        ],
+        [
+            "Philadelphia Vireo",
+            1
+        ],
+        [
+            "Black billed Cuckoo",
+            1
+        ],
+        [
+            "Harris Sparrow",
+            1
+        ]
+    ],
+    "Cactus Wren": [
+        [
+            "Cactus Wren",
+            55
+        ],
+        [
+            "Rock Wren",
+            2
+        ],
+        [
+            "Louisiana Waterthrush",
+            1
+        ],
+        [
+            "Winter Wren",
+            1
+        ],
+        [
+            "Spotted Catbird",
+            1
+        ]
+    ],
+    "Carolina Wren": [
+        [
+            "Carolina Wren",
+            55
+        ],
+        [
+            "Winter Wren",
+            3
+        ],
+        [
+            "Marsh Wren",
+            2
+        ]
+    ],
+    "House Wren": [
+        [
+            "House Wren",
+            40
+        ],
+        [
+            "Winter Wren",
+            7
+        ],
+        [
+            "Carolina Wren",
+            4
+        ],
+        [
+            "Bewick Wren",
+            3
+        ],
+        [
+            "Clay colored Sparrow",
+            1
+        ],
+        [
+            "Swainson Warbler",
+            1
+        ],
+        [
+            "Western Wood Pewee",
+            1
+        ],
+        [
+            "Marsh Wren",
+            1
+        ],
+        [
+            "Worm eating Warbler",
+            1
+        ]
+    ],
+    "Marsh Wren": [
+        [
+            "Marsh Wren",
+            54
+        ],
+        [
+            "Carolina Wren",
+            5
+        ],
+        [
+            "Winter Wren",
+            1
+        ]
+    ],
+    "Rock Wren": [
+        [
+            "Rock Wren",
+            54
+        ],
+        [
+            "Cactus Wren",
+            1
+        ],
+        [
+            "Winter Wren",
+            1
+        ],
+        [
+            "Swainson Warbler",
+            1
+        ],
+        [
+            "Marsh Wren",
+            1
+        ],
+        [
+            "Eastern Towhee",
+            1
+        ],
+        [
+            "House Wren",
+            1
+        ]
+    ],
+    "Winter Wren": [
+        [
+            "Winter Wren",
+            37
+        ],
+        [
+            "Bewick Wren",
+            9
+        ],
+        [
+            "House Wren",
+            7
+        ],
+        [
+            "Carolina Wren",
+            3
+        ],
+        [
+            "Rock Wren",
+            2
+        ],
+        [
+            "Marsh Wren",
+            1
+        ],
+        [
+            "Song Sparrow",
+            1
+        ]
+    ],
+    "Common Yellowthroat": [
+        [
+            "Common Yellowthroat",
+            56
+        ],
+        [
+            "Nashville Warbler",
+            2
+        ],
+        [
+            "Tennessee Warbler",
+            2
+        ]
+    ]
+}

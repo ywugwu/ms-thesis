@@ -1,13 +1,13 @@
-,openai_clip-vit-large-patch14 Corr(KNN),openai_clip-vit-large-patch14 Corr(Text Consistency),openai_clip-vit-large-patch14 Corr(Classification Margin),google_siglip-base-patch16-224 Corr(KNN),google_siglip-base-patch16-224 Corr(Text Consistency),google_siglip-base-patch16-224 Corr(Classification Margin),facebook_flava-full Corr(KNN),facebook_flava-full Corr(Text Consistency),facebook_flava-full Corr(Classification Margin)
-CUB,,,,,,,,,
-Cars,,,,,,,,,
-Aircraft,,,,,,,,,
-Food101,,,,,,,,,
-ImageNetV2,,,,,,,,,
-ObjectNet,,,,,,,,,
-SUN397,0.454,0.467,0.484,0.416,0.317,0.349,0.287,0.356,0.337
-VTAB-CIFAR100,,,,,,,,,
-Flowers,,,,,,,,,
-VTAB-Pets,,,,,,,,,
-VTAB-Resisc45,,,,,,,,,
-Stanford Dogs,,,,,,,,,
+,openai_clip-vit-base-patch32 Corr(KNN),openai_clip-vit-base-patch32 Corr(Text Consistency),openai_clip-vit-base-patch32 Corr(Classification Margin)
+CUB,0.361,0.436,0.475
+Cars,0.424,0.47,0.484
+Aircraft,0.38,0.486,0.424
+Food101,0.348,0.326,0.378
+ImageNetV2,0.31,0.221,0.308
+ObjectNet,,,
+SUN397,,,
+VTAB-CIFAR100,-0.042,-0.097,-0.081
+Flowers,0.363,0.533,0.523
+VTAB-Pets,0.423,0.411,0.495
+VTAB-Resisc45,0.077,0.231,0.267
+Stanford Dogs,,,

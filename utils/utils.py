@@ -18,7 +18,7 @@ class TraitsResponse(BaseModel):
 
 # Define the CaptionGenerator class
 class CaptionGenerator:
-    def __init__(self, dataset_name: str, class_names: List[str], model: str = "gpt-4o-mini-2024-07-18", num_captions: int = 32, cache_dir: str = "cache"):
+    def __init__(self, dataset_name: str, class_names: List[str], model: str = "gpt-4o-mini-2024-07-18", num_captions: int = 32, cache_dir: str = "cache",prompt_template: list = ['a photo of a {c}']):
         """
         Initializes the CaptionGenerator with the specified OpenAI model, number of captions, and cache directory.
         
@@ -36,7 +36,7 @@ class CaptionGenerator:
         self.dataset_name = dataset_name
         self.class_names = class_names
         self.global_traits = None  # Will be set after generating traits
-
+        self.prompt_template = prompt_template
         # Ensure the cache directory exists
         os.makedirs(self.cache_dir, exist_ok=True)
 
@@ -177,7 +177,9 @@ class CaptionGenerator:
         # Define the meta-prompt with the subject and global traits
         # traits_str = ', '.join(self.global_traits)
         user_content = (
-            f"Generate {self.num_captions} diverse alternative captions for the standard caption: \" a photo of a/an {subject}." 
+            f"Please generate {self.num_captions} diverse and creative alternative captions for the subject '{subject}'. "
+            f"Each caption should be compatible with the CLIP model and adhere to the original prompt template provided: '{self.prompt_template}'. "
+            f"Ensure that the captions maintain the structure and format of the template, appropriately replacing any placeholders, while introducing variety in wording and expression."
         )
 
         # Construct the messages list

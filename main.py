@@ -55,6 +55,7 @@ def main():
     pseudo_images_folder = experiment_params.get('pseudo_images_folder', 'pseudo_images')
     consistency_scorer_config = config.get('consistency_scorer', {})
     consistency_scorer_enabled = consistency_scorer_config.get('enable', False)
+    gpt_model = config['gpt_model']['name']
     # if cuda is available, use it
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
     # Ensure results directory exists
@@ -85,7 +86,7 @@ def main():
             standard_labels = n_classes
 
             # Initialize CaptionGenerator
-            capGenerator = CaptionGenerator(dataset_name=dataset_name, class_names=n_classes, num_captions=num_captions)
+            capGenerator = CaptionGenerator(dataset_name=dataset_name, class_names=n_classes, num_captions=num_captions, model = gpt_model, prompt_template=dataset.prompt_template)
             alter_caption_list = []
             labels = []
             print("Generating alternative captions...")
@@ -341,7 +342,7 @@ def main():
                         'pseudo_class_total': dict(pseudo_class_total)
                     })
                 
-                results_filepath = os.path.join(results_dir, f"{model_name.replace('/', '_')}_{dataset_name}_results.json")
+                results_filepath = os.path.join(results_dir, f"{model_name.replace('/', '_')}_{gpt_model}_{dataset_name}_results.json")
                 with open(results_filepath, 'w') as f:
                     json.dump(results, f, indent=4)
                 print(f"Results saved to {results_filepath}")
