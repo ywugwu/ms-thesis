@@ -27,7 +27,7 @@ consistency_scorer:
 experiment_params:
   batch_size: 64
   knn_batch_size: 1024
-  num_captions: 32
+  num_captions: 100
   tsne_perplexity: 30
   tsne_n_iter: 1000
   top_k_classes: 12
