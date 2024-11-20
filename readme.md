@@ -1,6 +1,6 @@
 
 
-## To be able to use openAI API, users must create an `.env` file as:
+## To be able to use openAI API, users must create a simple `.env` file with one-line code:
 
 ```
 OPENAI_API_KEY="skxxxxxxxxxxxxx"
