@@ -140,35 +140,9 @@ def main():
                 {'embedding': emb, 'label': label, 'modality': 'image'}
                 for emb, label in zip(image_embeddings, image_labels)
             ]
-
-            # Handle pseudo images if enabled
-            pseudo_data = None
-            if pseudo_data_flag:
-                print("Processing pseudo images...")
-                # Initialize Dataset and DataLoader for pseudo images
-                pseudo_dataset = PseudoImageDataset(
-                    image_folder=os.path.join(pseudo_images_folder, dataset_name),
-                    class_names=n_classes,
-                    transform=None  # Add transformations if required
-                )
-                pseudo_loader = DataLoader(
-                    pseudo_dataset,
-                    batch_size=batch_size,
-                    shuffle=False,
-                    collate_fn=lambda batch: (list(zip(*batch))[0], list(zip(*batch))[1])  # Custom collate function
-                )
-
-                # Compute embeddings for pseudo images
-                pseudo_embeddings, pseudo_labels = get_image_embeddings(pseudo_loader, model_info, device)
-                # Create pseudo_data entries
-                pseudo_data = [
-                    {'embedding': emb, 'label': label, 'modality': 'pseudo_image'}
-                    for emb, label in zip(pseudo_embeddings, pseudo_labels)
-                ]
-
             # Combine all data modalities
             combined_embeddings, combined_labels, combined_modalities = combine_all_data(
-                descriptive_text_data, standard_text_data, image_data, pseudo_data
+                descriptive_text_data, standard_text_data, image_data, 
             )
 
             # Organize descriptive embeddings per class for consistency scorer
@@ -215,35 +189,6 @@ def main():
                 else:
                     print(f"{class_name}: No samples")
             print(f"\nOverall Zero-Shot Accuracy on Real Images: {real_overall_accuracy:.2%}")
-
-            # Compute zero-shot accuracy on pseudo images
-            if pseudo_data_flag and pseudo_data:
-                print("Computing zero-shot accuracy on pseudo images...")
-                pseudo_per_class_accuracy, pseudo_overall_accuracy, pseudo_class_correct, pseudo_class_total = compute_zero_shot_accuracy_on_pseudo_images(
-                    pseudo_data, text_embeddings, text_labels, batch_size=knn_batch_size
-                )
-
-                # Display per-class accuracies for pseudo images
-                print("\nPer-Class Zero-Shot Accuracy on Pseudo Images (Using Alternative Captions):")
-                for class_name in n_classes:
-                    accuracy = pseudo_per_class_accuracy.get(class_name)
-                    if accuracy is not None:
-                        print(f"{class_name}: {accuracy:.2%} ({pseudo_class_correct[class_name]}/{pseudo_class_total[class_name]})")
-                    else:
-                        print(f"{class_name}: No samples")
-                print(f"\nOverall Zero-Shot Accuracy on Pseudo Images: {pseudo_overall_accuracy:.2%}")
-
-                # Compare and correlate accuracies
-                actual_accuracies, pseudo_accuracies, filtered_labels = compare_and_correlate_accuracies(
-                    real_per_class_accuracy, pseudo_per_class_accuracy, n_classes
-                )
-
-                # Plot comparison of accuracies
-                plot_comparison_accuracies(
-                    actual_accuracies, pseudo_accuracies, filtered_labels,
-                    title='Zero-Shot Accuracies on Pseudo Images vs. Actual Accuracies',
-                    save_path=plotfile_path
-                )
 
             # KNN Classification on descriptive_text_embeddings
             print("Performing KNN classification...")
@@ -310,13 +255,11 @@ def main():
             if save_results_flag:
                 real_accuracies = [real_per_class_accuracy[label] for label in n_classes]
                 knn_probabilities = [knn_per_class_probabilities[label] for label in n_classes]
-                pseudo_accuracies = [pseudo_per_class_accuracy[label] for label in n_classes] if pseudo_data_flag and pseudo_data else None
                 mae_between_actual_and_knn_probabilities = np.mean(np.abs(np.array(real_accuracies) - np.array(knn_probabilities)))
                 mae_between_actual_and_constant_probabilities = np.mean(np.abs(np.array(real_accuracies) - 0.5))
 
                 
                 results = {
-                    'corr_between_actual_and_pseudo_accuracies': spearmanr(real_accuracies, pseudo_accuracies).correlation if pseudo_data_flag and pseudo_data else None,
                     'corr_betweem_actual_accuracies_and_knn_probabilities': spearmanr(real_accuracies, knn_probabilities).correlation,
                     'mae': mae_between_actual_and_knn_probabilities,
                     'mase_baseline': mae_between_actual_and_constant_probabilities,
@@ -333,14 +276,6 @@ def main():
                         results[f'corr_between_{key}_and_accuracy'] = correlation
                         print(f"Correlation between {key} and actual accuracies: {correlation:.4f}")
 
-                    
-                if pseudo_data_flag and pseudo_data:
-                    results.update({
-                        'pseudo_per_class_accuracy': pseudo_per_class_accuracy,
-                        'pseudo_overall_accuracy': pseudo_overall_accuracy,
-                        'pseudo_class_correct': dict(pseudo_class_correct),
-                        'pseudo_class_total': dict(pseudo_class_total)
-                    })
                 
                 results_filepath = os.path.join(results_dir, f"{model_name.replace('/', '_')}_{gpt_model}_{dataset_name}_results.json")
                 with open(results_filepath, 'w') as f:
@@ -353,9 +288,6 @@ def main():
             del descriptive_text_embeddings, descriptive_text_labels
             del text_embeddings, text_labels
             del image_embeddings, image_labels
-            if pseudo_data_flag and pseudo_data:
-                del pseudo_embeddings, pseudo_labels
-                del pseudo_data
             del real_per_class_accuracy, real_class_correct, real_class_total
             del knn_per_class_probabilities, class_prob_sums, class_counts
             if consistency_scorer_enabled:
