@@ -1,13 +1,13 @@
-,openai_clip-vit-large-patch14 Corr(KNN),openai_clip-vit-large-patch14 Corr(Text Consistency),openai_clip-vit-large-patch14 Corr(Classification Margin),google_siglip-base-patch16-224 Corr(KNN),google_siglip-base-patch16-224 Corr(Text Consistency),google_siglip-base-patch16-224 Corr(Classification Margin),facebook_flava-full Corr(KNN),facebook_flava-full Corr(Text Consistency),facebook_flava-full Corr(Classification Margin)
-CUB,0.393,0.416,0.423,0.496,0.422,0.475,0.439,0.482,0.464
-Cars,0.452,0.407,0.329,0.372,0.277,0.274,0.54,0.552,0.585
-Aircraft,0.403,0.405,0.418,0.514,0.546,0.632,0.261,0.337,0.329
-Food101,0.444,0.403,0.421,0.193,0.127,0.109,-0.015,-0.076,-0.116
-ImageNetV2,0.307,0.238,0.31,0.191,0.114,0.179,0.304,0.085,0.146
-ObjectNet,,,,,,,,,
-SUN397,,,,,,,,,
-VTAB-CIFAR100,0.014,-0.144,-0.107,-0.212,-0.055,-0.124,0.128,0.085,0.153
-Flowers,0.163,0.192,0.193,-0.006,-0.088,-0.036,0.372,0.33,0.276
-VTAB-Pets,0.305,0.221,0.256,0.057,0.091,-0.016,-0.045,-0.072,-0.222
-VTAB-Resisc45,0.344,0.571,0.511,0.005,0.184,0.143,-0.044,0.045,0.117
-Stanford Dogs,,,,,,,,,
+,openai_clip-vit-large-patch14 Corr(KNN),openai_clip-vit-large-patch14 Corr(Text Consistency),openai_clip-vit-large-patch14 Corr(Classification Margin),openai_clip-vit-large-patch14 MAE,google_siglip-base-patch16-224 Corr(KNN),google_siglip-base-patch16-224 Corr(Text Consistency),google_siglip-base-patch16-224 Corr(Classification Margin),google_siglip-base-patch16-224 MAE,facebook_flava-full Corr(KNN),facebook_flava-full Corr(Text Consistency),facebook_flava-full Corr(Classification Margin),facebook_flava-full MAE
+CUB,0.393,0.416,0.423,0.269,0.496,0.422,0.475,0.181,0.439,0.482,0.464,0.266
+Cars,0.452,0.407,0.329,0.2,0.372,0.277,0.274,0.107,0.54,0.552,0.585,0.266
+Aircraft,0.403,0.405,0.418,0.254,0.514,0.546,0.632,0.229,0.261,0.337,0.329,0.151
+Food101,0.444,0.403,0.421,0.217,0.193,0.127,0.109,0.173,-0.015,-0.076,-0.116,0.181
+ImageNetV2,0.307,0.238,0.31,0.214,0.191,0.114,0.179,0.227,0.304,0.085,0.146,0.263
+ObjectNet,,,,,,,,,,,,
+SUN397,,,,,,,,,,,,
+VTAB-CIFAR100,0.014,-0.144,-0.107,0.239,-0.212,-0.055,-0.124,0.261,0.128,0.085,0.153,0.201
+Flowers,0.163,0.192,0.193,0.228,-0.006,-0.088,-0.036,0.289,0.372,0.33,0.276,0.289
+VTAB-Pets,0.305,0.221,0.256,0.118,0.057,0.091,-0.016,0.264,-0.045,-0.072,-0.222,0.22
+VTAB-Resisc45,0.344,0.571,0.511,0.269,0.005,0.184,0.143,0.342,-0.044,0.045,0.117,0.313
+Stanford Dogs,,,,,,,,,,,,
