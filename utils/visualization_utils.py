@@ -102,7 +102,7 @@ def plot_tsne(combined_embeddings, combined_labels, combined_modalities,
               per_class_accuracy, n_classes, top_k=12, selected_modalities=None,
               tsne_perplexity=30, tsne_n_iter=1000, dataset_name='Dataset', save_path=None):
     if selected_modalities is None:
-        selected_modalities = ['text', 'standard', 'image',]
+        selected_modalities = ['text', 'standard', 'image', ]
 
     from adjustText import adjust_text
 
@@ -138,11 +138,15 @@ def plot_tsne(combined_embeddings, combined_labels, combined_modalities,
 
     # Define markers for modalities
     markers = {
-        'GPT-generated Prompt': 'x',
-        'Standard Prompt': 's',
-        'Image': 'o',
+        'text': 'x',
+        'standard': 's',
+        'image': 'o',
     }
-
+    modality_caption = {
+        'text': 'GPT-generated Text',
+        'standard': "Standard Prompt",
+        'image': 'Image',
+    }
     plt.figure(figsize=(18, 18))
 
     # Group data by class and modality for efficient plotting

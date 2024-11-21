@@ -236,7 +236,7 @@ def main():
 
             # t-SNE Visualization
             print("Generating t-SNE visualization...")
-            selected_modalities = ['text', 'standard', 'image', 'pseudo_image']
+            selected_modalities = ['text', 'standard', 'image',]
             plot_tsne(
                 combined_embeddings=combined_embeddings,
                 combined_labels=combined_labels,

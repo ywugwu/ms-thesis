@@ -178,8 +178,8 @@ class CaptionGenerator:
         # traits_str = ', '.join(self.global_traits)
         user_content = (
             f"Please generate {self.num_captions} diverse and creative alternative captions for the subject '{subject}'. "
-            f"Each caption should be compatible with the CLIP model and adhere to the original prompt template provided: '{self.prompt_template}'. "
-            f"Ensure that the captions maintain the structure and format of the template, appropriately replacing any placeholders, while introducing variety in wording and expression."
+            # f"Each caption should be compatible with the CLIP model and adhere to the original prompt template provided: '{self.prompt_template}'. "
+            # f"Ensure that the captions maintain the structure and format of the template, appropriately replacing any placeholders, while introducing variety in wording and expression."
         )
 
         # Construct the messages list

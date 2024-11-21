@@ -1,6 +1,6 @@
 datasets:
-  # - name: NWPU-RESISC45
-  # - name: Stanford_dogs
+  - name: NWPU-RESISC45
+  - name: Stanford_dogs
   - name: CUB_200_2011
   - name: wds_cars
   - name: wds_fgvc_aircraft
@@ -15,10 +15,10 @@ datasets:
 
 
 models:
-  # - name: openai/clip-vit-base-patch32
-  - name: openai/clip-vit-large-patch14
-  - name: google/siglip-base-patch16-224
-  - name: facebook/flava-full
+  - name: openai/clip-vit-base-patch32
+  # - name: openai/clip-vit-large-patch14
+  # - name: google/siglip-base-patch16-224
+  # - name: facebook/flava-full
   # - name: openai/clip-vit-base-patch16
   
 consistency_scorer:
@@ -27,7 +27,7 @@ consistency_scorer:
 experiment_params:
   batch_size: 64
   knn_batch_size: 1024
-  num_captions: 100
+  num_captions: 40
   tsne_perplexity: 30
   tsne_n_iter: 1000
   top_k_classes: 12
