@@ -179,7 +179,8 @@ class CaptionGenerator:
         user_content = (
             f"Please generate {self.num_captions} diverse and creative alternative captions for the subject '{subject}'. "
             # f"Each caption should be compatible with the CLIP model and adhere to the original prompt template provided: '{self.prompt_template}'. "
-            # f"Ensure that the captions maintain the structure and format of the template, appropriately replacing any placeholders, while introducing variety in wording and expression."
+            # f"Ensure that the captions maintain the structure and format of the template, appropriately replacing any placeholders, while introducing variety in wording and expression. "
+            # f"Make sure each caption does not exceed 40 tokens."
         )
 
         # Construct the messages list

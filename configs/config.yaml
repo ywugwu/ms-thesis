@@ -1,7 +1,7 @@
 datasets:
-  - name: NWPU-RESISC45
-  - name: Stanford_dogs
-  - name: CUB_200_2011
+  # - name: NWPU-RESISC45
+  # - name: Stanford_dogs
+  # - name: CUB_200_2011
   - name: wds_cars
   - name: wds_fgvc_aircraft
   - name: wds_food101
@@ -9,7 +9,7 @@ datasets:
   # - name: wds_objectnet # too large
   # # - name: wds_sun397 # too large
   - name: wds_vtab-cifar100
-  - name: Flower102 # - name: wds_vtab-flowers
+  # - name: Flower102 # - name: wds_vtab-flowers
   - name: wds_vtab-pets
   - name: wds_vtab-resisc45
 

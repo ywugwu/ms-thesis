@@ -199,12 +199,13 @@ if __name__ == "__main__":
     
     for clip_dataset_name in clip_datasets:
         try:
-            dataset = get_dataset(clip_dataset_name, "data", split='train')
-            print(f"{clip_dataset_name} classes:", dataset.classes)
-            print(f"{clip_dataset_name} prompt templates:", dataset.prompt_template)
+            dataset = get_dataset(clip_dataset_name, "data", split='test')
+            print(f"{clip_dataset_name} has {len(dataset.classes)} classes.")
+            # print(f"{clip_dataset_name} classes:", dataset.classes)
+            # print(f"{clip_dataset_name} prompt templates:", dataset.prompt_template)
             # Try loading one image            
-            image, class_id = dataset[0]
-            print(f"Loaded image and class_id {class_id} from {clip_dataset_name}")
+            # image, class_id = dataset[0]
+            # print(f"Loaded image and class_id {class_id} from {clip_dataset_name}")
         except Exception as e:
             print(f"Error loading {clip_dataset_name}: {e}")
 
@@ -219,9 +220,10 @@ if __name__ == "__main__":
     for dataset_name, expected_prompt in existing_datasets:
         try:
             dataset = get_dataset(dataset_name, "data")
-            print(f"{dataset_name} classes:", dataset.classes)
-            print(f"{dataset_name} prompt templates:", dataset.prompt_template)
-            image, class_id = dataset[0]
-            print(f"Loaded image and class_id {class_id} from {dataset_name}")
+            print(f"{dataset_name} has {len(dataset.classes)} classes.")
+            # print(f"{dataset_name} classes:", dataset.classes)
+            # print(f"{dataset_name} prompt templates:", dataset.prompt_template)
+            # image, class_id = dataset[0]
+            # print(f"Loaded image and class_id {class_id} from {dataset_name}")
         except Exception as e:
             print(f"Error loading {dataset_name}: {e}")
