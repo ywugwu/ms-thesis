@@ -38,6 +38,9 @@ class CLIPTextConsistencyScorer:
         """
         text_only_consistency_scores = []
         classification_margin_scores = []
+        compactness_separation_scores = []
+        CS_plus_compactness_separation_scores = []
+        CM_plus_compactness_separation_scores = []
 
         num_classes, dim = standard_embeddings.shape
 
@@ -91,7 +94,7 @@ class CLIPTextConsistencyScorer:
             cos_sims_intraclass = np.dot(descriptive_embeddings_c_norm, T_c_norm)  # shape (N_c,)
             min_intraclass_sim = np.min(cos_sims_intraclass)  # scalar
 
-            s_i_E = -max_interclass_sim + min_intraclass_sim  # scalar
+            s_i_E = - max_interclass_sim + min_intraclass_sim  # scalar
 
             # Compute s_k^T and s'_k^T for each descriptive embedding in class c
             s_k_T_list = []
@@ -129,13 +132,20 @@ class CLIPTextConsistencyScorer:
                 s_k_T_prime_list.append(s_k_T_prime)
 
             # Compute final scores for class c
-            S_i = (1 / N_c) * np.sum(s_k_T_list) + s_i_E
-            S_i_prime = (1 / N_c) * np.sum(s_k_T_prime_list) + s_i_E
+            # let us make it seperated
+            S_i = (1 / N_c) * np.sum(s_k_T_list) # + s_i_E
+            S_i_prime = (1 / N_c) * np.sum(s_k_T_prime_list) # + s_i_E
 
             text_only_consistency_scores.append(S_i)
             classification_margin_scores.append(S_i_prime)
+            compactness_separation_scores.append(s_i_E)
+            CS_plus_compactness_separation_scores.append(S_i + s_i_E)
+            CM_plus_compactness_separation_scores.append(S_i_prime + s_i_E)
 
         return {
             "text_only_consistency_scores": text_only_consistency_scores,
             "classification_margin_scores": classification_margin_scores,
+            "compactness_separation_scores": compactness_separation_scores,
+            "CS_plus_compactness_separation_scores": CS_plus_compactness_separation_scores,
+            "CM_plus_compactness_separation_scores": CM_plus_compactness_separation_scores
         }

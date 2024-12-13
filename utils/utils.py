@@ -178,7 +178,8 @@ class CaptionGenerator:
         # traits_str = ', '.join(self.global_traits)
         user_content = (
             f"Please generate {self.num_captions} diverse and creative alternative captions for the subject '{subject}'. "
-            # f"Each caption should be compatible with the CLIP model and adhere to the original prompt template provided: '{self.prompt_template}'. "
+            f"Each caption should be compatible with the CLIP model so your caption should share the same prefix with the original prompt template provided: '{self.prompt_template}'. "
+            "An example can be, the template is 'a photo of a {c}' and the descriptive caption is 'a photo of a {c}, [DESCRIPTIVE CONTENT]'"
             # f"Ensure that the captions maintain the structure and format of the template, appropriately replacing any placeholders, while introducing variety in wording and expression. "
             # f"Make sure each caption does not exceed 40 tokens."
         )
@@ -205,45 +206,6 @@ class CaptionGenerator:
             print(f"An error occurred while generating captions: {e}")
             return []
 
-def plot_consistency_scores(consistency_results, class_names, dataset_name, save_path):
-    """
-    Plots the consistency scores per class.
-
-    Args:
-        consistency_results (dict): Dictionary with score types as keys and lists of scores as values.
-        class_names (list): List of class names corresponding to the scores.
-        dataset_name (str): Name of the dataset for labeling the plot.
-        save_path (str): Directory path to save the plot.
-    """
-    # Extract scores
-    type_1_scores = consistency_results['type_1_text_consistency_score']
-    type_2_scores = consistency_results['type_2_text_consistency_score']
-    type_3_scores = consistency_results['type_3_text_consistency_score']
-
-    # Ensure the length of scores matches the number of classes
-    assert len(type_1_scores) == len(class_names), "Mismatch between number of classes and Type 1 scores."
-    assert len(type_2_scores) == len(class_names), "Mismatch between number of classes and Type 2 scores."
-    assert len(type_3_scores) == len(class_names), "Mismatch between number of classes and Type 3 scores."
-
-    x = np.arange(len(class_names))
-    width = 0.25  # Width of the bars
-
-    plt.figure(figsize=(15, 8))
-    plt.bar(x - width, type_1_scores, width, label='Type 1')
-    plt.bar(x, type_2_scores, width, label='Type 2')
-    plt.bar(x + width, type_3_scores, width, label='Type 3')
-
-    plt.xlabel('Classes')
-    plt.ylabel('Consistency Scores')
-    plt.title(f'Consistency Scores per Class for {dataset_name}')
-    plt.xticks(x, class_names, rotation=90)
-    plt.legend()
-
-    plt.tight_layout()
-    plot_filename = f"{dataset_name}_consistency_scores.png"
-    plt.savefig(os.path.join(save_path, plot_filename))
-    plt.close()
-    print(f"Consistency scores plot saved to {os.path.join(save_path, plot_filename)}")
 
 # Example usage
 if __name__ == "__main__":

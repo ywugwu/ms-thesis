@@ -1,4 +1,5 @@
 # qualitative_analysis.py
+
 import os
 import numpy as np
 import matplotlib.pyplot as plt
@@ -14,6 +15,7 @@ from utils import (
     knn_classification,
     combine_all_data,
     get_image_loader,
+    CLIPTextConsistencyScorer,  # Import the consistency scorer
 )
 import torch
 from torchvision.utils import save_image
@@ -52,6 +54,10 @@ def main():
             # Load the model
             print(f"Loading model: {model_name}")
             model_info = load_model(model_name)
+
+            # Initialize the consistency scorer
+            print("Initializing CLIPTextConsistencyScorer...")
+            consistency_scorer = CLIPTextConsistencyScorer(device=device)
 
             # Load the dataset
             print(f"Loading dataset: {dataset_name}")
@@ -107,6 +113,27 @@ def main():
                 descriptive_text_data, standard_text_data, image_data,
             )
 
+            # Organize descriptive embeddings per class for consistency scorer
+            descriptive_text_embeddings_per_class = []
+            class_to_descriptive_embeddings = defaultdict(list)
+            print("Organizing descriptive embeddings per class...")
+            for emb, label in tqdm(zip(descriptive_text_embeddings, descriptive_text_labels)):
+                class_to_descriptive_embeddings[label].append(emb)
+            for class_name in n_classes:
+                embeddings = class_to_descriptive_embeddings[class_name]
+                if embeddings:
+                    descriptive_text_embeddings_per_class.append(np.stack(embeddings))
+                else:
+                    # Append an empty array if no descriptive embeddings exist for the class
+                    descriptive_text_embeddings_per_class.append(np.empty((0, text_embeddings.shape[1])))
+
+            # Compute consistency scores
+            print("Computing consistency scores...")
+            consistency_scores = consistency_scorer.compute(
+                standard_embeddings=text_embeddings,  # Shape: (C, D)
+                descriptive_text_embeddings=descriptive_text_embeddings_per_class  # List of C tensors, each (N_c, D)
+            )
+
             # Compute zero-shot accuracy on real images
             print("Computing zero-shot accuracy on real images...")
             real_per_class_accuracy, real_overall_accuracy, real_class_correct, real_class_total = compute_zero_shot_accuracy(
@@ -154,7 +181,7 @@ def main():
             real_accuracies = np.array([real_per_class_accuracy.get(cls, 0.0) for cls in n_classes])
             knn_probabilities = np.array([knn_per_class_probabilities.get(cls, 0.0) for cls in n_classes])
 
-            # Create 2D plot to visualize
+            # Create 2D plot to visualize KNN probabilities vs actual accuracies
             plt.figure(figsize=(8,6))
             plt.scatter(knn_probabilities, real_accuracies)
             for i, cls in enumerate(n_classes):
@@ -169,25 +196,21 @@ def main():
             plt.close()
             print(f"Scatter plot saved to {plot_path}")
 
-            # Define thresholds for high and low (using medians)
+            # Define thresholds for KNN probabilities
             knn_threshold = np.median(knn_probabilities)
-            acc_threshold = np.median(real_accuracies)
-
-            # define high acc threshold and low acc threshold
+            # Use fixed thresholds for accuracies
             high_acc_threshold = 0.8
             low_acc_threshold = 0.2
-            
-            # Identify classes in each case
-            # Case 1: High KNN probabilities and high real zero-shot accuracy
-            case1_indices = np.where((knn_probabilities >= knn_threshold) & (real_accuracies >= high_acc_threshold))[0]
-            # Case 2: High KNN probabilities and low real zero-shot accuracy
-            case2_indices = np.where((knn_probabilities >= knn_threshold) & (real_accuracies < low_acc_threshold))[0]
 
-            
+            # Identify classes in each case for KNN probabilities
+            # Case 1: High KNN probabilities and high real zero-shot accuracy
+            case1_indices_knn = np.where((knn_probabilities >= knn_threshold) & (real_accuracies >= high_acc_threshold))[0]
+            # Case 2: High KNN probabilities and low real zero-shot accuracy
+            case2_indices_knn = np.where((knn_probabilities >= knn_threshold) & (real_accuracies < low_acc_threshold))[0]
             # Case 3: Low KNN probabilities and high real zero-shot accuracy
-            case3_indices = np.where((knn_probabilities < knn_threshold) & (real_accuracies >= high_acc_threshold))[0]
+            case3_indices_knn = np.where((knn_probabilities < knn_threshold) & (real_accuracies >= high_acc_threshold))[0]
             # Case 4: Low KNN probabilities and low real zero-shot accuracy
-            case4_indices = np.where((knn_probabilities < knn_threshold) & (real_accuracies < low_acc_threshold))[0]
+            case4_indices_knn = np.where((knn_probabilities < knn_threshold) & (real_accuracies < low_acc_threshold))[0]
 
             # Function to select the class based on KNN probabilities
             def select_class_by_knn(indices, knn_probs, real_accs, select_knn_max, select_acc_max):
@@ -211,34 +234,34 @@ def main():
                     selected_idx = extreme_knn_indices[0]
                 return selected_idx
 
-            # Select classes for each case
+            # Select classes for each KNN case
             # Case 1: High KNN probabilities and high real zero-shot accuracy
-            case1_class_idx = select_class_by_knn(
-                case1_indices, knn_probabilities, real_accuracies, select_knn_max=True, select_acc_max=True)
+            case1_class_idx_knn = select_class_by_knn(
+                case1_indices_knn, knn_probabilities, real_accuracies, select_knn_max=True, select_acc_max=True)
 
             # Case 2: High KNN probabilities and low real zero-shot accuracy
-            case2_class_idx = select_class_by_knn(
-                case2_indices, knn_probabilities, real_accuracies, select_knn_max=True, select_acc_max=False)
+            case2_class_idx_knn = select_class_by_knn(
+                case2_indices_knn, knn_probabilities, real_accuracies, select_knn_max=True, select_acc_max=False)
 
             # Case 3: Low KNN probabilities and high real zero-shot accuracy
-            case3_class_idx = select_class_by_knn(
-                case3_indices, knn_probabilities, real_accuracies, select_knn_max=False, select_acc_max=True)
+            case3_class_idx_knn = select_class_by_knn(
+                case3_indices_knn, knn_probabilities, real_accuracies, select_knn_max=False, select_acc_max=True)
 
             # Case 4: Low KNN probabilities and low real zero-shot accuracy
-            case4_class_idx = select_class_by_knn(
-                case4_indices, knn_probabilities, real_accuracies, select_knn_max=False, select_acc_max=False)
+            case4_class_idx_knn = select_class_by_knn(
+                case4_indices_knn, knn_probabilities, real_accuracies, select_knn_max=False, select_acc_max=False)
 
             # For each selected class, retrieve images and save them
-            selected_cases = [
-                ('High KNN, High Acc', case1_class_idx),
-                ('High KNN, Low Acc', case2_class_idx),
-                ('Low KNN, High Acc', case3_class_idx),
-                ('Low KNN, Low Acc', case4_class_idx),
+            selected_cases_knn = [
+                ('High KNN, High Acc', case1_class_idx_knn),
+                ('High KNN, Low Acc', case2_class_idx_knn),
+                ('Low KNN, High Acc', case3_class_idx_knn),
+                ('Low KNN, Low Acc', case4_class_idx_knn),
             ]
 
-            metadata = []
+            metadata_knn = []
 
-            for case_name, class_idx in selected_cases:
+            for case_name, class_idx in selected_cases_knn:
                 if class_idx is None:
                     print(f"No class found for case: {case_name}")
                     continue
@@ -263,7 +286,7 @@ def main():
                 print(f"Images for class {class_name} saved to {images_dir}")
 
                 # Append metadata
-                metadata.append({
+                metadata_knn.append({
                     'case': case_name,
                     'class_name': class_name,
                     'knn_probability': float(knn_prob),
@@ -273,11 +296,124 @@ def main():
                     'dataset_name': dataset_name,
                 })
 
-            # Save metadata to JSON file
-            metadata_filepath = os.path.join(qualitative_dir, f"{model_name.replace('/', '_')}_{dataset_name}_metadata.json")
-            with open(metadata_filepath, 'w') as f:
-                json.dump(metadata, f, indent=4)
-            print(f"Metadata saved to {metadata_filepath}")
+            # Save KNN metadata to JSON file
+            metadata_filepath_knn = os.path.join(qualitative_dir, f"{model_name.replace('/', '_')}_{dataset_name}_metadata_knn.json")
+            with open(metadata_filepath_knn, 'w') as f:
+                json.dump(metadata_knn, f, indent=4)
+            print(f"KNN metadata saved to {metadata_filepath_knn}")
+
+            # Now perform the same process for each consistency score
+            for score_key in consistency_scores:
+                print(f"\nProcessing consistency score: {score_key}")
+                scores = np.array(consistency_scores[score_key])  # Scores per class
+                # Ensure that scores are aligned with class names
+                if scores.shape[0] != len(n_classes):
+                    print(f"Error: Number of scores ({scores.shape[0]}) does not match number of classes ({len(n_classes)})")
+                    continue
+
+                # Define thresholds for consistency scores
+                score_threshold = np.median(scores)
+
+                # Identify classes in each case for the current consistency score
+                # Case 1: High consistency score and high real zero-shot accuracy
+                case1_indices_score = np.where((scores >= score_threshold) & (real_accuracies >= high_acc_threshold))[0]
+                # Case 2: High consistency score and low real zero-shot accuracy
+                case2_indices_score = np.where((scores >= score_threshold) & (real_accuracies < low_acc_threshold))[0]
+                # Case 3: Low consistency score and high real zero-shot accuracy
+                case3_indices_score = np.where((scores < score_threshold) & (real_accuracies >= high_acc_threshold))[0]
+                # Case 4: Low consistency score and low real zero-shot accuracy
+                case4_indices_score = np.where((scores < score_threshold) & (real_accuracies < low_acc_threshold))[0]
+
+                # Function to select the class based on consistency scores
+                def select_class_by_score(indices, scores, real_accs, select_score_max, select_acc_max):
+                    if len(indices) == 0:
+                        return None
+                    # Select indices with extreme consistency score
+                    if select_score_max:
+                        extreme_score_value = np.max(scores[indices])
+                    else:
+                        extreme_score_value = np.min(scores[indices])
+                    extreme_score_indices = indices[scores[indices] == extreme_score_value]
+                    # Among these, select based on zero-shot accuracy
+                    if len(extreme_score_indices) > 1:
+                        if select_acc_max:
+                            extreme_acc_value = np.max(real_accs[extreme_score_indices])
+                        else:
+                            extreme_acc_value = np.min(real_accs[extreme_score_indices])
+                        selected_indices = extreme_score_indices[real_accs[extreme_score_indices] == extreme_acc_value]
+                        selected_idx = selected_indices[0]  # Take the first one if multiple
+                    else:
+                        selected_idx = extreme_score_indices[0]
+                    return selected_idx
+
+                # Select classes for each case
+                # Case 1: High score, high accuracy
+                case1_class_idx_score = select_class_by_score(
+                    case1_indices_score, scores, real_accuracies, select_score_max=True, select_acc_max=True)
+
+                # Case 2: High score, low accuracy
+                case2_class_idx_score = select_class_by_score(
+                    case2_indices_score, scores, real_accuracies, select_score_max=True, select_acc_max=False)
+
+                # Case 3: Low score, high accuracy
+                case3_class_idx_score = select_class_by_score(
+                    case3_indices_score, scores, real_accuracies, select_score_max=False, select_acc_max=True)
+
+                # Case 4: Low score, low accuracy
+                case4_class_idx_score = select_class_by_score(
+                    case4_indices_score, scores, real_accuracies, select_score_max=False, select_acc_max=False)
+
+                # For each selected class, retrieve images and save them
+                selected_cases_score = [
+                    ('High Consistency, High Acc', case1_class_idx_score),
+                    ('High Consistency, Low Acc', case2_class_idx_score),
+                    ('Low Consistency, High Acc', case3_class_idx_score),
+                    ('Low Consistency, Low Acc', case4_class_idx_score),
+                ]
+
+                metadata_score = []
+
+                for case_name, class_idx in selected_cases_score:
+                    if class_idx is None:
+                        print(f"No class found for case: {case_name}")
+                        continue
+                    class_name = n_classes[class_idx]
+                    score_value = scores[class_idx]
+                    real_acc = real_accuracies[class_idx]
+
+                    print(f"Case: {case_name}")
+                    print(f"Class: {class_name}, Consistency Score: {score_value:.4f}, Zero-Shot Acc: {real_acc:.4f}")
+
+                    # Retrieve sample images
+                    class_images = get_images_for_class(dataset, class_name, num_images=5)
+
+                    # Save images and collect metadata
+                    images_dir = os.path.join(qualitative_dir, f"{model_name.replace('/', '_')}_{dataset_name}_{score_key}_{case_name.replace(' ', '_')}")
+                    os.makedirs(images_dir, exist_ok=True)
+                    image_filenames = []
+                    for i, img in enumerate(class_images):
+                        img_save_path = os.path.join(images_dir, f"{class_name}_{i}.png")
+                        save_image(img, img_save_path)
+                        image_filenames.append(img_save_path)
+                    print(f"Images for class {class_name} saved to {images_dir}")
+
+                    # Append metadata
+                    metadata_score.append({
+                        'case': case_name,
+                        'class_name': class_name,
+                        'consistency_score': float(score_value),
+                        'zero_shot_accuracy': float(real_acc),
+                        'consistency_score_type': score_key,
+                        'images': image_filenames,
+                        'model_name': model_name,
+                        'dataset_name': dataset_name,
+                    })
+
+                # Save consistency score metadata to JSON file
+                metadata_filepath_score = os.path.join(qualitative_dir, f"{model_name.replace('/', '_')}_{dataset_name}_metadata_{score_key}.json")
+                with open(metadata_filepath_score, 'w') as f:
+                    json.dump(metadata_score, f, indent=4)
+                print(f"Metadata for {score_key} saved to {metadata_filepath_score}")
 
 def get_images_for_class(dataset, class_name, num_images=5):
     # Get indices of images for the class

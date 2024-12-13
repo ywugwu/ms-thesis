@@ -24,6 +24,7 @@ from utils import (
     combine_all_data,
     plot_consistency_scores,  # Ensure this is defined in utils.py
     CLIPTextConsistencyScorer,
+    plot_consistency_scores,
 )
 
 import numpy as np
@@ -233,7 +234,17 @@ def main():
                 title=f'KNN on {dataset_name}',
                 save_path=plotfile_path
             )
-
+            # Plot comparison of accuracies
+            if consistency_scorer_enabled and consistency_scores:
+                print("Plotting consistency scores vs actual accuracies...")
+                plot_title = f"Consistency Scores vs Actual Accuracies for {dataset_name}"
+                plot_consistency_scores(
+                    consistency_scores=consistency_scores,
+                    real_per_class_accuracy=real_per_class_accuracy,
+                    n_classes=n_classes,
+                    title=plot_title,
+                    save_path=plotfile_path
+                )
             # t-SNE Visualization
             print("Generating t-SNE visualization...")
             selected_modalities = ['text', 'standard', 'image',]

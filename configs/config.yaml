@@ -1,15 +1,15 @@
 datasets:
-  # - name: NWPU-RESISC45
-  # - name: Stanford_dogs
-  # - name: CUB_200_2011
+  - name: NWPU-RESISC45
+  - name: Stanford_dogs
+  - name: CUB_200_2011
   - name: wds_cars
   - name: wds_fgvc_aircraft
   - name: wds_food101
   - name: wds_imagenetv2
-  # - name: wds_objectnet # too large
-  # # - name: wds_sun397 # too large
+  - name: wds_objectnet # too large
+  - name: wds_sun397 # too large
   - name: wds_vtab-cifar100
-  # - name: Flower102 # - name: wds_vtab-flowers
+  - name: Flower102 # - name: wds_vtab-flowers
   - name: wds_vtab-pets
   - name: wds_vtab-resisc45
 
@@ -27,7 +27,7 @@ consistency_scorer:
 experiment_params:
   batch_size: 64
   knn_batch_size: 1024
-  num_captions: 40
+  num_captions: 35
   tsne_perplexity: 30
   tsne_n_iter: 1000
   top_k_classes: 12

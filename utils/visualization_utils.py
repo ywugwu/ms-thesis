@@ -198,3 +198,51 @@ def plot_tsne(combined_embeddings, combined_labels, combined_modalities,
         plt.savefig(os.path.join(save_path, 'tsne_visualization.pdf'))
     else:
         plt.show()
+
+
+def plot_consistency_scores(consistency_scores, real_per_class_accuracy, n_classes, title, save_path=None):
+    """
+    Plot consistency scores vs actual accuracies.
+
+    Args:
+        consistency_scores (dict): Dictionary containing consistency scores per class. Each key corresponds to a consistency score type, and the values are lists of scores per class.
+        real_per_class_accuracy (dict): Dictionary containing actual accuracies per class.
+        n_classes (list): List of class names.
+        title (str): Title for the plot.
+        save_path (str, optional): Path to save the plot. If None, the plot is shown.
+    """
+    for key in consistency_scores:
+        # Initialize lists
+        actual_accuracies_list = []
+        consistency_scores_list = []
+        labels_list = []
+
+        for idx, class_name in enumerate(n_classes):
+            actual_accuracy = real_per_class_accuracy.get(class_name)
+            consistency_score = consistency_scores[key][idx]  # Assuming same order as n_classes
+            if actual_accuracy is not None and consistency_score is not None:
+                actual_accuracies_list.append(actual_accuracy)
+                consistency_scores_list.append(consistency_score)
+                labels_list.append(class_name)
+            else:
+                # Skip if data is missing
+                pass
+
+        # Plot consistency scores vs actual accuracies
+        plt.figure(figsize=(10, 6))
+        plt.scatter(consistency_scores_list, actual_accuracies_list, color='blue', alpha=0.6)
+        plt.xlabel(f'{key.replace("_", " ").title()}')
+        plt.ylabel('Actual Zero-Shot Accuracy')
+        plt.title(f'{title} - {key.replace("_", " ").title()}')
+        plt.grid(True)
+        plt.tight_layout()
+        if save_path:
+            plt.savefig(os.path.join(save_path, f'consistency_score_{key}.pdf'))
+            plt.close()
+        else:
+            plt.show()
+
+        # Compute Spearman correlation
+        spearman_corr, p_value = spearmanr(actual_accuracies_list, consistency_scores_list)
+        print(f"\nSpearman Correlation between {key} and Actual Accuracy: {spearman_corr:.4f}")
+        print(f"P-value: {p_value:.4e}")

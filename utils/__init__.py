@@ -21,8 +21,9 @@ from .visualization_utils import (
     plot_accuracy_correlation,
     plot_comparison_accuracies,
     plot_knn_vs_actual_accuracies,
-    plot_tsne
+    plot_tsne,
+    plot_consistency_scores,
 )
 from .dataset import get_dataset
-from .utils import CaptionGenerator, plot_consistency_scores
+from .utils import CaptionGenerator
 from .legacy import CLIPTextConsistencyScorer
